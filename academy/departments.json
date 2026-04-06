@@ -1,0 +1,20 @@
+{
+  "departments": [
+    { "code": "BREW", "name": "Brewing Arts",           "division": "Craft Arts" },
+    { "code": "COFF", "name": "Coffee Arts",            "division": "Craft Arts" },
+    { "code": "COOK", "name": "Culinary Arts",          "division": "Craft Arts" },
+    { "code": "GAME", "name": "Game Design",            "division": "Craft Arts" },
+    { "code": "MUSC", "name": "Music Theory & Practice","division": "Performing Arts" },
+    { "code": "CHEM", "name": "Chemistry",              "division": "Sciences" },
+    { "code": "FERN", "name": "Fermentation Science",   "division": "Sciences" },
+    { "code": "DATA", "name": "Data Systems",           "division": "Engineering" },
+    { "code": "KAFK", "name": "Apache Kafka",           "division": "Engineering" },
+    { "code": "PROG", "name": "Programming & Systems",  "division": "Engineering" },
+    { "code": "ECON", "name": "Economics",              "division": "Social Sciences" },
+    { "code": "PLSC", "name": "Political Science",      "division": "Social Sciences" },
+    { "code": "HIST", "name": "History",                "division": "Humanities" },
+    { "code": "LITR", "name": "Literary Studies",       "division": "Humanities" },
+    { "code": "PHIL", "name": "Philosophy",             "division": "Humanities" },
+    { "code": "WRIT", "name": "Writing & Rhetoric",     "division": "Humanities" }
+  ]
+}

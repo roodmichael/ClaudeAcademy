@@ -1,0 +1,15 @@
+{
+  "courses": [
+    {
+      "code": "COFF-100",
+      "title": "Home Coffee Roasting — Foundations",
+      "department": "COFF",
+      "level": 100,
+      "sessions": 8,
+      "prerequisites": [],
+      "description": "An introductory course in home coffee roasting covering the full arc from green bean to evaluated cup. Students learn the history and culture of specialty coffee, how to select and source green beans, the chemistry and mechanics of the roasting process, equipment options for beginners, and how to taste and evaluate their work systematically. The course culminates in a three-roast capstone project.",
+      "status": "active",
+      "created": "2026-04-05"
+    }
+  ]
+}

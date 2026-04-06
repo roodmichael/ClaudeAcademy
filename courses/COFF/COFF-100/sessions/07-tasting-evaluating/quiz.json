@@ -1,0 +1,66 @@
+{
+  "session": "07",
+  "course": "COFF-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "In the SCA cupping protocol, what is the purpose of 'breaking the crust' at the 4-minute mark?",
+      "options": [
+        "A. To ensure the grounds sink to the bottom before tasting",
+        "B. To release and inhale the peak aroma — the most aromatic moment of the cupping",
+        "C. To cool the coffee faster so tasting can begin sooner",
+        "D. To mix the coffee and water evenly after the steep"
+      ],
+      "answer": "B",
+      "explanation": "Breaking the crust — the floating layer of grounds — at 4 minutes releases a concentrated burst of aroma. Leaning in to inhale at this moment gives the most accurate and intense sense of the coffee's aromatic profile. It is one of the most informative moments in the cupping process."
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "question": "Acidity in coffee is the same as sourness — both indicate a problem with the roast.",
+      "answer": false,
+      "explanation": "Acidity and sourness are different. Acidity is a positive attribute: the bright, clean, fruit-like quality that makes a cup lively and interesting. Sourness is a defect: an unpleasant, sharp, or harsh quality that usually indicates underdevelopment (insufficient roasting). A well-made light roast has high acidity; a poorly developed roast may be sour. The distinction is important for diagnosing roast results."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "A cupper notes that a coffee tastes 'flat and watery — low acidity, no sweetness, minimal body, and a hollow finish.' Using the flavor defect map, what is the most likely roasting cause?",
+      "options": [
+        "A. The roast was overdeveloped — too much time past second crack",
+        "B. The beans were not preheated before roasting",
+        "C. The roast was underdeveloped — ended before first crack was complete",
+        "D. The drying phase was too slow, producing a baked roast"
+      ],
+      "answer": "D",
+      "explanation": "Flat, low-acidity, hollow, and lacking sweetness or body is the signature of a baked roast — caused by a drying phase that progressed too slowly, losing momentum. The roast never developed sufficient energy for the Maillard reaction and caramelization to build flavor. Underdevelopment (stopped before first crack ends) typically produces sourness and grassiness, not flatness."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "The SCA Coffee Taster's Flavor Wheel is organized from the center outward. What is the correct way to use it when evaluating a cup?",
+      "options": [
+        "A. Start at the outer ring with specific descriptors, then confirm by working inward",
+        "B. Start at the center with broad flavor families, then move outward toward specific descriptors",
+        "C. Use the wheel as a checklist, identifying every descriptor present in the cup",
+        "D. Select one descriptor from the outer ring before tasting to use as a hypothesis to test"
+      ],
+      "answer": "B",
+      "explanation": "The flavor wheel is designed to be used from center to outside. Start with the broadest categories (fruity? nutty? roasted?) and progressively narrow toward more specific descriptors as you identify them. Using it as a checklist or starting at the outer ring is both overwhelming and methodologically backwards."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "You cup your first home roast and find it tastes primarily of dark chocolate with a pleasant sweetness, good body, and low-to-moderate acidity. You want slightly more brightness next time. Based on Session 07 and what you know about the roasting process, what is ONE specific adjustment you could make to your next roast of the same green coffee?",
+      "sample_answer": "To increase brightness (acidity), I would end the next roast earlier — stopping sooner in the development phase, closer to first crack. More acidity is associated with lighter roasting: less development time preserves the fruit acids and origin character that create a brighter, more lively cup. I would stop approximately 30–45 seconds earlier than my current end point and cup the result comparatively against my current batch to evaluate the difference.",
+      "key_concepts": ["lighter roast = more acidity", "shorter development time", "stop earlier relative to first crack", "single variable adjustment", "comparative cupping"]
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "question": "Cupping fatigue means that tasting more than 10 coffees in a single session requires extra practice to overcome.",
+      "answer": false,
+      "explanation": "Cupping fatigue is a real physiological limitation, not just a matter of practice. After evaluating 5–6 coffees, the palate loses sensitivity and the ability to distinguish between samples diminishes for most people. The recommended limit for cupping sessions is 3–6 samples. Even experienced professional cuppers work within this range to maintain accuracy."
+    }
+  ]
+}

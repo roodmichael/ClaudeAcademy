@@ -1,0 +1,72 @@
+{
+  "session": "04",
+  "course": "COFF-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "The primary goal of the drying phase in coffee roasting is:",
+      "options": [
+        "A. To begin the Maillard reaction and develop flavor",
+        "B. To remove the silverskin (chaff) from the bean",
+        "C. To drive off the bean's moisture content so flavor-creating reactions can begin",
+        "D. To darken the bean to its target roast color"
+      ],
+      "answer": "C",
+      "explanation": "The drying phase removes the 8–12% moisture content from green coffee beans. No significant flavor is created during this stage, but it is critical preparation — the bean must lose its moisture before the Maillard reaction and caramelization can proceed effectively. If drying is skipped or rushed, the exterior scorches before the interior develops properly."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "The Maillard reaction in coffee roasting is a chemical reaction between:",
+      "options": [
+        "A. Carbon dioxide and water vapor inside the bean",
+        "B. Chlorogenic acids and lipids",
+        "C. Amino acids and reducing sugars",
+        "D. Cellulose and heat"
+      ],
+      "answer": "C",
+      "explanation": "The Maillard reaction is a non-enzymatic chemical reaction between amino acids and reducing sugars. It begins around 280°F (140°C) and produces hundreds of new aromatic compounds responsible for the complex flavors and aromas of roasted coffee — caramel, nuts, chocolate, toast, and the classic coffee aroma."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "First crack is an endothermic event — the beans absorb heat from the environment when it occurs.",
+      "answer": false,
+      "explanation": "First crack is an exothermic event. When the pressure inside the bean's cell walls reaches a critical point and the cell walls fracture, the beans release energy (heat) rather than absorbing it. This is one of the reasons the rate of temperature rise can change noticeably at first crack. The drying and browning phases before first crack are endothermic — beans absorbing heat."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "A home roaster ends their roast approximately 30 seconds after first crack begins — before the cracking sounds fully stop. What roast level have they likely produced?",
+      "options": [
+        "A. Dark roast — the early stop concentrates the flavors",
+        "B. Light roast — stopped early in the development phase, preserving acidity and origin character",
+        "C. Medium-dark roast — 30 seconds of development creates a balanced profile",
+        "D. Baked roast — ending before first crack is complete creates a defect"
+      ],
+      "answer": "B",
+      "explanation": "Stopping 30 seconds into first crack, before it has fully completed, produces a very light roast. This preserves origin character — the fruity, floral, or bright acidic notes specific to the bean's origin — at the cost of less body and sweetness development. Light roasts require careful management to avoid underdevelopment (sour, grassy), but when done well they are prized for complexity."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Describe what 'second crack' is, what it signals about the bean, and why specialty coffee roasters generally avoid roasting past this point.",
+      "sample_answer": "Second crack is an audible event occurring around 220°C (428°F) that sounds faster and more hissing than first crack. It is caused by pyrolysis — the heat-induced breakdown of the bean's cellulose and lignin structure. At second crack, the bean's cell structure degrades, surface oils emerge visibly, and the roast begins to strip away the origin character (the distinctive flavors from the bean's region and processing method). Specialty roasters generally stop before second crack because they want to preserve and highlight the unique flavors specific to the bean's origin. Dark-roasted coffees develop a roast-dominated flavor profile (smoky, bitter, charcoal) that masks the terroir qualities specialty coffee aims to celebrate.",
+      "key_concepts": ["second crack", "pyrolysis", "cellulose breakdown", "surface oils", "origin character lost", "specialty roasters stop before second crack"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "A roaster describes their batch as tasting 'flat and papery — like wet cardboard, not coffee at all.' Based on the flavor diagnostic framework from Session 04, what likely went wrong?",
+      "options": [
+        "A. The development phase was too long — the beans over-roasted.",
+        "B. The drying phase was too rushed, scorching the exterior.",
+        "C. The drying phase was too slow, causing the roast to lose momentum and produce a baked result.",
+        "D. First crack was missed and the beans were removed too early."
+      ],
+      "answer": "C",
+      "explanation": "Flat, papery, dull flavor is the hallmark of a 'baked' roast — caused by a drying phase that proceeds too slowly and allows the roast to lose momentum. When the roast stalls (temperature fails to rise steadily), the beans develop without proper energy, and the Maillard reaction proceeds incompletely, resulting in flat, papery flavors rather than the expected complexity."
+    }
+  ]
+}

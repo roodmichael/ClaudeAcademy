@@ -1,0 +1,66 @@
+{
+  "session": "08",
+  "course": "COFF-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "A home roaster has been getting inconsistent results — some batches taste great, others taste baked. They decide to try three changes at once: a new green coffee, a longer preheat, and extending development time by 60 seconds. After the roast, the coffee tastes excellent. What is the problem with this approach?",
+      "options": [
+        "A. Three variables is one too many — only two should be changed at a time.",
+        "B. They cannot know which change (or combination of changes) produced the improvement, making the result hard to repeat or build on.",
+        "C. Changing three variables at once is fine — the result is what matters, not the process.",
+        "D. The extended development time will always dominate the other variables, making them irrelevant."
+      ],
+      "answer": "B",
+      "explanation": "The single-variable principle exists precisely for this situation. When multiple variables change simultaneously, you cannot isolate cause and effect. Even if the result is good, you don't know what caused it — making it impossible to reliably reproduce or to understand what to adjust if future results go wrong. Changing one variable at a time is the discipline that turns experience into learning."
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "question": "A roaster's log shows that their first crack is starting at very different times across batches of the same green coffee — sometimes at minute 6, sometimes at minute 9. What are two likely causes, and what could they standardize to make first crack timing more predictable?",
+      "sample_answer": "Variable first crack timing with the same green coffee usually indicates environmental or setup inconsistency. Two likely causes: (1) inconsistent preheat — if the equipment starts from a different temperature each session, the drying and browning phases take different amounts of time. (2) Batch size variation — if the weight of green coffee loaded varies even slightly, heat absorption changes and crack timing shifts. To standardize: always preheat the equipment for the same amount of time before adding beans, and always weigh the green coffee precisely to the same target weight before each roast.",
+      "key_concepts": ["inconsistent preheat", "batch size variation", "standardize preheat time", "standardize green coffee weight", "single-variable principle"]
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "Refrigerating roasted coffee beans is recommended to extend their freshness, because cold temperatures slow the staling process.",
+      "answer": false,
+      "explanation": "Refrigerating roasted coffee is generally not recommended. The main problem is condensation: each time the beans are removed from the refrigerator and warm up in ambient air, water condenses on their surface, accelerating oxidation and staling. The cold environment also causes the beans to absorb odors from other foods. Roasted coffee should be stored in an airtight container in a cool, dark location at room temperature. Freezing in a vacuum-sealed bag (for long-term storage, thawed only once) is a different matter and can work well."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "A home roaster tells you they've done 20 batches but feel like they're not getting better — every batch tastes similar. What is the MOST LIKELY cause based on Session 08?",
+      "options": [
+        "A. They've reached the limit of what is achievable with home roasting equipment.",
+        "B. Their palate isn't developing because they have a genetic limitation in flavor perception.",
+        "C. They aren't introducing enough variation to learn the range — they're repeating the same process without deliberate contrast.",
+        "D. 20 batches is not enough to develop skill; significant improvement only comes after 100+ roasts."
+      ],
+      "answer": "C",
+      "explanation": "Roasting the same bean the same way 20 times produces 20 nearly identical results. Skill development requires deliberate contrast — deliberately roasting lighter or darker, trying a different origin, or changing batch size — and then comparing the results. Without introducing controlled variation, there's nothing to learn from. The advice in Session 08 is to deliberately roast two comparison batches (same bean, one variable changed) to understand the effect of that variable."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "What is the recommended maximum storage period for roasted whole-bean coffee at room temperature in an airtight container, for optimal flavor?",
+      "options": [
+        "A. 24–48 hours — coffee should be used the day after roasting",
+        "B. 2–4 weeks from roast date",
+        "C. 6 months — roasted coffee keeps well for half a year in a sealed container",
+        "D. 1 year — the same as green coffee storage"
+      ],
+      "answer": "B",
+      "explanation": "Roasted whole-bean coffee is best consumed within 2–4 weeks of the roast date, when stored in an airtight container at room temperature. After this window, oxidation significantly degrades flavor. Dark roasts tend to stale faster (surface oils oxidize quickly); lighter roasts may last slightly longer. Green coffee, by contrast, can store for up to a year — which is one reason home roasting in small batches is so practical."
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "question": "You've completed COFF-100 and roasted several batches. Write a brief description of the complete feedback loop you'll use to keep improving as a home roaster.",
+      "sample_answer": "Before each roast, I review my previous roast log entry and identify the one thing I'm adjusting and why. During the roast, I track time, color, and aroma at regular intervals and record first crack start and end times precisely. After roasting, I weigh and assess the beans, store them properly, and label the container. At 48–72 hours, I conduct a cupping session — at minimum tasting the new batch, ideally comparing it to a previous batch. I record acidity, sweetness, body, aftertaste, and overall impression, then write one specific adjustment plan for the next roast. This loop — roast, observe, taste, adjust, repeat — is how every batch teaches the next one.",
+      "key_concepts": ["pre-roast plan", "in-roast observation and logging", "post-roast weighing and storage", "cupping at 48-72 hours", "one adjustment identified per batch", "the feedback loop is the practice"]
+    }
+  ]
+}

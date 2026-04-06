@@ -1,0 +1,66 @@
+{
+  "session": "02",
+  "course": "COFF-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "What is a coffee bean, anatomically speaking?",
+      "options": [
+        "A. A dried seed extracted from a grass-like plant",
+        "B. The seed inside the fruit (cherry) of the Coffea plant",
+        "C. A type of legume bean closely related to soybeans",
+        "D. The dried outer skin of the coffee cherry"
+      ],
+      "answer": "B",
+      "explanation": "A coffee bean is the seed of the coffee cherry — the small, red or yellow fruit that grows on the Coffea plant. There are typically two seeds per cherry, lying flat against each other inside the fruit."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "Compared to Robusta (Coffea canephora), Arabica coffee (Coffea arabica) generally:",
+      "options": [
+        "A. Contains more caffeine and grows at lower altitudes",
+        "B. Is hardier, higher-yielding, and earthier in flavor",
+        "C. Contains less caffeine, grows at higher altitudes, and has more complex flavor",
+        "D. Is primarily used for instant coffee and mass-market espresso blends"
+      ],
+      "answer": "C",
+      "explanation": "Arabica has lower caffeine than robusta (roughly half), grows at higher altitudes (1,000–2,000m), and produces more complex, fruity, and floral flavor profiles. Robusta is hardier, higher-yielding, and is commonly used in instant coffee and espresso blends for body and cost."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "Green coffee beans should be roasted quickly after purchase because they go stale within a few weeks, just like roasted beans.",
+      "answer": false,
+      "explanation": "Green coffee beans can be stored for up to a year in proper conditions (cool, dark, dry environment) without significant quality loss. This is one of the practical advantages of home roasting — you can buy green coffee in bulk and roast small batches on demand, always ensuring your roasted coffee is fresh."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "Which of the following is NOT a compound found in green coffee that roasting will transform into flavor?",
+      "options": [
+        "A. Sucrose and other reducing sugars",
+        "B. Amino acids",
+        "C. Chlorogenic acids",
+        "D. Carbon monoxide"
+      ],
+      "answer": "D",
+      "explanation": "Green coffee contains sugars, amino acids, chlorogenic acids, lipids, and water — all of which are transformed by the heat of roasting. Carbon monoxide is not a precursor compound in green coffee; CO₂ (carbon dioxide) is released during and after roasting, but carbon monoxide is not a relevant component."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "You receive a bag of green coffee and notice that some beans have turned black and others smell slightly musty. What might this indicate, and what would you do?",
+      "sample_answer": "Black beans typically indicate over-fermentation — a defect that occurred during processing. A musty smell suggests possible moisture damage or mold during storage. Both are quality problems. I would pick out the visibly black beans before roasting, as even a small number can negatively affect the flavor of the entire batch. If most of the bag smells musty, it may be a sign that the green coffee was improperly stored and the whole lot might be compromised.",
+      "key_concepts": ["defects", "black beans / over-fermentation", "musty smell / moisture damage", "hand-sorting before roasting"]
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "question": "A 'peaberry' is a defective coffee bean and should always be discarded.",
+      "answer": false,
+      "explanation": "A peaberry forms when only one seed develops inside the coffee cherry instead of two. The single seed grows rounder than a typical flat-sided bean. Peaberries are not defective — many roasters and consumers prize them for their even, round shape, which some believe leads to more uniform roasting. They are often sold as a specialty product at a premium."
+    }
+  ]
+}

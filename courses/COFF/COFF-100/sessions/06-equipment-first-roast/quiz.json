@@ -1,0 +1,72 @@
+{
+  "session": "06",
+  "course": "COFF-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "When selecting a popcorn popper for home coffee roasting, what is the critical design feature to look for?",
+      "options": [
+        "A. A popper with a screen at the bottom that holds beans in place while hot air rises through them",
+        "B. A side-venting popper where hot air enters from the sides and swirls beans continuously",
+        "C. A popper with a transparent lid so you can observe the beans without interrupting the roast",
+        "D. A popper rated above 2,000 watts for maximum heat output"
+      ],
+      "answer": "B",
+      "explanation": "Side-venting poppers are required for home coffee roasting. Hot air enters from side vents, which swirls the beans continuously and carries chaff upward and out. Bottom-screen poppers let beans rest on the screen without agitation, causing uneven and scorched roasting. Agitation is essential for even heat distribution."
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "question": "It is safe to leave a home roast unattended for a few minutes once you've heard first crack, since the development phase is predictable.",
+      "answer": false,
+      "explanation": "Never leave a roast unattended. Coffee roasting produces smoke, generates heat, and involves flammable chaff. More practically: the development phase from first crack to your target roast level may only last 60–180 seconds. Missing it by even 30 seconds can take a medium roast into dark territory. Active monitoring is required throughout the entire roast."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "Immediately after removing beans from the heat source, why is it essential to stir or agitate them in a colander for several minutes?",
+      "options": [
+        "A. To separate good beans from defective ones using airflow",
+        "B. To allow the beans to absorb oxygen, which develops flavor",
+        "C. Because beans retain significant internal heat and will continue roasting unless cooled rapidly",
+        "D. To remove excess oil that develops on the surface during roasting"
+      ],
+      "answer": "C",
+      "explanation": "Freshly roasted beans retain significant heat in their interior. If left in a pile without cooling, they will continue to roast from their own residual heat, darkening the roast level past your target. Rapid cooling — by agitating in a colander or cooling tray — stops the roast where you intended it to stop."
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "question": "You roast 100g of green coffee and the cooled roasted beans weigh 84g. What is your weight loss percentage, and what does this suggest about your roast level?",
+      "sample_answer": "Weight loss = 100g − 84g = 16g. Weight loss percentage = 16 ÷ 100 × 100 = 16%. A 16% weight loss typically indicates a medium roast. Light roasts tend to lose 12–15% of their weight; medium roasts 15–17%; medium-dark and dark roasts 17–20% or more. So 16% suggests a medium roast, which aligns with a development time of approximately 90 seconds past first crack.",
+      "key_concepts": ["weight loss calculation", "percentage as proxy for roast level", "12-15% = light", "15-17% = medium", "17-20%+ = dark"]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "After completing your first roast and storing the beans, the lesson recommends waiting at least 24 hours before brewing — ideally 48–72 hours. Why?",
+      "options": [
+        "A. The beans need time to cool completely to room temperature before they can be ground.",
+        "B. Freshly roasted beans release CO₂ (degassing), which interferes with extraction and mutes flavors if brewed too soon.",
+        "C. The oils on the bean surface need time to harden before grinding.",
+        "D. Flavors in the bean are not fully developed until 72 hours after roasting."
+      ],
+      "answer": "B",
+      "explanation": "Freshly roasted coffee beans release significant CO₂ (carbon dioxide) during the degassing period — up to 72 hours or more for some coffees. If brewed too soon, this CO₂ creates gassy, flat extractions where the grounds resist absorbing water properly and flavors are muted or distorted. Waiting allows the gas to escape while the flavors stabilize."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "A home roaster discovers that their batch has beans of noticeably uneven color — some medium brown, some lighter, a few darker. This is MOST likely caused by:",
+      "options": [
+        "A. Using arabica beans instead of robusta — arabica roasts unevenly by nature",
+        "B. Overloading the roaster, reducing airflow and preventing consistent heat distribution",
+        "C. Waiting too long after first crack to stop the roast",
+        "D. Using beans that were roasted before from the same batch"
+      ],
+      "answer": "B",
+      "explanation": "Uneven coloring (tipping, scorching, or color variation across a batch) is most commonly caused by overloading the roaster. When too many beans are loaded, they can't move freely, airflow is reduced, and heat distribution becomes uneven. Some beans receive too much heat while others receive too little. Respecting batch size limits is one of the most important variables for consistent results."
+    }
+  ]
+}

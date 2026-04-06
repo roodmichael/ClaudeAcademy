@@ -1,0 +1,72 @@
+{
+  "session": "05",
+  "course": "COFF-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "During a roast, you notice the beans have turned golden-yellow and you can smell something like fresh-baked grain or bread. What stage of the roast are you most likely in?",
+      "options": [
+        "A. Development phase — first crack is about to end",
+        "B. Late browning — Maillard reaction is fully underway",
+        "C. The transition from drying to early browning — moisture has largely driven off and Maillard is beginning",
+        "D. Second crack — the beans are releasing surface oils"
+      ],
+      "answer": "C",
+      "explanation": "Golden-yellow bean color and a fresh grain or bread-like aroma indicate the bean has lost most of its moisture and is entering the early browning phase. This is when the Maillard reaction begins. The 'bread baking' aroma is characteristic of early Maillard chemistry."
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "question": "Second crack sounds louder and more forceful than first crack — like amplified popcorn popping.",
+      "answer": false,
+      "explanation": "Second crack is typically faster and more hissing or crackling in quality — often described as sounding like crinkling paper or rapid spitting — not louder and more forceful. First crack has a more distinct, popcorn-like pop. Second crack is more continuous, rapid, and less individually distinct than first crack."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "A home roaster is using a popcorn popper and hears first crack begin at minute 7 of the roast. They want to produce a medium roast. When should they stop the roast?",
+      "options": [
+        "A. Immediately when first crack starts — that's the medium roast point",
+        "B. At minute 7 plus 30 seconds — medium roast requires only a very short development",
+        "C. Roughly 90 seconds after first crack fully ends — allowing full development for a medium profile",
+        "D. When second crack begins — medium roast requires roasting into second crack"
+      ],
+      "answer": "C",
+      "explanation": "For a medium roast, a reasonable target is approximately 90 seconds after first crack fully ends. Stopping at the start of first crack produces a very light roast. Stopping 30 seconds after first crack starts ends the roast before development is complete. Waiting for second crack takes the roast into dark territory."
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "question": "You're mid-roast when you smell a sharp, acrid, almost burning note — and first crack hasn't started yet. The beans are still tan. What might this mean, and what would you do?",
+      "sample_answer": "A sharp acrid smell before first crack suggests the heat may be too high, potentially scorching the exterior of the beans before the interior has fully developed. This can happen if the roaster temperature is too aggressive during the browning phase. I would try to reduce heat if possible, or note this carefully in my roast log. If I cannot reduce heat on my equipment, I may need to shorten the next roast by adding less time in the preheat phase, or accept this batch may have some scorching and taste accordingly.",
+      "key_concepts": ["scorching", "heat too high before first crack", "acrid smell as warning signal", "adjust heat or log for next time"]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "Why do specialty coffee roasters typically stop the roast before or at the beginning of second crack?",
+      "options": [
+        "A. Second crack means the beans have reached optimal sweetness and must be stopped immediately.",
+        "B. At second crack, pyrolysis begins to break down the bean's structure, replacing origin-specific flavors with roast-dominated flavors like smoke and bitterness.",
+        "C. Second crack indicates the beans have cooled enough to stop the roast safely.",
+        "D. Beans past second crack cannot be ground properly and will damage the grinder."
+      ],
+      "answer": "B",
+      "explanation": "Second crack signals pyrolysis — the structural breakdown of cellulose and lignin in the bean. Past this point, the distinctive flavors from the bean's origin (its terroir, processing method, variety) are progressively replaced by roast-dominant flavors: smoke, charcoal, bitterness. Specialty roasters, who prize origin character, stop before this occurs."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "Which of the following best describes why beginners are advised to target medium to medium-light roast levels for their first roasts?",
+      "options": [
+        "A. Medium roasts require higher temperatures that are easier to maintain with basic equipment.",
+        "B. Medium roasts are the most forgiving — small timing variations don't produce dramatically different or unpleasant results.",
+        "C. Light roasts are more expensive to produce because they require longer roasting times.",
+        "D. Dark roasts are too complex for beginners to produce and always result in defective coffee."
+      ],
+      "answer": "B",
+      "explanation": "Medium to medium-light roasts are recommended for beginners because they offer a wider target window — stopping 60–120 seconds after first crack gives you a reasonable range to hit. Light roasts require precise timing (stopping before development is complete creates sourness), and dark roasts have their own risks. Medium roast is the most forgiving starting point for learning the feel of a roast."
+    }
+  ]
+}

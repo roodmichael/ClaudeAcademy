@@ -1,0 +1,23 @@
+{
+  "code": "COFF-100",
+  "title": "Home Coffee Roasting — Foundations",
+  "department": "COFF",
+  "level": 100,
+  "sessions": 8,
+  "prerequisites": [],
+  "description": "An introductory course in home coffee roasting covering the full arc from green bean to evaluated cup. Students learn the history and culture of specialty coffee, how to select and source green beans, the chemistry and mechanics of the roasting process, equipment options for beginners, and how to taste and evaluate their work systematically. The course culminates in a three-roast capstone project.",
+  "learning_outcomes": [
+    "Explain why freshness makes home-roasted coffee different from store-bought",
+    "Identify major coffee-growing regions and describe how origin and processing method affect flavor",
+    "Describe the three stages of roasting and what happens chemically at each stage",
+    "Recognize first crack and second crack by sound and use them to determine roast level",
+    "Select appropriate equipment for home roasting based on budget and goals",
+    "Conduct a basic home roast using any beginner-appropriate method",
+    "Evaluate roasted coffee using a cupping protocol and flavor vocabulary",
+    "Keep a roasting log that connects decisions to results and supports systematic improvement"
+  ],
+  "template_type": "hobby",
+  "research_quality": "strong",
+  "created": "2026-04-05",
+  "status": "active"
+}

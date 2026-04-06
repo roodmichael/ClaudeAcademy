@@ -1,0 +1,72 @@
+{
+  "session": "03",
+  "course": "COFF-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "The 'coffee belt' refers to:",
+      "options": [
+        "A. A region in Ethiopia where coffee was first discovered",
+        "B. The equatorial band (roughly 25°N to 30°S latitude) where coffee plants thrive",
+        "C. The aisle in a grocery store where coffee products are shelved",
+        "D. The altitude range (1,000–2,000m) where arabica coffee grows best"
+      ],
+      "answer": "B",
+      "explanation": "The coffee belt is the geographic zone around the equator — roughly between 25° north and 30° south latitude — where the climate, rainfall, and temperature conditions support coffee cultivation. Most of the world's arabica and robusta coffee is grown within this zone."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "In the natural (dry) processing method, what happens to the coffee cherry after harvest?",
+      "options": [
+        "A. The cherry skin and pulp are removed by machine immediately, then the beans are fermented in water.",
+        "B. Only the skin is removed; the sticky mucilage is left on the bean during drying.",
+        "C. The whole cherry, fruit and all, is spread out to dry in the sun for weeks.",
+        "D. The cherries are freeze-dried to preserve maximum fruit flavor."
+      ],
+      "answer": "C",
+      "explanation": "In natural (dry) processing, the whole cherry dries in the sun with the fruit intact. Over 3–6 weeks, the fruit's sugars and flavors infuse the bean, resulting in a fruity, sweet, wine-like cup profile. This is the oldest processing method and is still common in Ethiopia and Brazil."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "Washed (wet-processed) coffees tend to taste fruitier and more wine-like than natural-processed coffees from the same region.",
+      "answer": false,
+      "explanation": "The opposite is true. Washed coffees are 'cleaner' — the fruit is removed early, so the cup reflects the bean's intrinsic character with bright acidity and clarity. Natural coffees are fruitier and more wine-like because the fruit dries on the bean, infusing it with sugar and fruit flavors during the drying process."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "A home roaster wants to learn what their roasting decisions are actually doing to the bean's flavor. Which type of green coffee would be the most instructive starting point?",
+      "options": [
+        "A. A natural-processed Brazilian robusta blend",
+        "B. A washed, single-origin arabica from a clearly described region",
+        "C. A pre-blended green coffee from multiple origins",
+        "D. A dark-roast-designated Sumatra intended for espresso"
+      ],
+      "answer": "B",
+      "explanation": "A washed single-origin arabica is the clearest 'signal' for learning. Washed processing means the flavor is almost entirely from the bean itself — not added by fruit fermentation. Single-origin means you can isolate origin flavors. Blends, naturals, and heavily roast-designated coffees all introduce additional variables that make it harder to isolate cause and effect in your roasting."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "A friend tells you they bought green coffee labeled 'Ethiopia Natural' and that it roasted very differently from a 'Colombia Washed' they tried before — the Ethiopian seemed 'sweeter and more complex' before it even got to the same temperature. How would you explain this to them using what you learned in Session 03?",
+      "sample_answer": "Ethiopian natural-processed coffees have been dried with the fruit intact, which infuses the bean with fruit sugars during drying. These sugars respond to heat differently than a washed coffee — they may caramelize earlier or at lower temperatures, contributing sweetness and complexity. The Colombia Washed would behave more cleanly, with fewer added fruit sugars to interact with the heat. Both the processing method (natural vs. washed) and the origin (Ethiopia vs. Colombia) are contributing to the differences they're observing.",
+      "key_concepts": ["natural processing", "fruit sugars infused during drying", "washed process / clean flavor", "processing method affects roasting behavior"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "The term 'terroir,' borrowed from wine, refers to:",
+      "options": [
+        "A. The specific equipment used to roast a coffee",
+        "B. The combination of environmental factors — soil, altitude, climate — that give a coffee its place-based flavor character",
+        "C. The flavor profile created by a specific roasting technique",
+        "D. A French processing method used for high-altitude coffees"
+      ],
+      "answer": "B",
+      "explanation": "Terroir describes the environmental conditions of a place — altitude, soil composition, rainfall, and microclimate — that shape the flavor of an agricultural product. In coffee, terroir is part of why a Kenyan bean tastes different from a Colombian bean, even when roasted identically and to the same level."
+    }
+  ]
+}

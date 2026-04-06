@@ -1,0 +1,66 @@
+{
+  "session": "01",
+  "course": "COFF-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which of the following best describes the primary reason home roasting produces better-tasting coffee than most store-bought coffee?",
+      "options": [
+        "A. Home roasters use higher temperatures than commercial roasters.",
+        "B. Home-roasted coffee is consumed much closer to the roast date, preserving volatile aromatic compounds.",
+        "C. Green coffee beans are a higher quality product than pre-roasted beans.",
+        "D. Store-bought coffee is intentionally made blander to appeal to more people."
+      ],
+      "answer": "B",
+      "explanation": "Freshness is the core value proposition of home roasting. Volatile aromatic compounds — responsible for coffee's complex flavors — begin escaping immediately after roasting. Store-bought coffee may be months old by the time it reaches your cup. Home roasting closes this gap to days."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "The early Arabic coffeehouses known as 'qahveh khaneh' were nicknamed what, because of their role as intellectual and social gathering places?",
+      "options": [
+        "A. Houses of Ceremony",
+        "B. Schools of the Wise",
+        "C. Gardens of Thought",
+        "D. Halls of the Bean"
+      ],
+      "answer": "B",
+      "explanation": "Qahveh khaneh (coffehouses) on the Arabian Peninsula became centers of social, political, and intellectual life. They were nicknamed 'Schools of the Wise' because people gathered there to exchange information, play games, and discuss ideas."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "Green (unroasted) coffee beans typically cost more per pound than equivalent-quality roasted beans from a specialty roaster.",
+      "answer": false,
+      "explanation": "The opposite is true. Green coffee beans are typically 40–60% less expensive per pound than roasted beans of equivalent quality, because they haven't yet had labor, packaging, and roaster margin added to their price. This cost advantage is one of the practical benefits of home roasting."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "Alfred Peet is significant to specialty coffee history primarily because he:",
+      "options": [
+        "A. Invented the espresso machine.",
+        "B. Introduced mass-produced canned coffee to American households.",
+        "C. Challenged commodity coffee norms by emphasizing freshness and craftsmanship, and mentored the founders of Starbucks.",
+        "D. Discovered coffee plants in Ethiopia."
+      ],
+      "answer": "C",
+      "explanation": "Alfred Peet founded Peet's Coffee in Berkeley in 1966 and is credited with starting the quality-focused coffee movement in the US. He directly mentored the founders of Starbucks and is considered the father of specialty coffee in America."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "In your own words: what is the difference between first-wave and third-wave coffee culture? Give one concrete example of each.",
+      "sample_answer": "First-wave coffee prioritizes convenience and mass production — think canned, pre-ground grocery store coffee like Folgers, designed to be consistent and cheap. Third-wave coffee treats coffee like an artisan product — emphasizing specific growing regions, processing methods, and roast transparency. An example might be a specialty roaster listing the exact Ethiopian farm, processing method, and harvest date on their bag.",
+      "key_concepts": ["first wave", "mass production / commodity", "third wave", "origin / transparency / specialty"]
+    },
+    {
+      "id": "q6",
+      "type": "true_false",
+      "question": "Roasting coffee is essentially the same as heating any other food — the main goal is to avoid burning it.",
+      "answer": false,
+      "explanation": "Roasting coffee is a controlled chemical transformation. Heat triggers specific reactions (Maillard reaction, caramelization, and others) that convert chemical precursors in the green bean into the hundreds of aromatic compounds responsible for flavor. The roaster's job is to manage this transformation intentionally — not just avoid burning."
+    }
+  ]
+}
