@@ -5,103 +5,116 @@
 
 ## Overview
 
-You've completed the full arc of COFF-100: from why freshness matters, through the chemistry of the roast, through equipment and execution, through tasting and evaluation, and into the discipline of the feedback loop. The final project asks you to put all of it into practice in one sustained, documented experience.
+You've completed the full arc of COFF-100: from why freshness matters, through the
+chemistry of the roast, through equipment and execution, through tasting and
+evaluation, and into the discipline of the feedback loop.
 
-This is not an exam. It is a capstone project — making something, documenting it thoroughly, and reflecting on what you learned.
+The final project asks you to synthesize that knowledge into a **roast design
+document** — a comprehensive written plan for your first systematic roasting
+practice. This document will serve as your entry point into COFF-100L, where
+you'll execute what you've planned here.
+
+This is not an exam. It is a planning exercise that proves you understand the
+material well enough to make deliberate decisions before you act on them.
 
 ---
 
 ## The Task
 
-**Plan, execute, and evaluate three roasts of the same green coffee. Document each one. Write a reflective summary.**
+**Write a roast design document for your first COFF-100L lab session.**
 
-### Why the Same Coffee, Three Times?
+### Part 1: Bean Profile
 
-Because everything you've learned about single-variable adjustment and the feedback loop only becomes real when you actually iterate. Three roasts of the same bean, with intentional changes between them, will teach you more than five roasts of five different coffees. The goal is to experience improvement — to feel the feedback loop working.
+Describe the green coffee you plan to use (2–3 paragraphs):
+- Origin, region, altitude, processing method, supplier
+- What those factors lead you to expect about its flavor potential, using what
+  you learned in Session 03
+- Why you chose this bean for your first systematic practice
 
----
+### Part 2: Roast Plan
 
-## Detailed Instructions
+Describe your intended first roast in detail (2–3 paragraphs):
+- Target roast level and why — what flavor attributes are you trying to achieve?
+- What you expect to happen during each roasting stage (drying, Maillard/browning,
+  development) based on what you learned in Session 04
+- Where you plan to stop relative to first crack, and what that decision is based on
+- What equipment you're using and any limitations or variables it introduces
 
-### Part 1: Setup and Intent
+### Part 3: Measurement Plan
 
-Before your first roast, write an Intent Document (1–2 paragraphs) that answers:
-- What green coffee did you choose for this project? (Origin, processing method, supplier, freshness)
-- Why did you choose it?
-- What is your target roast level for Roast 1, and what is your reasoning?
-- What flavor profile are you hoping to achieve by the end of three roasts?
+List exactly what you will measure and observe during the roast:
+- Which quantitative measurements you'll track (green weight, roasted weight,
+  roast loss %, time to first crack, development time, DTR)
+- What qualitative observations you'll capture (color, aroma, crack character)
+- How you'll cup and evaluate the result — which attributes you'll assess and
+  what vocabulary you'll use (Session 07)
 
-### Part 2: Three Roasts with Logs
+### Part 4: Success Criteria and Iteration Hypothesis
 
-**Roast 1:** Execute according to your intent document. Complete a full roast log (Session 06 format or your own established format). Wait 48–72 hours, then cup and record full tasting notes (Session 07 format).
-
-**Adjustment 1:** Based on Roast 1 tasting notes, identify ONE specific change for Roast 2. Write it down explicitly: "I'm changing X because I tasted Y in Roast 1, and I believe this change will produce Z."
-
-**Roast 2:** Execute with the single adjustment. Full roast log. Wait 48–72 hours, cup, record tasting notes.
-
-**Adjustment 2:** Same process. One change. Write the reasoning.
-
-**Roast 3:** Execute with the second adjustment. Full roast log. Wait 48–72 hours, cup, record tasting notes.
-
-### Part 3: Reflective Summary
-
-Write a reflective summary (400–600 words) that addresses:
-
-1. **What changed across the three roasts?** Compare the roast logs (crack timing, development time, weight loss %) and the tasting notes (flavor attribute differences). Be specific.
-2. **Did your adjustments produce the intended effects?** If yes — what did that tell you about the roasting process? If no — what might have gone wrong, or what variable did you not account for?
-3. **What surprised you?** One or two observations from this project that you didn't expect and what you make of them.
-4. **What would Roast 4 look like?** If you were doing a fourth roast, what would you change and why?
-5. **What do you now understand about home coffee roasting that you didn't understand before Session 01?** Connect this to at least two specific concepts from the course.
+Answer these questions (1–2 paragraphs):
+- What would a successful Roast 1 look, smell, and taste like? Be specific.
+- What is the one variable you'd most likely adjust for Roast 2, and why?
+  What flavor result would that change be intended to produce?
 
 ---
 
 ## What to Submit
 
-Submit to the Tutor:
-1. **Intent Document** (Part 1)
-2. **Roast Log + Tasting Notes for Roast 1** (including Adjustment 1 reasoning)
-3. **Roast Log + Tasting Notes for Roast 2** (including Adjustment 2 reasoning)
-4. **Roast Log + Tasting Notes for Roast 3**
-5. **Reflective Summary** (Part 3)
-
-Total expected length: 800–1,200 words across all written components. The roast logs themselves are mostly numbers and short observations; the writing effort goes into the adjustments, tasting notes, and reflective summary.
+One cohesive document, submitted to the Tutor. Aim for 600–900 words total.
+Clarity and specificity matter more than length.
 
 ---
 
 ## Evaluation Criteria
 
-- **Execution:** Did the student actually complete three roasts of the same coffee, with documented logs?
-- **Single-variable discipline:** Were adjustments made one at a time, with explicit reasoning stated before each roast?
-- **Tasting quality:** Do the tasting notes use attribute vocabulary (acidity, sweetness, body, aftertaste) and connect to the flavor defect map?
-- **Analytical depth:** Does the reflective summary connect observations to course concepts — not just "it tasted better" but *why* it tasted better based on what they changed?
-- **Intellectual honesty:** Does the student accurately describe failures and surprises, not just successes?
-- **Growth:** Is there evidence of learning across the three roasts — in the logs, the tasting notes, or the reflective analysis?
+- **Bean understanding:** Does the bean profile demonstrate accurate use of origin,
+  processing, and altitude concepts from Sessions 02–03?
+- **Chemistry reasoning:** Does the roast plan connect decisions to the chemistry
+  of roasting stages from Session 04 — not just "I'll stop at light roast" but *why*?
+- **Measurement discipline:** Is the measurement plan complete and specific? Does
+  it reflect the feedback loop principles from Session 08?
+- **Predictive thinking:** Do the success criteria show the student can anticipate
+  outcomes before they happen — not just describe what they hope for?
+- **Vocabulary:** Are terms from across the course used correctly and precisely?
 
 ---
 
 ## Connection to Course Outcomes
 
-| Course Outcome | Where It Appears in This Project |
-|---------------|--------------------------------|
-| Explain why freshness makes home-roasted coffee different | Intent Document — bean selection rationale |
-| Identify growing regions and describe how origin and processing affect flavor | Intent Document — bean choice and expected flavor profile |
-| Describe the three roasting stages and their chemistry | Roast logs — observation of color, aroma, and crack progression |
-| Recognize first crack and second crack | Roast logs — crack timing data |
-| Select appropriate equipment | Setup — equipment used and why |
-| Conduct a basic home roast | The three executed roasts |
-| Evaluate coffee using a cupping protocol and flavor vocabulary | Tasting notes for all three batches |
-| Keep a roasting log connecting decisions to results | Roast logs + adjustment reasoning + reflective summary |
+| Course Outcome | Where It Appears |
+|---------------|-----------------|
+| Explain why freshness makes home-roasted coffee different | Bean profile — sourcing rationale |
+| Identify growing regions and describe how origin and processing affect flavor | Bean profile — flavor potential analysis |
+| Describe the three roasting stages and their chemistry | Roast plan — stage-by-stage expectations |
+| Recognize first crack and use it to determine roast level | Roast plan — stop point reasoning |
+| Select appropriate equipment | Roast plan — equipment section |
+| Evaluate coffee using a cupping protocol and flavor vocabulary | Measurement plan — cupping protocol |
+| Keep a roasting log connecting decisions to results | Measurement plan — quantitative tracking |
+| Conduct a basic home roast | Demonstrated in the midterm; refined here through planning |
 
 ---
 
 ## Tutor Scoring Guide
 
-**Strong response:** Clear intent document showing bean selection reasoning. Three distinct roast logs with real timing data. Tasting notes that use the six-attribute vocabulary (not just "good" or "better"). Adjustment reasoning that explicitly connects taste observation to process variable. Reflective summary that demonstrates genuine analytical thinking — student can explain what happened, not just describe it.
+**Strong response:** Bean profile accurately applies Session 03 vocabulary to a real
+coffee the student owns or plans to buy. Roast plan connects stage expectations to
+Session 04 chemistry with specificity ("during the Maillard phase I expect..."). 
+Measurement plan is complete and reflects Session 08 single-variable discipline.
+Success criteria are specific enough that the student could evaluate them objectively
+after the roast ("I'm looking for roast loss between 12–14%, berry and floral notes,
+medium-low acidity").
 
 **Common weaknesses to watch for:**
-- Only one or two roasts completed — student may be impatient. Acknowledge the work done, but ask them to complete the third roast. The project is specifically designed around the three-roast arc.
-- Adjustments that change multiple variables at once — ask the student to identify which variable they're claiming credit for.
-- Tasting notes that use no attribute vocabulary — ask them to re-cup using the Session 07 protocol and update their notes.
-- Reflective summary that's a recap of the course content rather than their personal experience — ask "what did *you* learn that surprised you?" and draw out the personal insight.
+- Bean profile that lists facts without analysis — ask "what does the natural
+  processing tell you to expect in the cup, and why?"
+- Roast plan that describes target roast level without chemistry reasoning — ask
+  them to connect to Sessions 04–05 before proceeding.
+- Success criteria that are vague ("I want it to taste good") — ask them to name
+  three specific flavor attributes they're aiming for and one they're trying to avoid.
+- Measurement plan that omits roast loss % or DTR — these are the core quantitative
+  signals from Session 08; they should be explicit.
 
-**Feedback approach:** Celebrate the total arc — three roasts is real commitment. Identify the single strongest element (usually the adjustment reasoning or a particularly good tasting note). Name the one thing that, if developed further in COFF-101, would most accelerate their growth. Leave the student eager to roast again, not relieved it's over.
+**Feedback approach:** This document is the student's entry point into COFF-100L.
+Feedback should leave them confident and prepared — identify what's strong, sharpen
+what's vague, and close with one specific thing to pay attention to on their first
+lab roast. Frame it as: "You're ready to start COFF-100L. Here's what to watch for."

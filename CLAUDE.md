@@ -20,21 +20,31 @@ academy/
     default/
       profile.json               # Student background and enrolled courses
       progress/{DEPT-###}.json   # Per-course progress, quiz scores, session notes
+      logs/{DEPT-###L}.json      # Per-lab-course log, accumulates all lab entries
 courses/
   {DEPT}/
-    {DEPT-###}/                  # e.g. BREW/BREW-100
+    {DEPT-###}/                  # e.g. COFF/COFF-100 — lecture course
       course.json
       syllabus.md
       sessions/{nn}-{slug}/
       assessments/
       resources/
         research/                # Raw researcher output — never delete
+    {DEPT-###L}/                 # e.g. COFF/COFF-100L — lab companion course
+      course.json
+      syllabus.md
+      lab-log-schema.json        # Defines the schema for this course's log entries
+      labs/{nn}-{slug}/
+        brief.md
+        procedure.md
+        debrief.md
+      assessments/
 .claude/commands/    # Slash command entry points — thin wrappers only
 ```
 
 ---
 
-## The Three Agents
+## The Agents
 
 All substantive work is done by agents. Read the full spec before invoking.
 
@@ -43,8 +53,9 @@ All substantive work is done by agents. Read the full spec before invoking.
 | Researcher | agents/researcher.md | Gathers sourced knowledge via web research |
 | Course Creator | agents/course-creator.md | Builds complete course directories on disk |
 | Tutor | agents/tutor.md | Delivers sessions and answers questions in context |
+| Lab Instructor | agents/lab-instructor.md | Guides lab sessions, interprets data, writes lab log entries |
 
-Invocation chain: Course Creator spawns Researcher. Commands spawn Course Creator or Tutor.
+Invocation chain: Course Creator spawns Researcher. Commands spawn Course Creator, Tutor, or Lab Instructor.
 No other agent relationships exist.
 
 ---
@@ -60,6 +71,16 @@ No other agent relationships exist.
 - Not every subject needs a 102 — end the series when the material is complete
 - Course session count is determined by material volume, not a fixed template
   Minimum 4 sessions, maximum 12 per course
+
+## Lab Course Rules
+
+- Lab courses use the lecture course code with an "L" suffix: COFF-100 → COFF-100L
+- Lab courses require the corresponding lecture course as a prerequisite
+- Lab courses contain labs/, not sessions/ — each lab has brief.md, procedure.md, debrief.md
+- Lab courses must include a lab-log-schema.json defining the structure of log entries
+- Lab logs are stored per-student at academy/students/{id}/logs/{DEPT-###L}.json
+- Lab courses are delivered by the Lab Instructor agent, not the Tutor
+- Not every lecture course needs a lab companion — only subjects with meaningful hands-on practice
 
 ---
 

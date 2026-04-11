@@ -404,6 +404,8 @@ Use the same format as the midterm, with an added section:
 
 ## Output Contract
 
+### Lecture Course
+
 A complete course directory at `courses/{DEPT}/{DEPT-###}/` containing:
 
 | File | Required |
@@ -420,6 +422,28 @@ A complete course directory at `courses/{DEPT}/{DEPT-###}/` containing:
 | resources/research/ | Yes — preserved from Researcher |
 
 Course registered in academy/catalog.json. Department registered if new.
+
+### Lab Course
+
+A complete lab course directory at `courses/{DEPT}/{DEPT-###L}/` containing:
+
+| File | Required |
+|------|---------|
+| course.json | Yes |
+| syllabus.md | Yes |
+| lab-log-schema.json | Yes — defines the entry schema for this course's lab log |
+| labs/{nn}-{slug}/brief.md | Yes — all labs |
+| labs/{nn}-{slug}/procedure.md | Yes — all labs |
+| labs/{nn}-{slug}/debrief.md | Yes — all labs |
+| assessments/final-project.md | Yes |
+
+The `lab-log-schema.json` must define the full structure of a single log entry for
+this course's domain. It is used by the Lab Instructor to initialize a new log file
+at `academy/students/{id}/logs/{DEPT-###L}.json` on first session. Design it to
+capture the quantitative measurements and qualitative observations that are meaningful
+for this specific subject — there is no universal schema.
+
+Lab courses list the corresponding lecture course as a prerequisite in course.json.
 
 ---
 

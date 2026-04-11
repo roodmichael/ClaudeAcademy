@@ -57,8 +57,8 @@ By the end of this course, you will be able to:
 ## Assessment Plan
 
 - **Session quizzes:** After each session, 4–6 short questions. Low-stakes learning tools — immediate feedback, no grades.
-- **Midterm:** After Session 04 — a practical roast challenge. You will roast one batch and document your process and observations in writing.
-- **Final project:** After Session 08 — a full roast-and-taste project. You will plan, execute, and evaluate three roasts of the same green coffee, document each one, and write a reflective summary of what you learned and what you would do differently.
+- **Midterm:** After Session 06 — a documented first roast. You will execute your first intentional home roast, record a complete roast log, and write tasting notes with analysis connecting your observations to what you've learned.
+- **Final project:** After Session 08 — a roast design document. You will write a comprehensive plan for your first COFF-100L lab session: bean profile, roast plan with chemistry reasoning, measurement plan, and success criteria. This document is your entry point into the lab course.
 
 ## A Note on Pacing
 
