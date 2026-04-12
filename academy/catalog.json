@@ -1,6 +1,17 @@
 {
   "courses": [
     {
+      "code": "PHIL-100",
+      "title": "Classical Philosophy — Foundations",
+      "department": "PHIL",
+      "level": 100,
+      "sessions": 10,
+      "prerequisites": [],
+      "description": "A survey of Western philosophy from its origins in 6th-century Greece through the Hellenistic schools of Rome. Students read primary texts — Plato, Aristotle, Epictetus, Epicurus — and wrestle directly with the questions these thinkers posed: What is the world made of? What can we know? What makes a life worth living? How do we face death? No prior philosophy background required.",
+      "status": "active",
+      "created": "2026-04-12"
+    },
+    {
       "code": "COFF-100L",
       "title": "Home Coffee Roasting — Lab",
       "department": "COFF",

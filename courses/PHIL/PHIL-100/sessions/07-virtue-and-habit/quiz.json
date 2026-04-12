@@ -1,0 +1,53 @@
+{
+  "session": "07",
+  "course": "PHIL-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Aristotle says virtue is a hexis. What does this mean?",
+      "options": [
+        "A. Virtue is a form of knowledge about abstract principles",
+        "B. Virtue is a stable disposition to feel and act appropriately, developed through repeated practice",
+        "C. Virtue is an innate talent that some people are born with",
+        "D. Virtue is a rule that reason imposes on desire"
+      ],
+      "answer": "B",
+      "explanation": "A hexis is a stable state or disposition — not knowledge, not an innate talent, and not a rule. It is built through habituation: repeated right action gradually shapes the character so that right action becomes natural and emotionally appropriate. The virtuous person doesn't just do the right thing; they feel the right way about it too."
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "question": "According to Aristotle's Doctrine of the Mean, the virtuous choice is always exactly halfway between the two extremes.",
+      "answer": false,
+      "explanation": "The mean is relative to circumstances and to the individual, not a fixed mathematical midpoint. What is appropriate for one person in one situation may not be appropriate for another. Aristotle explicitly uses the example of an athletic trainer: the right amount of food for a wrestler is not the average of the minimum and maximum amounts — it depends on the specific person. This is why phronesis (practical wisdom) is needed to find the mean; it cannot be calculated."
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "question": "What is akrasia, and why does Aristotle think it is a problem for Plato's view that virtue is knowledge?",
+      "sample_answer": "Akrasia is weakness of will — acting against one's own better judgment. A person who knows eating the cake is bad for them, and wants not to eat it, but eats it anyway exhibits akrasia. Plato's intellectualist view implies that if you truly knew the good, you would do it — ignorance is the only vice. But akrasia shows that knowledge and action can come apart: people genuinely know what is right and still fail to do it. Aristotle thinks this requires an account of virtue that is not purely about knowledge but about the formation of appropriate emotional dispositions.",
+      "key_concepts": ["weakness of will", "knowledge and action can come apart", "Plato's intellectualism", "emotional formation"]
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "Phronesis (practical wisdom) is best described as:",
+      "options": [
+        "A. Knowledge of universal mathematical and metaphysical truths",
+        "B. The ability to calculate the best outcome in any situation",
+        "C. The capacity to perceive what virtue requires in particular circumstances, developed through experience",
+        "D. Knowledge of Plato's Forms applied to ethical decisions"
+      ],
+      "answer": "C",
+      "explanation": "Phronesis is not rule-following, calculation, or abstract theoretical knowledge. It is a kind of perceptual skill — the ability to read situations correctly and respond with the right virtue in the right degree. It cannot be fully taught from books; it requires lived experience and emotionally mature judgment. Aristotle contrasts it with sophia (theoretical wisdom), which applies to universal and necessary truths."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Briefly describe the tension in Aristotle's ethics between the civic life (Books II–IX) and the contemplative life (Book X). Which does Aristotle ultimately seem to favor?",
+      "sample_answer": "Books II through IX argue that eudaimonia is achieved through civic virtue — courage, justice, friendship, the engaged life of a good citizen. Book X argues that the highest happiness is theōria — sustained philosophical contemplation — which seems to require withdrawal from civic affairs. The tension: if civic virtue is central to flourishing, how can withdrawal from it be the highest life? Aristotle seems to give contemplation the top ranking, calling it most self-sufficient, most continuous, and most divine — though many scholars argue he intends both lives as genuinely good, with contemplation as the peak.",
+      "key_concepts": ["civic virtue vs. contemplation", "self-sufficiency", "theōria as highest", "tension not fully resolved"]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "session": "08",
+  "course": "PHIL-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "According to Epictetus, which of the following is 'up to us' (eph' hēmin)?",
+      "options": [
+        "A. Our physical health",
+        "B. Our reputation among our peers",
+        "C. Our judgments and how we respond to impressions",
+        "D. Whether we receive honors or public recognition"
+      ],
+      "answer": "C",
+      "explanation": "The only things genuinely up to us are our opinions, desires, aversions, and the judgments we make — what Epictetus calls prohairesis, or moral purpose. Health, reputation, honors, and wealth are all in the 'not up to us' column: they can be taken away or denied regardless of what we do."
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "question": "What does Epictetus mean when he says, 'What disturbs men's minds is not events but their judgements on events'? Give an example.",
+      "sample_answer": "Epictetus is saying that the distress we feel about events comes not from the events themselves but from the judgments we attach to them — particularly the judgment that something is bad or harmful. For example: losing a job is an event. The suffering comes from judging that event as a catastrophe that ruins one's life. A person who judged it instead as an opportunity for change would not suffer in the same way. Since judgments are up to us, our responses are more under our control than we typically assume.",
+      "key_concepts": ["impressions vs. judgments", "events are not inherently bad", "we add the evaluation", "control over response"]
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "The Stoics believe that health, wealth, and friendship are completely worthless and should be ignored entirely.",
+      "answer": false,
+      "explanation": "The Stoics categorize health, wealth, and relationships as 'indifferents' — they are neither genuinely good nor genuinely bad. But they further distinguish 'preferred indifferents' (worth pursuing when available) from 'dispreferred indifferents' (worth avoiding when possible). The point is not that health doesn't matter at all, but that it cannot be the foundation of genuine wellbeing. Only virtue can do that."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "Marcus Aurelius's Meditations were written as:",
+      "options": [
+        "A. A public philosophical treatise intended to teach Stoicism to Roman citizens",
+        "B. Private notes to himself, practicing Stoic principles under pressure",
+        "C. A collection of letters to his mentor Epictetus",
+        "D. A political manifesto for governing the Roman Empire according to Stoic ideals"
+      ],
+      "answer": "B",
+      "explanation": "The Meditations were never intended for publication — they were Marcus's private journal, written to remind himself of Stoic principles while serving as emperor. This is part of what makes them remarkable: they are not performed philosophy but genuine practice, revealing a person struggling to apply difficult ideas to real life under enormous pressure."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "How does Stoicism's account of the good life differ from Aristotle's? Identify one key point of agreement and one key point of disagreement.",
+      "sample_answer": "Agreement: both Stoics and Aristotle place virtue at the center of the good life; both believe the good life involves actively exercising rational capacities, not just experiencing pleasant states. Disagreement: Aristotle says external goods — health, friends, a measure of wealth and good luck — are genuine components of eudaimonia; without them, the good life is incomplete. Stoics reject this entirely: virtue is sufficient for happiness; the virtuous person flourishes even in poverty, ill-health, or slavery. This is the Stoics' most radical and distinguishing claim.",
+      "key_concepts": ["virtue as central — agreement", "external goods — disagreement", "sufficiency of virtue", "Aristotle's inclusive view"]
+    }
+  ]
+}

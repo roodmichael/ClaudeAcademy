@@ -1,0 +1,53 @@
+{
+  "session": "03",
+  "course": "PHIL-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Meno's paradox argues that inquiry is impossible because:",
+      "options": [
+        "A. Human beings are too limited to understand abstract truths",
+        "B. Either you already know what you're seeking (no need to seek) or you don't (you can't recognize it when found)",
+        "C. The gods have hidden true knowledge from humans",
+        "D. Language is too imprecise to capture genuine knowledge"
+      ],
+      "answer": "B",
+      "explanation": "Meno's paradox is a logical dilemma: if you know the thing you're seeking, inquiry is unnecessary; if you don't know it, you couldn't recognize it as your target when you encounter it. The paradox threatens to make all inquiry — including Socratic inquiry into virtue — pointless."
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "question": "Explain the theory of recollection (anamnesis) in 2-3 sentences. How does it respond to Meno's paradox?",
+      "sample_answer": "The theory of recollection holds that the soul existed before birth and had knowledge of eternal truths; what we call learning is actually recovering this knowledge through guided questioning. It responds to Meno's paradox by explaining how we can recognize what we're looking for: we're not encountering it for the first time, but recovering something we already knew at a deeper level. The slave-boy demonstration is Plato's illustration: the uneducated boy arrives at correct geometrical answers through questioning alone, suggesting the knowledge was already within him.",
+      "key_concepts": ["prenatal knowledge", "soul's prior existence", "learning as recovery", "slave-boy demonstration"]
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "According to Plato in the Meno, true belief and knowledge are equally valuable because both can guide action correctly.",
+      "answer": false,
+      "explanation": "While true belief can guide action correctly (like knowledge), Plato argues it is less valuable because it is unstable — it can be 'talked away' by a clever argument. Knowledge is 'tied down' by understanding the reason why something is true and cannot be dislodged. True belief is like an untethered statue — valuable but likely to escape."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "The Meno ends with the tentative conclusion that virtue might be a 'divine gift.' What philosophical problem does this conclusion reflect?",
+      "options": [
+        "A. The dialogue proves that virtue is entirely natural, not divine",
+        "B. Virtue appears to be knowledge (because it's beneficial and guided), but it doesn't seem to be teachable in a systematic way",
+        "C. Socrates has proven that virtue cannot be defined at all",
+        "D. The Meno demonstrates that Meno himself is the wisest person in Athens"
+      ],
+      "answer": "B",
+      "explanation": "The tension the dialogue cannot resolve: if virtue is beneficial and benefits require knowledge, then virtue must be knowledge — and knowledge is teachable. But virtuous people don't reliably produce virtuous children, and there are no consistent virtue-teachers. The 'divine gift' conclusion acknowledges the problem without fully solving it — virtue may operate through true belief (a kind of reliable instinct or gift) rather than systematic knowledge."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Socrates uses the image of 'statues of Daedalus' to explain true belief. What does he mean by this image?",
+      "sample_answer": "Daedalus was a legendary craftsman whose statues were so lifelike they were said to run away if not tied down. Socrates uses this to describe true beliefs: they are valuable but tend to 'escape' — if someone gives you a clever counter-argument and you have only true belief (not knowledge), you abandon the belief because you can't defend it. Knowledge, by contrast, is 'tied down' by understanding the reason why something is true — it stays put under argumentative pressure.",
+      "key_concepts": ["stability", "justification", "knowledge vs. belief", "tied down by reason"]
+    }
+  ]
+}

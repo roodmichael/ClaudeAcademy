@@ -1,0 +1,59 @@
+{
+  "session": "01",
+  "course": "PHIL-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "What distinguishes the Pre-Socratic approach to explaining the world from the mythological approach that preceded it?",
+      "options": [
+        "A. The Pre-Socratics believed in more gods than the mythologists",
+        "B. The Pre-Socratics sought impersonal, reason-based principles rather than personal divine causes",
+        "C. The Pre-Socratics denied that the world had any explanation at all",
+        "D. The Pre-Socratics relied entirely on sense experience and rejected logic"
+      ],
+      "answer": "B",
+      "explanation": "The key shift was from explaining the world through personal divine will (gods acting for reasons) to seeking impersonal principles anyone could examine through reason. The Pre-Socratics did not reject religion entirely, but they made a new kind of demand: explain the natural world in naturalistic terms."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "Anaximander proposed the apeiron as the archē rather than a specific substance like water. What was his main reason?",
+      "options": [
+        "A. He thought water was too cold to be the source of all things",
+        "B. He had no evidence for any specific substance",
+        "C. Any definite substance would dominate and destroy its opposites, so the source must be neutral and boundless",
+        "D. The apeiron was easier to observe than water"
+      ],
+      "answer": "C",
+      "explanation": "Anaximander's reasoning was that if water (or any definite thing) were the archē, it would dominate its opposites (fire, earth, etc.) and destroy them. The source of all things must be neutral — neither hot nor cold, neither wet nor dry — so he called it the apeiron, the indefinite or boundless."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "Heraclitus believed that constant change was evidence of chaos — that the world has no underlying order.",
+      "answer": false,
+      "explanation": "Heraclitus believed in constant change AND in an underlying rational order. The logos governs how change occurs. Fire, his symbol for flux, still has a pattern — it consumes and transforms in regular ways. The mistake is reading Heraclitus as a philosopher of disorder; he is actually a philosopher of hidden order within apparent chaos."
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "question": "Parmenides argues that change is impossible. Briefly explain his reasoning. You do not need to agree with it — just state it accurately.",
+      "sample_answer": "Parmenides argues that change requires something to come from nothing (or pass into nothing). But 'what-is-not' cannot exist — you cannot even think about it, because to think is to think of something that is. Since nothing can come from nothing, and nothing can return to nothing, genuine change is impossible. The world we perceive through our senses is an illusion; only unchanging Being is real.",
+      "key_concepts": ["what-is-not cannot exist", "change requires coming from nothing", "doxa vs. knowledge", "logic over observation"]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "Zeno's paradoxes were designed to:",
+      "options": [
+        "A. Show that mathematics is unreliable",
+        "B. Defend Heraclitus's view that all is flux",
+        "C. Defend Parmenides' view that motion and plurality are impossible",
+        "D. Demonstrate that the senses are more reliable than reason"
+      ],
+      "answer": "C",
+      "explanation": "Zeno was Parmenides' student and used the paradoxes to support his teacher's position. By showing that the concept of motion leads to logical contradictions, Zeno argued that motion (and by extension, change and plurality) must be illusory — exactly as Parmenides claimed."
+    }
+  ]
+}

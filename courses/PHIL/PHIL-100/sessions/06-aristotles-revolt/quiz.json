@@ -1,0 +1,53 @@
+{
+  "session": "06",
+  "course": "PHIL-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Aristotle's main objection to the claim that Forms explain things is:",
+      "options": [
+        "A. Forms are too abstract to be real",
+        "B. 'Participation' in a Form is just a metaphor — it doesn't explain why something has a property",
+        "C. Forms are only useful for mathematics, not for ethics",
+        "D. Plato invented Forms without observing nature"
+      ],
+      "answer": "B",
+      "explanation": "Aristotle's objection is that 'participation' in a Form is a metaphor masquerading as an explanation. Saying 'this is beautiful because it participates in Beauty' is not more explanatory than saying 'this is beautiful.' The Form does no genuine causal or explanatory work."
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "question": "What is the Third Man Argument, and why does Aristotle think it is a problem for the Theory of Forms?",
+      "sample_answer": "The Third Man Argument: if a Form of Man explains what all individual men have in common, then there must be a third entity explaining what individual men and the Form of Man have in common — a higher Form. But then that higher Form needs a further explanation, generating an infinite regress. Aristotle thinks this shows the Theory of Forms is built on a faulty assumption: that similarity between things must always be explained by appeal to a third, higher entity. The regress proves the theory cannot do the explanatory work Plato needs it to do.",
+      "key_concepts": ["infinite regress", "similarity requires a third entity", "faulty assumption", "Forms cannot explain Forms"]
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "Aristotle defines eudaimonia as a feeling of subjective happiness — the inner sense of contentment a person has about their life.",
+      "answer": false,
+      "explanation": "Eudaimonia is objective, not merely subjective. It is an activity of the soul in accordance with virtue, sustained over a complete life — not a feeling or a mental state. A person might feel happy while living a hollow or vicious life; they would not be eudaimon. Conversely, a virtuous person who faces external hardship still flourishes in the Aristotelian sense, even if they don't feel wonderful."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "In the Function Argument, what does Aristotle identify as the distinctive function of human beings?",
+      "options": [
+        "A. Sensation and desire, shared with animals",
+        "B. Life itself, shared with all living things",
+        "C. Rational activity — the activity of the soul in accordance with reason",
+        "D. Artistic and creative production"
+      ],
+      "answer": "C",
+      "explanation": "Aristotle works through what humans share with other things: mere life is shared with plants; sensation and desire are shared with animals. What is distinctive to humans is our capacity for rational activity — using reason to deliberate, choose, and act. The good for humans must therefore be excellent performance of this distinctive function."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "In one key respect, Aristotle's ethics is more accessible than Plato's. What is that respect, and why does it matter?",
+      "sample_answer": "Plato's ethics requires ascending to knowledge of the Forms — a long, difficult philosophical education available only to a few. Only philosophers who have grasped the Form of the Good can truly know what is just or good. Aristotle's ethics is grounded in character, habituation, and practical wisdom — attainable through a good upbringing and a life well-lived, not through rare philosophical insight. This matters because it makes the good life available to ordinary citizens, not just an intellectual elite.",
+      "key_concepts": ["habituation vs. Forms", "accessibility", "ordinary citizens", "practical wisdom vs. abstract knowledge"]
+    }
+  ]
+}

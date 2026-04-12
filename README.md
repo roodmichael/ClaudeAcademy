@@ -31,6 +31,16 @@ When you enroll in a topic that doesn't have a course yet, Claude:
 
 Courses live in `courses/{DEPT}/{DEPT-###}/` and are yours to keep.
 
+## Available courses
+
+See [academy/catalog.json](academy/catalog.json) for the full course list.
+
+| Code | Title |
+|------|-------|
+| COFF-100 | Home Coffee Roasting — Foundations |
+| COFF-100L | Home Coffee Roasting — Lab |
+| PHIL-100 | Classical Philosophy — Foundations |
+
 ## What's here
 
 ```

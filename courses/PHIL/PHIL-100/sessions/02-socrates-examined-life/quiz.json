@@ -1,0 +1,53 @@
+{
+  "session": "02",
+  "course": "PHIL-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Socrates says he is wiser than the politicians and poets he questioned because:",
+      "options": [
+        "A. He knows more facts about virtue and justice than they do",
+        "B. He knows that he does not know, while they do not know and think they do",
+        "C. He has been declared wise by a democratic vote of Athens",
+        "D. He studied philosophy formally for longer than they did"
+      ],
+      "answer": "B",
+      "explanation": "Socratic ignorance is a second-order awareness: knowing what you don't know. Socrates finds that the supposedly wise men he questions hold false beliefs confidently. He is at least free of that particular error — he does not mistake ignorance for knowledge."
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "question": "What is the elenchus, and what outcome does it typically produce? Answer in 2-3 sentences.",
+      "sample_answer": "The elenchus is Socrates' method of cross-examination: he asks someone to define a concept (like courage or justice), then tests the definition by posing cases where it seems to fail, forcing revision. The typical outcome is aporia — the interlocutor realizes they cannot defend their definition and must admit they do not know what they thought they knew. Socrates considers this a form of progress, not failure.",
+      "key_concepts": ["definition-testing", "aporia", "intellectual honesty", "cross-examination"]
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "Socrates says the unexamined life is not worth living because he believes that without philosophy, human beings cannot feel happy.",
+      "answer": false,
+      "explanation": "Socrates' claim is not about happiness in the modern psychological sense. He means that a life lived without rational scrutiny of one's values and beliefs falls short of full human capacity. The examined life is about integrity and intellectual honesty, not subjective contentment. Many unexamined people feel quite content — Socrates' point is that something essential is missing despite that."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "When Socrates reasons about death at the end of the Apology, his conclusion is:",
+      "options": [
+        "A. Death is the worst possible outcome and should be avoided at any cost",
+        "B. Death is uncertain, but since he has acted justly, he has no genuine reason to fear it",
+        "C. Death is definitely a continuation of consciousness, which is why he is unafraid",
+        "D. Only the gods know whether death is good or bad, so all reasoning about it is useless"
+      ],
+      "answer": "B",
+      "explanation": "Socrates presents two possible scenarios — dreamless sleep (peaceful) or continued consciousness (even better for a philosopher) — and notes that either way, a just person has nothing to fear. He doesn't claim certainty about what death is; he reasons that given two possible outcomes, neither is bad for a person who has lived well."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Socrates describes himself as a 'gadfly' sent to Athens by God. What does this metaphor mean, and what does it imply about his relationship to the city?",
+      "sample_answer": "A gadfly is an insect that stings a slow horse to keep it from falling asleep. Socrates uses the metaphor to claim that Athens — a great city — has become sluggish and self-satisfied, full of people who think they know what virtue is when they don't. His role is not to flatter but to sting: to provoke questioning and self-examination. The metaphor implies that this irritant is actually serving the city's good, even if the city resents it.",
+      "key_concepts": ["gadfly", "divine mission", "complacency", "serving the city through criticism"]
+    }
+  ]
+}

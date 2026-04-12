@@ -1,0 +1,53 @@
+{
+  "session": "04",
+  "course": "PHIL-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Plato's Forms are described as 'the proper objects of knowledge.' Why does Plato think physical things cannot be genuinely known?",
+      "options": [
+        "A. Physical things are too small to observe accurately",
+        "B. Physical things change — they are impermanent and particular, not stable enough to be objects of genuine knowledge",
+        "C. The senses are completely unreliable for any purpose",
+        "D. Physical things are created by humans and therefore biased"
+      ],
+      "answer": "B",
+      "explanation": "Recall from Session 03 that genuine knowledge (epistēmē) requires stable, unchanging objects. Physical things change — they deteriorate, transform, differ from individual to individual. Only Forms are eternal and unchanging, making them the appropriate objects for the stable, definitive knowledge Plato has in mind."
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "question": "What does the sun represent in Plato's Analogy of the Sun, and what does it correspond to in the intelligible realm?",
+      "sample_answer": "In the visible realm, the sun provides both the light that makes objects visible and the energy that makes them exist and grow. In the intelligible realm, the Form of the Good plays the same role: it provides the intelligibility (truth) that makes Forms knowable, and it gives Forms their very being. Just as you cannot see without the sun, you cannot know Forms without the Good. The Good is to knowledge what the sun is to sight.",
+      "key_concepts": ["Form of the Good", "source of truth and being", "intelligibility", "analogy to sun"]
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "In the Divided Line, what distinguishes mathematical reasoning (dianoia) from philosophical dialectic (nous)?",
+      "options": [
+        "A. Mathematics uses numbers; dialectic uses words",
+        "B. Mathematics makes unquestioned hypotheses and works downward; dialectic examines those hypotheses and works upward to the Form of the Good",
+        "C. Mathematics is more abstract than dialectic",
+        "D. Dialectic requires physical diagrams; mathematics does not"
+      ],
+      "answer": "B",
+      "explanation": "Mathematicians make starting assumptions (axioms, definitions) and reason from them — they don't question whether parallel lines exist, they assume it. Philosophical dialectic examines those starting points, tracing everything back to the Form of the Good as an unhypothetical first principle. This is why dialectic is the highest cognitive activity in Plato's scheme."
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "question": "In the Allegory of the Cave, the prisoners are meant to represent people who are foolish or stupid — people who simply haven't tried hard enough to see the truth.",
+      "answer": false,
+      "explanation": "The prisoners represent the ordinary human condition, not a special kind of stupidity. They are chained by their situation, not by personal deficiency. Even the freed prisoner finds the ascent painful and disorienting. The Cave is Plato's claim about what it takes to move from ordinary experience to genuine philosophical knowledge — it is difficult and the process requires education, not just effort."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Why, according to Plato's Cave allegory, would the philosopher who returns to the cave be at a disadvantage — and possibly killed? What point is Plato making about knowledge and political life?",
+      "sample_answer": "The philosopher's eyes, adjusted to sunlight, cannot see clearly in the cave's dimness — so in practical terms, the philosopher would seem incompetent compared to those skilled at reading shadows. The cave-dwellers have expertise at the wrong thing: they know shadows, not Forms. The philosopher who tries to lead them toward truth will seem confused, incoherent, or dangerous. Plato is making a point about the structural tension between genuine knowledge and political popularity: the philosopher knows what is truly good, but this knowledge is difficult to demonstrate to people who have never left the cave.",
+      "key_concepts": ["philosopher's disadvantage", "shadow-expertise vs. Form-knowledge", "political life", "tension between truth and popularity"]
+    }
+  ]
+}

@@ -29,8 +29,11 @@ Add domains or specific URLs here as you discover reliable sources through your 
 - docs.python.org
 - developer.mozilla.org
 
-### Political Science & Literature
+### Philosophy & Classics
 - plato.stanford.edu (Stanford Encyclopedia of Philosophy)
+- iep.utm.edu (Internet Encyclopedia of Philosophy)
+- perseus.tufts.edu (Perseus Digital Library — authoritative classical texts with Greek/Latin originals)
+- classics.mit.edu (MIT Internet Classics Archive — clean English translations)
 - jstor.org
 - scholar.google.com
 

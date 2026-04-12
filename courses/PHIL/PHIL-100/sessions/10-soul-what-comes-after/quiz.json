@@ -1,0 +1,53 @@
+{
+  "session": "10",
+  "course": "PHIL-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "When Socrates says that the true philosopher 'practices for dying and death,' he means:",
+      "options": [
+        "A. Philosophers should study death and burial customs",
+        "B. Philosophy is depressing and preoccupied with morbid topics",
+        "C. The philosophical life is a gradual purification of the soul from bodily distraction — a practice of separation that death completes",
+        "D. Philosophers accept that their views will be forgotten after death and write accordingly"
+      ],
+      "answer": "C",
+      "explanation": "Plato's argument is that philosophy frees the soul from attachment to the body's misleading desires and imprecise sensory information, orienting it toward the eternal Forms. Death — the complete separation of soul from body — is the culmination of this process. The philosopher has been practicing this separation throughout life; death is not a loss but a completion."
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "question": "Briefly state the Affinity Argument for the soul's immortality. What is its main strength and its main weakness?",
+      "sample_answer": "The Affinity Argument: the soul resembles the eternal, invisible, unchanging realm of Forms, while the body resembles the visible, composite, changeable realm. When a purified soul departs the body, it will naturally gravitate toward what it is akin to — the divine, intelligible realm. Strength: it connects the soul's nature directly to the Theory of Forms, integrating the metaphysics and the immortality argument. Weakness: the argument only establishes likelihood, not certainty — Socrates acknowledges this. It also assumes the soul has genuine kinship with the Forms, which is not independently proven within this argument.",
+      "key_concepts": ["soul's kinship with Forms", "invisible and unchanging", "natural gravitation at death", "establishes likelihood not certainty"]
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "The Final Argument (the Life-Form argument) claims that the soul cannot admit death because it participates essentially in the Form of Life.",
+      "answer": true,
+      "explanation": "The Final Argument works by analogy: fire cannot admit coldness while remaining fire; snow cannot admit heat while remaining snow. The soul cannot admit death (the Form of Death) while remaining a soul, because the soul always brings life with it essentially — it participates in the Form of Life. Therefore, when confronted with death, the soul must either withdraw (survive) or cease to be a soul. Plato argues that its indestructible nature means it withdraws."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "How does the Phaedo connect to the Argument from Recollection in the Meno?",
+      "options": [
+        "A. The Phaedo contradicts the Meno by claiming the soul does not have pre-natal knowledge",
+        "B. The Phaedo uses recollection as evidence that the soul existed before birth — and from this argues for post-mortem survival",
+        "C. The Phaedo ignores the Meno and starts the recollection argument from scratch",
+        "D. The Phaedo's second argument shows that recollection is impossible"
+      ],
+      "answer": "B",
+      "explanation": "The Argument from Recollection in the Phaedo builds directly on the Meno: since we recognize the Form of Equality (for example) when we see imperfect physical instances of it, we must have known perfect Equality before birth. This establishes pre-natal existence of the soul. From pre-natal existence, Plato argues there is reason to think the soul may also survive death — the soul was not born when the body was born, so it may not die when the body dies."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Aristotle would reject the soul-body dualism in the Phaedo. What would he say instead about the relationship between soul and body?",
+      "sample_answer": "Aristotle holds that the soul is the form of the body — it is the organizing principle that makes a living body actually alive and capable of its functions, not a separable entity that exists independently of the body. For Aristotle, asking whether the soul can survive without the body is like asking whether the shape of a wax seal can exist without the wax. When the body dies, the soul does not migrate to another realm; it simply ceases to be, as the wax loses its shape when melted. This is why Aristotle's ethics focuses entirely on the good life in this world — not on preparation for another.",
+      "key_concepts": ["soul as form of body", "not separable", "wax seal analogy", "no afterlife in Aristotle", "eudaimonia in this world"]
+    }
+  ]
+}

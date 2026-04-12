@@ -1,0 +1,53 @@
+{
+  "session": "09",
+  "course": "PHIL-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "When Epicurus says pleasure is the highest good, what does he primarily mean by pleasure?",
+      "options": [
+        "A. Intense sensory gratification — fine food, wine, and physical indulgence",
+        "B. The excitement of achieving fame and recognition",
+        "C. Ataraxia (tranquility of the soul) and aponia (freedom from bodily pain) — the absence of distress",
+        "D. The pleasure that comes from philosophical contemplation of Forms"
+      ],
+      "answer": "C",
+      "explanation": "Epicurus explicitly distinguishes his view from hedonism in the sense of sensory indulgence. The highest pleasure is the negative state of freedom from anxiety and pain — ataraxia and aponia. These modest, stable pleasures are more genuinely satisfying than intense sensory experiences, which tend to create more wanting rather than lasting peace."
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "question": "State the symmetry argument against fearing death. Is the argument valid?",
+      "sample_answer": "The symmetry argument: the time before your birth was a period of non-existence — no sensation, no suffering, no 'you' to be troubled by it. We are not disturbed by that pre-natal non-existence. The time after death is structurally identical: non-existence, no sensation, no suffering. Therefore, by symmetry, we should not be disturbed by post-mortem non-existence either. Whether the argument is valid is contested: one objection is that we stand in a different relationship to the future (we anticipate it) than to the past (we don't), so the symmetry may not hold. But the argument remains a genuine challenge to unreflective death anxiety.",
+      "key_concepts": ["pre-natal vs. post-mortem non-existence", "no sensation = no harm", "symmetry", "possible objection: anticipation"]
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "Epicurus classifies desires as 'natural and necessary,' 'natural but unnecessary,' or 'empty.' Which of the following is an 'empty' desire according to Epicurus?",
+      "options": [
+        "A. The desire for food when hungry",
+        "B. The desire for a comfortable shelter",
+        "C. The desire to be remembered after death through lasting fame",
+        "D. The desire for friendship and companionship"
+      ],
+      "answer": "C",
+      "explanation": "Empty desires are those whose satisfaction cannot bring genuine peace because they have no natural endpoint — the more you have, the more you want. The desire for posthumous fame is a clear example: it can never be satisfied in your lifetime, and its pursuit generates anxiety rather than tranquility. Desires for food, shelter, and friendship are natural and either necessary or at least grounded in real human needs."
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "question": "Epicurus and the Stoics agree that withdrawal from political life is the best approach for the wise person.",
+      "answer": false,
+      "explanation": "This is one of the key differences between the schools. Epicurus recommended withdrawal from politics: political life generates anxiety, competition, and the pursuit of fame — all sources of disturbance. The Stoics (especially Epictetus and Marcus Aurelius) emphasize performing one's civic duties and social roles. Marcus Aurelius governed an empire while practicing Stoicism; Epictetus taught that one's roles as citizen, parent, and friend are duties to be fulfilled, not escaped."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Why does Epicurus consider friendship so important? How does his view of friendship differ from the Stoic approach to relationships?",
+      "sample_answer": "Epicurus calls friendship 'much the greatest' of the things wisdom provides — not as a means to some other end but as one of the most reliable and deep sources of genuine pleasure. The Garden was organized around philosophical friendship: warm, close community with shared values. For Epicurus, connection and warmth are themselves components of the good life. The Stoics tend to treat relationships as duties — social roles to be performed conscientiously without attachment to outcomes. The Stoic performs the role of friend, parent, and citizen, but without placing excessive value on those relationships as such. Epicurus places friendship much closer to the center of what makes life worth living.",
+      "key_concepts": ["friendship as a genuine good", "the Garden community", "Stoics: relationships as duties", "Epicureans: warmth and connection as central"]
+    }
+  ]
+}

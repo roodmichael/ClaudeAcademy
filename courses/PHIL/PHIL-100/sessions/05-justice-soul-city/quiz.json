@@ -1,0 +1,53 @@
+{
+  "session": "05",
+  "course": "PHIL-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Thrasymachus defines justice as 'the advantage of the stronger.' What does he mean by this?",
+      "options": [
+        "A. Physical strength determines who is just in a fight",
+        "B. The powerful define the rules, call those rules 'justice,' and enforce compliance — benefiting themselves",
+        "C. Justice is whatever the majority of citizens prefer",
+        "D. Strong people are naturally more virtuous than weak ones"
+      ],
+      "answer": "B",
+      "explanation": "Thrasymachus means that what a society calls 'just' is really the rules set by those in power — laws and norms designed to benefit the rulers and keep the ruled in line. There is no objective justice 'out there'; there is only power dressed up as principle. Obeying the law means advantaging whoever made it."
+    },
+    {
+      "id": "q2",
+      "type": "short_answer",
+      "question": "Name and briefly describe the three parts of Plato's tripartite soul.",
+      "sample_answer": "The three parts are: (1) Reason (logistikon) — the thinking part that seeks knowledge and truth, plans for the future, and governs the soul when functioning well. (2) Spirit (thymoeides) — the emotional-ambitious part that seeks honor and gets angry at injustice; it provides motivational energy for right action. (3) Appetite (epithymetikon) — the desiring part that seeks food, drink, sex, and material goods; it needs to be regulated, not suppressed.",
+      "key_concepts": ["reason", "spirit", "appetite", "distinct sources of motivation"]
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "According to Plato, the tyrant is the freest and happiest person because he can do whatever he wants.",
+      "answer": false,
+      "explanation": "Plato argues the opposite: the tyrant is the most enslaved and miserable person. He is dominated by appetite, which can never be satisfied. He is at war with himself (his soul's parts are in conflict), he cannot trust anyone, and he lives in fear. True freedom, for Plato, is reason governing the soul — the tyrant has the least of this."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "Why does Plato analyze justice in the city before analyzing justice in the individual soul?",
+      "options": [
+        "A. Political philosophy is more important than personal ethics",
+        "B. Justice in the city is 'written in larger letters' — easier to see — and then the same pattern can be read in the soul",
+        "C. The individual soul cannot be just without living in a just city first",
+        "D. Plato is primarily interested in governance, not personal virtue"
+      ],
+      "answer": "B",
+      "explanation": "Plato explicitly says that justice in the city is 'written in larger letters' — the same structural principle as justice in the soul, but easier to analyze because we can see the classes and their roles more clearly. The parallel is methodological: analyze the larger (city) to illuminate the smaller (soul)."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Plato claims that justice is intrinsically valuable — that it benefits the just person regardless of external reward or punishment. State his argument in 2-3 sentences.",
+      "sample_answer": "Justice is the health of the soul: when reason governs and the parts are in harmony, the person is internally at peace, pursues genuine goods, and is psychologically whole. Injustice disorders the soul — appetite or spirit overrules reason, creating internal conflict and the endless, unsatisfied pursuit of goods that cannot ultimately satisfy. The unjust person harms themselves most of all, even if they escape external punishment; the just person flourishes regardless of what others do to them.",
+      "key_concepts": ["justice as soul-health", "disorder vs. harmony", "intrinsic value", "genuine goods"]
+    }
+  ]
+}

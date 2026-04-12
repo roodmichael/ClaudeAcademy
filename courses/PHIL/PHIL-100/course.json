@@ -1,0 +1,22 @@
+{
+  "code": "PHIL-100",
+  "title": "Classical Philosophy — Foundations",
+  "department": "PHIL",
+  "level": 100,
+  "sessions": 10,
+  "prerequisites": [],
+  "description": "A survey of Western philosophy from its origins in 6th-century Greece through the Hellenistic schools of Rome. Students read primary texts — Plato, Aristotle, Epictetus, Epicurus — and engage directly with the questions these thinkers posed: What is the world made of? What can we know? What makes a life worth living? How should we face death? No prior philosophy background required.",
+  "learning_outcomes": [
+    "Identify the core philosophical questions posed by the Pre-Socratics and explain why they matter",
+    "Analyze the Socratic method and apply it to test a knowledge claim",
+    "Explain Plato's Theory of Forms and the three Republic analogies (Cave, Sun, Divided Line)",
+    "Describe Aristotle's account of eudaimonia and the role of virtue and habit in achieving it",
+    "Distinguish the Stoic and Epicurean approaches to achieving tranquility and facing death",
+    "Construct a structured philosophical argument using only primary texts from the course",
+    "Read pre-modern philosophical prose accurately and respond critically in writing"
+  ],
+  "template_type": "literary",
+  "research_quality": "strong",
+  "created": "2026-04-12",
+  "status": "active"
+}
