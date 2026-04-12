@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+.env.*
+
+# Student personal data
+# UUID-named student directories (profile, progress, logs, personalized exercises)
+academy/students/????????-????-????-????-????????????/
+# Student registry (contains names and UUIDs)
+academy/students/registry.json
