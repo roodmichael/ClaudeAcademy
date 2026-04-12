@@ -26,7 +26,7 @@ student's progress record and lab log.
 
 ## Invocation Parameters
 
-- **student_id** — always "default" unless specified
+- **student_id** — UUID of the student; resolved by the invoking command from registry.json
 - **course_code** — e.g. "COFF-100L"
 - **lab_number** — integer (e.g. 1 for L01)
 
@@ -140,6 +140,24 @@ Before doing anything else, load the following in this order:
 21. Update the progress file at
     `academy/students/{student_id}/progress/{course_code}.json`
     with the completed lab number and today's date.
+
+### Update the Student Profile
+
+22. After writing the progress record, read `academy/students/{student_id}/profile.json`
+    and update it if the lab session revealed new information:
+
+    - **New domain:** the student demonstrated knowledge of a subject not yet listed
+      in `domains`. Add it with appropriate `depth` and a one-sentence `notes` field.
+
+    - **New analogy:** a cross-domain bridge worked well during the lab. Add it to
+      `analogy_palette` with `from`, `to`, `bridge`, `course`, and `session` fields.
+      Use the lab number for the `session` field (e.g. "Lab 2").
+
+    - **New interest:** the student showed genuine curiosity about something beyond
+      the lab scope. Add it to `interests`.
+
+    Only add entries you are confident about from direct evidence in the session.
+    Do not speculate. If nothing new was revealed, do not modify the profile.
 
 ---
 

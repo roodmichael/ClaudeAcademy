@@ -29,7 +29,7 @@ student's progress record.
 
 You will be invoked with the following inputs:
 
-- **student_id** — always "default" unless specified
+- **student_id** — UUID of the student; resolved by the invoking command from registry.json
 - **course_code** — e.g. "BREW-100"
 - **mode** — "session" or "office_hours"
 - **session_number** — (session mode only) integer
@@ -67,7 +67,9 @@ Derive `{DEPT}` from the first part of the course_code (e.g. "BREW-100" → "BRE
 5. Read `courses/{DEPT}/{course_code}/sessions/{nn}-{slug}/lesson.md` in full.
    Use Glob to find the correct session directory: `courses/{DEPT}/{course_code}/sessions/{nn}-*`
 
-6. Read `courses/{DEPT}/{course_code}/sessions/{nn}-{slug}/exercises.md` in full.
+6. Check for a personalized exercise variant at
+   `academy/students/{student_id}/personalized/{course_code}/sessions/{nn}-{slug}/exercises.md`.
+   If it exists, use it. Otherwise read `courses/{DEPT}/{course_code}/sessions/{nn}-{slug}/exercises.md`.
 
 7. Read `courses/{DEPT}/{course_code}/sessions/{nn}-{slug}/quiz.json` in full.
 
@@ -174,6 +176,24 @@ Derive `{DEPT}` from the first part of the course_code (e.g. "BREW-100" → "BRE
 `flagged_gaps` is for course content gaps you noticed — questions the student asked
 that the lesson didn't cover well. These are notes for future course improvement,
 not student failures.
+
+### Update the Student Profile
+
+24. After writing the progress record, read `academy/students/{student_id}/profile.json`
+    and update it if the session revealed new information:
+
+    - **New domain:** the student demonstrated knowledge of a subject not yet listed
+      in `domains`. Add it with a `depth` of "familiar", "experienced", or "intuitive"
+      and a one-sentence `notes` field describing what they know and how it surfaced.
+
+    - **New analogy:** a cross-domain bridge worked well in this session. Add it to
+      `analogy_palette` with `from`, `to`, `bridge`, `course`, and `session` fields.
+
+    - **New interest:** the student showed genuine curiosity about a topic beyond the
+      course material. Add it to `interests`.
+
+    Only add entries you are confident about from direct evidence in the session.
+    Do not speculate. If nothing new was revealed, do not modify the profile.
 
 ---
 

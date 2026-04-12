@@ -17,10 +17,15 @@ academy/
   catalog.json       # Master list of all available courses
   departments.json   # Department registry and division groupings
   students/
-    default/
-      profile.json               # Student background and enrolled courses
+    profile-template.json        # Empty schema used when creating a new student
+    {student_id}/
+      profile.json               # Student background, domains, analogy palette, interests
       progress/{DEPT-###}.json   # Per-course progress, quiz scores, session notes
       logs/{DEPT-###L}.json      # Per-lab-course log, accumulates all lab entries
+      personalized/
+        {DEPT-###}/
+          sessions/{nn}-{slug}/
+            exercises.md         # Student-specific exercise variants (generated at enrollment)
 courses/
   {DEPT}/
     {DEPT-###}/                  # e.g. COFF/COFF-100 — lecture course
@@ -52,10 +57,13 @@ All substantive work is done by agents. Read the full spec before invoking.
 |-------|------|---------------|
 | Researcher | agents/researcher.md | Gathers sourced knowledge via web research |
 | Course Creator | agents/course-creator.md | Builds complete course directories on disk |
+| Registrar | agents/registrar.md | Conducts intake, assigns UUID, creates student profile and registry entry |
+| Personalizer | agents/personalizer.md | Generates personalized exercise variants for a student at enrollment |
 | Tutor | agents/tutor.md | Delivers sessions and answers questions in context |
 | Lab Instructor | agents/lab-instructor.md | Guides lab sessions, interprets data, writes lab log entries |
 
-Invocation chain: Course Creator spawns Researcher. Commands spawn Course Creator, Tutor, or Lab Instructor.
+Invocation chain: Course Creator spawns Researcher. /register spawns Registrar.
+/enroll spawns Course Creator (if needed) then Personalizer. Commands spawn Tutor or Lab Instructor.
 No other agent relationships exist.
 
 ---
@@ -86,11 +94,25 @@ No other agent relationships exist.
 
 ## Student Profile
 
-Default student path: academy/students/default/profile.json
+Student registry: academy/students/registry.json
+Student directories: academy/students/{uuid}/
+New student template: academy/students/profile-template.json
 
-Always read this file before making assumptions about the student's prior knowledge.
+All commands resolve the current student by reading the registry. If one student is
+registered, they are used automatically. Students must register before enrolling.
+
+Always read the student's profile before making assumptions about their prior knowledge.
 Treat the student as a freshman unless the profile explicitly states otherwise.
 A student with prior experience moves through material faster — they do not skip it.
+
+The profile contains structured fields beyond basic enrollment:
+- `domains` — subjects the student knows well, with depth and notes
+- `reasoning_style` — how the student thinks; use this to frame explanations
+- `analogy_palette` — cross-domain bridges that have worked in prior sessions
+- `interests` — broader topics useful for exercise personalization
+
+Tutor and Lab Instructor agents update these fields after each session when new
+information is discovered. Course Creator reads them for pacing context only.
 
 ---
 

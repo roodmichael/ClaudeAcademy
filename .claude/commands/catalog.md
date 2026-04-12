@@ -5,24 +5,30 @@ Arguments: $ARGUMENTS — optional filter: department code, level number, or key
 Steps:
 1. Read academy/catalog.json
 2. Read academy/departments.json
-3. Read academy/students/default/profile.json to get enrolled_courses and completed_courses
-4. Read all files matching academy/students/default/progress/*.json to get current progress
+3. Resolve the student:
+   - Read academy/students/registry.json
+   - If no students registered: skip student-specific steps (steps 4 and 7)
+   - If one student: use their student_id (UUID)
+   - If multiple students: use the one whose progress files show the most recent activity
+4. Read academy/students/{student_id}/profile.json to get enrolled_courses and completed_courses
+5. Read all files matching academy/students/{student_id}/progress/*.json to get current progress
 
-5. If no filter provided, display all courses grouped by department division:
+6. If no filter provided, display all courses grouped by department division:
 
    Format:
    ## {Division Name}
    ### {Department Name} ({DEPT})
    - {DEPT-###} — {Title} ({n} sessions) [ENROLLED: Session {x}/{total} | COMPLETED | or blank]
 
-6. If a filter is provided:
+7. If a filter is provided:
    - Department code (e.g. "BREW"): show only that department
    - Level (e.g. "100"): show all 100-level courses across departments
    - Keyword (e.g. "fermentation"): show courses whose title or description contains the keyword
 
-7. At the bottom, always show the student's enrolled courses with a progress summary:
+8. At the bottom, always show the student's enrolled courses with a progress summary
+   (skip if no student is registered):
    ## Your Courses
    - {DEPT-###} {Title} — Session {current}/{total} | Quiz avg: {average score}%
 
-8. If the catalog is empty, say: "No courses have been created yet. Use /enroll to build
+9. If the catalog is empty, say: "No courses have been created yet. Use /enroll to build
    your first course."
