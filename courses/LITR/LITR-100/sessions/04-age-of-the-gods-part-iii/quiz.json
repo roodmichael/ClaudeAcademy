@@ -1,0 +1,59 @@
+{
+  "session": "04",
+  "course": "LITR-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "In the Rabbit of Inaba episode, what does Ōkuninushi do that his eighty elder brothers did not?",
+      "options": [
+        "A. He carries the rabbit to the nearest temple for healing",
+        "B. He bathes the rabbit's wounds in fresh water and has it roll in cattail pollen to heal it",
+        "C. He challenges the crocodile that skinned the rabbit to a contest",
+        "D. He reports the rabbit's suffering to Amaterasu in Takamagahara"
+      ],
+      "answer": "B",
+      "explanation": "Ōkuninushi instructs the rabbit to bathe in fresh water and roll in cattail pollen — a treatment for the skinned, salt-irritated wounds. His brothers had ignored or mocked the rabbit. This act of practical compassion establishes Ōkuninushi's character as someone who notices suffering and acts."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "What is 'kuniizukuri' (建国) as Ōkuninushi practices it in the Kojiki?",
+      "options": [
+        "A. A military campaign to conquer the eighty elder brothers",
+        "B. The ritual worship of Amaterasu performed in the earthly realm",
+        "C. The building of the land — establishing agriculture, medicine, and other civilizational goods",
+        "D. The construction of the Izumo Taisha shrine as a condition of the land cession"
+      ],
+      "answer": "C",
+      "explanation": "Kuniizukuri ('building of the land') refers to Ōkuninushi's culture-hero work: developing the earthly realm through agriculture, medicine, sake brewing, and other practical knowledge, alongside his companion Sukunabikona. He is a builder, not a conqueror — which makes his subsequent dignified abdication coherent with his character."
+    },
+    {
+      "id": "q3",
+      "type": "short_answer",
+      "question": "Why do scholars interpret the kuni-yuzuri (land cession) as a political charter rather than (or in addition to) a straightforward myth?",
+      "sample_answer": "The Izumo region was a real, historically powerful area of Japan with its own religious traditions and patron deity. The kuni-yuzuri encodes the Yamato court's claim to have legitimate authority over this region — not because they conquered it, but because the land's own greatest ruler saw the cosmological order clearly and consented. At the same time, Ōkuninushi's condition — a grand shrine at Izumo — maps onto the real-world Izumo Taisha, one of Japan's most important shrines. The myth explains and legitimizes the ongoing religious and political arrangement between Yamato and Izumo.",
+      "key_concepts": ["political charter", "Izumo as real historical region", "dignified abdication vs. conquest", "Izumo Taisha"]
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "question": "Ōkuninushi is a descendant of Amaterasu, making his earthly rule part of the heavenly line's original plan.",
+      "answer": false,
+      "explanation": "Ōkuninushi is from the Susanoo lineage, not the Amaterasu lineage. This is precisely why the kuni-yuzuri is necessary: the earthly realm is ruled by a deity from the earthly/expelled line (Susanoo's), and the heavenly line (Amaterasu's) must reclaim it for Ninigi's descent. The two lineages — heavenly and earthly — are distinct in the Kojiki."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "What does Ōkuninushi request as the condition of his cession of the earthly realm?",
+      "options": [
+        "A. That his son Kotoshironushi be allowed to rule a portion of the land",
+        "B. That a great shrine be built for him at Izumo, as grand as the heavenly palace",
+        "C. That he be allowed to accompany Ninigi to Takachiho as a counselor",
+        "D. That Amaterasu personally descend to thank him for his contribution to the land"
+      ],
+      "answer": "B",
+      "explanation": "Ōkuninushi's single condition is a great shrine at Izumo — a palace as grand as the palace of the heavenly gods — where his descendants can maintain divine rites. This becomes the Izumo Taisha (Izumo Grand Shrine), one of Japan's most important and oldest Shinto sites."
+    }
+  ]
+}

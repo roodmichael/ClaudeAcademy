@@ -1,6 +1,17 @@
 {
   "courses": [
     {
+      "code": "LITR-100",
+      "title": "The Kojiki — Reading Japan's Oldest Chronicle",
+      "department": "LITR",
+      "level": 100,
+      "sessions": 8,
+      "prerequisites": [],
+      "description": "A close reading of Japan's oldest literary work, the Kojiki (712 CE), in Basil Hall Chamberlain's 1882 translation. Students trace the text's cosmological myths, genealogical arguments, and embedded waka poetry — learning to read the Kojiki not as literal history or simple mythology but as political literature with a complex reception history stretching from Motoori Norinaga's 18th-century commentary to the post-WWII rehabilitation of Japanese scholarship.",
+      "status": "active",
+      "created": "2026-04-12"
+    },
+    {
       "code": "PHIL-100",
       "title": "Classical Philosophy — Foundations",
       "department": "PHIL",

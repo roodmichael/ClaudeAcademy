@@ -1,0 +1,59 @@
+{
+  "session": "06",
+  "course": "LITR-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Emperor Jimmu's traditional founding date of 660 BCE is significant in the Kojiki primarily because:",
+      "options": [
+        "A. Archaeological evidence confirms this is when the Yamato region was first settled",
+        "B. Chinese imperial chronicles also record this date for Japan's founding",
+        "C. It gives the imperial dynasty an antiquity that claims parity with or superiority to Chinese dynastic histories",
+        "D. Motoori Norinaga calculated this date from astronomical data in the Kojiki itself"
+      ],
+      "answer": "C",
+      "explanation": "The 660 BCE date was almost certainly a retroactive construction — the compilers extended reign lengths backwards to reach a desired founding date that would give Japan an antiquity comparable to or greater than China's. Modern scholars universally reject it as historical fact while recognizing its political function."
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "question": "The predominantly genealogical content of the Middle Volume (lists of emperors, consorts, and children) is essentially padding — filler between more narratively interesting sections.",
+      "answer": false,
+      "explanation": "The genealogical structure is itself the political argument: it demonstrates an unbroken chain of succession from divine origins to the present. The completeness and continuity of the genealogy is the point. A rival dynasty with a shorter or interrupted lineage cannot make the same claim. The genealogy is not padding — it is the most direct expression of the Kojiki's core legitimation function."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "How does divine guidance in the Jimmu sections differ from divine action in the Upper Volume?",
+      "options": [
+        "A. The gods become more directly present and visible as Jimmu needs their help",
+        "B. Divine guidance becomes more mediated — conveyed through birds, dreams, and descending objects rather than direct appearance",
+        "C. Amaterasu personally accompanies Jimmu throughout the eastern campaign",
+        "D. There is no divine guidance in the Jimmu sections; he succeeds entirely through human means"
+      ],
+      "answer": "B",
+      "explanation": "As the narrative moves from the divine age to the human age, divine intervention becomes more indirect. The Upper Volume features gods acting directly; the Jimmu sections feature a three-legged crow as guide, swords descending from heaven, and oracular dreams. The gods are present but at one remove — appropriate to a world that is becoming more human."
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "question": "Why is the genealogical chain from Amaterasu to Jimmu politically important? What specifically does it accomplish for the ruling dynasty?",
+      "sample_answer": "The genealogical chain makes the emperor's authority cosmologically prior — not merely historically long, but divinely originated. By tracing an unbroken succession from the sun goddess through five generations to the first emperor, the Kojiki argues that imperial rule is not a human arrangement that can be challenged by a more powerful rival. It is built into the structure of the universe from its first moments. A rival clan can acquire power, but it cannot acquire a divine genealogy. The chain's continuity — no gaps, no disputed successions — is itself the argument: the dynasty has always been there.",
+      "key_concepts": ["divine origin", "unbroken succession", "legitimacy through genealogy", "cosmological priority"]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "What role does the three-legged crow Yatagarasu play in the Jimmu narrative?",
+      "options": [
+        "A. It carries a message from Amaterasu announcing Jimmu's divine right to rule",
+        "B. Amaterasu sends it to guide Jimmu's campaign when he is stalled in a dangerous valley",
+        "C. It steals the three imperial regalia from Jimmu's enemies",
+        "D. It appears at Jimmu's enthronement as a symbol of Amaterasu's approval"
+      ],
+      "answer": "B",
+      "explanation": "When Jimmu's eastern campaign is stalled in a dangerous valley, Amaterasu sends the great three-legged crow Yatagarasu to guide him out of danger and toward Yamato. The crow is an example of mediated divine intervention — Amaterasu does not appear directly but sends a divine agent."
+    }
+  ]
+}

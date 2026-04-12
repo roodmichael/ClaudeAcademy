@@ -1,0 +1,22 @@
+{
+  "code": "LITR-100",
+  "title": "The Kojiki — Reading Japan's Oldest Chronicle",
+  "department": "LITR",
+  "level": 100,
+  "sessions": 8,
+  "prerequisites": [],
+  "description": "A close reading of Japan's oldest literary work, the Kojiki (712 CE), in Basil Hall Chamberlain's 1882 translation. Students trace the text's cosmological myths, genealogical arguments, and embedded waka poetry — learning to read the Kojiki not as literal history or simple mythology but as political literature with a complex reception history stretching from Motoori Norinaga's 18th-century commentary to the post-WWII rehabilitation of Japanese scholarship.",
+  "learning_outcomes": [
+    "Explain the Kojiki's political origins and describe the roles of its key compilers",
+    "Identify the major deities and trace the genealogical chain from primordial creation to Emperor Jimmu",
+    "Read Chamberlain's 1882 translation productively, understanding its strengths and Victorian biases",
+    "Analyze key mythological episodes for their political and theological function",
+    "Distinguish the waka poems from the surrounding prose and explain what they contribute",
+    "Trace the Kojiki's reception history through Norinaga, State Shinto, and post-WWII scholarship",
+    "Apply the scholarly concept of 'myth' to explain how ancient narratives function in political and religious contexts"
+  ],
+  "template_type": "literary",
+  "research_quality": "strong",
+  "created": "2026-04-12",
+  "status": "active"
+}
