@@ -1,0 +1,322 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "COFF-100L Roast Log Entry",
+  "description": "Schema for a single roast session log entry in the home coffee roasting lab course.",
+  "type": "object",
+  "required": ["entry_id", "lab", "date", "bean", "roast_session", "roast_timeline", "sensory_during_roast", "post_roast_evaluation"],
+  "properties": {
+    "entry_id": {
+      "type": "string",
+      "description": "Unique identifier for this log entry, e.g. COFF-100L-001"
+    },
+    "lab": {
+      "type": "string",
+      "description": "Lab number and title, e.g. '02 - First Intentional Roast'"
+    },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date of the roast session (ISO 8601 format)"
+    },
+    "bean": {
+      "type": "object",
+      "description": "Identity of the green coffee being roasted",
+      "required": ["name", "origin", "process", "source", "green_weight_g"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Bean name or lot name, e.g. 'Yirgacheffe Natural G1' or 'Guatemala Huehuetenango Washed'"
+        },
+        "origin": {
+          "type": "string",
+          "description": "Country and region, e.g. 'Ethiopia, Yirgacheffe' or 'Guatemala, Huehuetenango'"
+        },
+        "altitude_masl": {
+          "type": "integer",
+          "description": "Altitude in meters above sea level (if known)"
+        },
+        "process": {
+          "type": "string",
+          "enum": ["washed", "natural", "honey", "wet-hulled", "anaerobic", "other"],
+          "description": "Processing method"
+        },
+        "variety": {
+          "type": "string",
+          "description": "Coffee variety if known, e.g. 'Heirloom', 'Bourbon', 'Typica'"
+        },
+        "source": {
+          "type": "string",
+          "description": "Where the bean was purchased, e.g. 'Sweet Maria\\'s', 'Coffee Bean Corral', 'Burman Coffee Traders'"
+        },
+        "harvest_year": {
+          "type": "integer",
+          "description": "Crop year if known"
+        },
+        "green_weight_g": {
+          "type": "number",
+          "description": "Weight of green beans loaded into roaster in grams"
+        }
+      }
+    },
+    "roast_session": {
+      "type": "object",
+      "description": "Equipment and ambient conditions for the roast",
+      "required": ["equipment", "ambient_temp_f"],
+      "properties": {
+        "equipment": {
+          "type": "string",
+          "description": "Roasting device used, e.g. 'Fresh Roast SR800', 'West Bend Popcorn Popper'"
+        },
+        "charge_temp_f": {
+          "type": "number",
+          "description": "Temperature of the roaster when beans were added (degrees Fahrenheit)"
+        },
+        "ambient_temp_f": {
+          "type": "number",
+          "description": "Room temperature at time of roast (degrees Fahrenheit)"
+        },
+        "humidity_notes": {
+          "type": "string",
+          "description": "Any notable humidity or weather conditions"
+        },
+        "heat_setting": {
+          "type": "string",
+          "description": "Heat setting used (if equipment has discrete settings), e.g. 'Level 9', 'High'"
+        },
+        "airflow_setting": {
+          "type": "string",
+          "description": "Airflow/fan setting if applicable, e.g. 'Level 7'"
+        }
+      }
+    },
+    "roast_timeline": {
+      "type": "object",
+      "description": "Time-stamped landmarks during the roast",
+      "required": ["charge_time", "drop_time", "total_time_seconds"],
+      "properties": {
+        "charge_time": {
+          "type": "string",
+          "description": "Clock time when beans were loaded, e.g. '14:32'"
+        },
+        "yellowing_time": {
+          "type": "string",
+          "description": "Elapsed time (mm:ss) when beans turned fully yellow"
+        },
+        "first_crack_onset": {
+          "type": "string",
+          "description": "Elapsed time (mm:ss) when first crack began"
+        },
+        "first_crack_end": {
+          "type": "string",
+          "description": "Elapsed time (mm:ss) when first crack became infrequent or stopped"
+        },
+        "second_crack_onset": {
+          "type": ["string", "null"],
+          "description": "Elapsed time (mm:ss) if second crack began; null if not reached"
+        },
+        "drop_time": {
+          "type": "string",
+          "description": "Elapsed time (mm:ss) when roast was stopped and beans dropped/removed"
+        },
+        "total_time_seconds": {
+          "type": "integer",
+          "description": "Total roast duration from charge to drop in seconds"
+        },
+        "development_time_seconds": {
+          "type": "integer",
+          "description": "Time from first crack onset to drop in seconds"
+        },
+        "development_time_ratio": {
+          "type": "number",
+          "description": "Development time divided by total roast time (e.g. 0.21 = 21%)"
+        }
+      }
+    },
+    "sensory_during_roast": {
+      "type": "object",
+      "description": "What you observed with eyes and nose during the roast",
+      "properties": {
+        "color_at_yellowing": {
+          "type": "string",
+          "description": "Bean color description when yellowing was observed, e.g. 'pale straw-yellow, slight green center'"
+        },
+        "color_at_first_crack": {
+          "type": "string",
+          "description": "Bean color at first crack onset, e.g. 'medium tan, cinnamon edges'"
+        },
+        "color_at_drop": {
+          "type": "string",
+          "description": "Bean color at drop, e.g. 'medium brown, slight sheen, no oil'"
+        },
+        "aroma_early": {
+          "type": "string",
+          "description": "Aroma during drying phase, e.g. 'grassy, hay, slight sweetness emerging'"
+        },
+        "aroma_at_maillard": {
+          "type": "string",
+          "description": "Aroma during browning phase, e.g. 'bread, caramel, toast'"
+        },
+        "aroma_at_development": {
+          "type": "string",
+          "description": "Aroma during development phase, e.g. 'dark fruit, wine, berry jam'"
+        },
+        "first_crack_description": {
+          "type": "string",
+          "description": "How did first crack sound and feel? e.g. 'loud, rolling, like popcorn — lasted about 45 seconds'"
+        },
+        "roast_weight_loss_g": {
+          "type": "number",
+          "description": "Weight of roasted beans minus green weight in grams (negative number)"
+        },
+        "roast_weight_loss_pct": {
+          "type": "number",
+          "description": "Percentage of weight lost during roast (e.g. 14.5 = 14.5%)"
+        }
+      }
+    },
+    "post_roast_evaluation": {
+      "type": "object",
+      "description": "Cupping and tasting results after the required rest period",
+      "required": ["rest_hours_before_cupping", "overall_rating"],
+      "properties": {
+        "rest_hours_before_cupping": {
+          "type": "number",
+          "description": "Hours between drop and cupping session"
+        },
+        "brew_method": {
+          "type": "string",
+          "description": "Method used to evaluate, e.g. 'SCA cupping protocol', 'pour-over', 'French press'"
+        },
+        "grind_setting": {
+          "type": "string",
+          "description": "Grind setting used, e.g. 'coarse, cupping standard'"
+        },
+        "aroma": {
+          "type": "object",
+          "properties": {
+            "dry_aroma": {
+              "type": "string",
+              "description": "Aroma of ground coffee before water, e.g. 'blueberry, jasmine, brown sugar'"
+            },
+            "wet_aroma": {
+              "type": "string",
+              "description": "Aroma when hot water first contacts grounds (break the crust)"
+            }
+          }
+        },
+        "flavor_wheel_terms": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Specific SCA Flavor Wheel terms used, e.g. ['blueberry', 'jasmine', 'caramel', 'dark chocolate']"
+        },
+        "acidity": {
+          "type": "object",
+          "properties": {
+            "rating": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 5,
+              "description": "1=flat, 3=balanced, 5=bright/sharp"
+            },
+            "notes": {
+              "type": "string",
+              "description": "Qualitative description, e.g. 'citric, like grapefruit peel, pleasant'"
+            }
+          }
+        },
+        "sweetness": {
+          "type": "object",
+          "properties": {
+            "rating": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 5,
+              "description": "1=absent, 3=moderate, 5=pronounced"
+            },
+            "notes": {
+              "type": "string",
+              "description": "Qualitative description, e.g. 'brown sugar, caramel in the finish'"
+            }
+          }
+        },
+        "body": {
+          "type": "object",
+          "properties": {
+            "rating": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 5,
+              "description": "1=thin/watery, 3=medium, 5=heavy/syrupy"
+            },
+            "notes": {
+              "type": "string",
+              "description": "Qualitative description, e.g. 'juicy, medium-full, coats the palate'"
+            }
+          }
+        },
+        "finish": {
+          "type": "object",
+          "properties": {
+            "length": {
+              "type": "string",
+              "enum": ["short", "medium", "long"],
+              "description": "How long the aftertaste lingers"
+            },
+            "quality": {
+              "type": "string",
+              "description": "What the finish tastes like, e.g. 'clean berry, fades to caramel'"
+            }
+          }
+        },
+        "tasting_notes_free": {
+          "type": "string",
+          "description": "Freeform tasting notes in your own words — no constraints here"
+        },
+        "overall_rating": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 10,
+          "description": "Your overall score for this roast, 1-10"
+        },
+        "defect_flags": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["underdeveloped", "baked", "scorched", "overdeveloped", "grassy", "papery", "astringent", "none"]
+          },
+          "description": "Any defects detected in the cup — can be empty or ['none']"
+        }
+      }
+    },
+    "lab_context": {
+      "type": "object",
+      "description": "Lab-specific metadata and analysis",
+      "properties": {
+        "comparison_roast_id": {
+          "type": ["string", "null"],
+          "description": "Entry ID of any roast being compared to this one in the same lab"
+        },
+        "variable_changed_from_previous": {
+          "type": ["string", "null"],
+          "description": "For iteration labs: what single variable was changed from the prior roast"
+        },
+        "hypothesis": {
+          "type": ["string", "null"],
+          "description": "What you predicted would happen before the roast"
+        },
+        "hypothesis_result": {
+          "type": ["string", "null"],
+          "description": "Whether the hypothesis was confirmed, refuted, or inconclusive — and why"
+        }
+      }
+    },
+    "session_notes": {
+      "type": "string",
+      "description": "Open-ended notes about anything notable this session — equipment behavior, surprises, things to try next time"
+    },
+    "next_adjustment": {
+      "type": "string",
+      "description": "One specific thing you will change or investigate in the next roast of this bean"
+    }
+  }
+}

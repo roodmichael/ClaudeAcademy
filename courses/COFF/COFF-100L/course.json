@@ -1,0 +1,21 @@
+{
+  "code": "COFF-100L",
+  "title": "Home Coffee Roasting — Lab",
+  "department": "COFF",
+  "level": 100,
+  "labs": 6,
+  "prerequisites": ["COFF-100"],
+  "description": "The hands-on companion to COFF-100. Students roast, cup, and analyze their own coffee across six structured labs, building a personal feedback loop between roasting decisions and cup results. Labs progress from sensory calibration through deliberate defect practice to systematic single-variable iteration.",
+  "learning_outcomes": [
+    "Describe the flavor differences between light, medium, and dark roasts using specific sensory vocabulary",
+    "Roast a batch of green coffee through all three stages with active observation and full documentation",
+    "Identify how development time affects flavor by comparing two roasts of the same bean",
+    "Distinguish origin character from roast character by cupping two different beans roasted to the same level",
+    "Diagnose a roast defect in the cup and trace it back to the specific roasting decision that caused it",
+    "Apply single-variable adjustment methodology to improve a roast across multiple iterations"
+  ],
+  "template_type": "hobby",
+  "research_quality": "strong",
+  "created": "2026-04-11",
+  "status": "active"
+}

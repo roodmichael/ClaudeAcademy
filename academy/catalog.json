@@ -1,6 +1,17 @@
 {
   "courses": [
     {
+      "code": "COFF-100L",
+      "title": "Home Coffee Roasting — Lab",
+      "department": "COFF",
+      "level": 100,
+      "labs": 6,
+      "prerequisites": ["COFF-100"],
+      "description": "The hands-on companion to COFF-100. Students roast, cup, and analyze their own coffee across six structured labs, building a personal feedback loop between roasting decisions and cup results. Labs progress from sensory calibration through deliberate defect practice to systematic single-variable iteration.",
+      "status": "active",
+      "created": "2026-04-11"
+    },
+    {
       "code": "COFF-100",
       "title": "Home Coffee Roasting — Foundations",
       "department": "COFF",
