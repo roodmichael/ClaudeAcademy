@@ -1,0 +1,66 @@
+{
+  "session": "08",
+  "course": "LITR-JAPN-KOJI-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "What was Motoori Norinaga's 'Kojiki-den'?",
+      "options": [
+        "A. A competing translation of the Kojiki written to challenge Chamberlain's 1882 version",
+        "B. A 44-volume philological commentary on the Kojiki, completed in 1798 after 34 years of work",
+        "C. The original preface Yasumaro wrote when presenting the Kojiki to Empress Genmei",
+        "D. A Meiji-era government document establishing the Kojiki as Japan's national scripture"
+      ],
+      "answer": "B",
+      "explanation": "The Kojiki-den is Norinaga's 44-volume commentary on the Kojiki, completed after 34 years of work (1764–1798). It is one of the most intensive scholarly engagements with a single text in world literary history. Norinaga used rigorous historical linguistics combined with literary sensitivity to decode the archaic Japanese of the Kojiki."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "Why did Norinaga argue that the Kojiki was more authentically Japanese than the Nihon Shoki?",
+      "options": [
+        "A. The Kojiki was written earlier and thus closer to the original oral traditions",
+        "B. The Nihon Shoki was written by Chinese scholars, not Japanese ones",
+        "C. The Kojiki, with its mixed Chinese-Japanese script preserving archaic phonetics, was less contaminated by Chinese intellectual frameworks than the Nihon Shoki's pure Classical Chinese",
+        "D. The Nihon Shoki contained myths that contradicted the Kojiki, making it unreliable"
+      ],
+      "answer": "C",
+      "explanation": "Norinaga's central argument was that Chinese intellectual influence had contaminated Japanese texts — and that the Kojiki, precisely because its awkward mixed script preserved archaic Japanese phonetics, was more authentically Japanese than the Nihon Shoki, which was written in polished Classical Chinese and reflected Chinese historiographical conventions."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "The scholarly concept of 'myth' means that a story is false and should not be taken seriously.",
+      "answer": false,
+      "explanation": "In scholarly usage, 'myth' means a narrative that a community uses to explain its origins, values, and cosmic order. Myths are not simply believed or disbelieved — they are performed, inhabited, argued over, weaponized, and critiqued. Calling the Kojiki mythological is not dismissing it; it is describing its cultural function. The question is not whether the myths are 'true' but what they have done in history."
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "question": "How did State Shinto use the Kojiki's content, and what historical consequences followed?",
+      "sample_answer": "State Shinto, the Meiji government's official ideology, used the Kojiki's divine genealogy to assert that the emperor was literally a living kami (arahitogami) — directly descended from Amaterasu. The Kojiki's divine lineage was taught in schools as literal history, and the 660 BCE founding date was treated as established fact. This ideology provided theological justification for Japanese imperial expansionism — the divine land ruled by the divine emperor was naturally superior to other nations. It contributed to the militarism and colonialism of the early 20th century. After Japan's defeat in 1945, the emperor renounced divinity, State Shinto was disestablished by Allied occupation authorities, and the scholars who had argued against the literal reading of the Kojiki (like Tsuda Sōkichi) were rehabilitated.",
+      "key_concepts": ["arahitogami", "State Shinto", "Meiji ideology", "post-WWII renunciation"]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "Tsuda Sōkichi's argument — that the Kojiki was created to legitimize imperial rule rather than to record history — was considered controversial and suppressed in Japan. When was this work rehabilitated?",
+      "options": [
+        "A. During the Meiji Restoration (1868), when a new generation of scholars challenged State Shinto",
+        "B. After World War II, when Allied occupation disestablished State Shinto and the scholarly consensus shifted",
+        "C. In the Norinaga period (late 18th century), when philological analysis replaced literal reading",
+        "D. During the Taisho period (1912–1926), when democratic reforms briefly opened academic debate"
+      ],
+      "answer": "B",
+      "explanation": "Tsuda's work was published in 1913 and suppressed during the militarist period. After Japan's defeat in 1945 and the Allied disestablishment of State Shinto, his framework — the Kojiki as political literature rather than history or scripture — became the dominant scholarly consensus."
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "question": "What is 'mono no aware' and why did Motoori Norinaga consider it central to Japanese literary sensibility?",
+      "sample_answer": "Mono no aware (literally 'the pathos of things') is a sensitivity to beauty and transience — the poignant awareness that lovely things pass away. Norinaga argued it was the fundamental quality of Japanese literary sensibility, as distinguished from the didactic and moralistic focus he associated with Chinese literature. He developed the concept first in his reading of the Tale of Genji and argued it could also be found in the emotional registers of the Kojiki and Man'yōshū. He claimed that good literature invited readers to experience characters' emotions directly, without moral judgment — to feel the pathos of the situation rather than assess it. The concept became enormously influential in Japanese literary criticism and cultural self-understanding.",
+      "key_concepts": ["sensitivity to transience", "emotion without moral judgment", "contrast with Chinese didacticism", "literary criticism"]
+    }
+  ]
+}

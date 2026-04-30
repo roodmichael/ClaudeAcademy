@@ -20,21 +20,22 @@ academy/
     profile-template.json        # Empty schema used when creating a new student
     {student_id}/
       profile.json               # Student background, domains, analogy palette, interests
-      progress/{DEPT-###}.json   # Per-course progress, quiz scores, session notes
-      logs/{DEPT-###L}.json      # Per-lab-course log, accumulates all lab entries
+      progress/{course-code}.json  # Per-course progress, quiz scores, session notes
+      logs/{course-code}L.json     # Per-lab-course log, accumulates all lab entries
       personalized/
-        {DEPT-###}/
+        {course-code}/
           sessions/{nn}-{slug}/
             exercises.md         # Student-specific exercise variants (generated at enrollment)
 courses/
   {DEPT}/
-    {DEPT-###}/                  # e.g. COFF/COFF-100 — lecture course
+    {DEPT-###}/                  # e.g. COFF/COFF-100 — standard lecture course
       course.json
       syllabus.md
       sessions/{nn}-{slug}/
       assessments/
       resources/
         research/                # Raw researcher output — never delete
+    {LITR-REGION-TEXT-###}/      # e.g. LITR/LITR-JAPN-KOJI-100 — literature course
     {DEPT-###L}/                 # e.g. COFF/COFF-100L — lab companion course
       course.json
       syllabus.md
@@ -70,8 +71,11 @@ No other agent relationships exist.
 
 ## Course Numbering Rules
 
+### Standard Courses (skill-based and subject-based)
+
 - Department codes are 4 letters derived from the subject noun (BREW, KAFK, PLSC)
 - New departments must be registered in academy/departments.json before use
+- Course code format: `{DEPT}-{###}` e.g. COFF-100
 - 100 = Foundations, no prerequisites
 - 101 = Core concepts, requires 100
 - 102 = Applied practice, requires 101
@@ -79,6 +83,27 @@ No other agent relationships exist.
 - Not every subject needs a 102 — end the series when the material is complete
 - Course session count is determined by material volume, not a fixed template
   Minimum 4 sessions, maximum 12 per course
+
+### Literature Courses
+
+Literature courses study individual texts and use a 4-segment code to avoid namespace
+collisions across the large potential catalog of titles:
+
+- Course code format: `LITR-{REGION}-{TEXT}-{###}`
+- `LITR` — fixed domain prefix for all literature courses
+- `{REGION}` — 4-letter region, tradition, or era code (JAPN, GREK, ITAL, BIBL, RUSS, BRIT)
+- `{TEXT}` — 4-letter abbreviation of the specific title (KOJI, ILID, ODYS, DIVN)
+- `{###}` — level suffix following standard numbering rules (100 = Foundations, 101 = deeper study, etc.)
+
+Examples:
+  LITR-JAPN-KOJI-100   The Kojiki — Foundations
+  LITR-GREK-ILID-100   The Iliad — Foundations
+  LITR-BIBL-GNES-100   Genesis — Foundations
+  LITR-BIBL-PAUL-100   Pauline Letters — Foundations
+
+Literature courses live under the LITR department directory: courses/LITR/{full-code}/
+The LITR department is registered in departments.json; no separate entries are needed
+for individual REGION or TEXT segments.
 
 ## Lab Course Rules
 

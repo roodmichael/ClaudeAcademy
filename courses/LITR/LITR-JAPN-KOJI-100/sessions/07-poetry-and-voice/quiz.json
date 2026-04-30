@@ -1,0 +1,66 @@
+{
+  "session": "07",
+  "course": "LITR-JAPN-KOJI-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Why do scholars argue that the poems in the Kojiki are likely older than the surrounding prose narrative?",
+      "options": [
+        "A. Yasumaro's preface explicitly states that the poems were composed before the chronicle was written",
+        "B. The poems are written in a different script (man'yōgana) and reflect an earlier oral tradition that the prose was built around",
+        "C. The poems are attributed to gods from earlier generations than the prose narrative covers",
+        "D. Carbon dating of the manuscript proves the poetic sections were added to an older document"
+      ],
+      "answer": "B",
+      "explanation": "The poems are written in man'yōgana (Chinese characters used phonetically for Japanese sounds) while the surrounding prose uses Classical Chinese. This scribal distinction reflects their different origins: the poems preserve older Japanese oral material, while the prose was composed in the literary language of 712 CE. Scholars widely believe the prose frame was built around pre-existing oral poetry."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "What is a 'sedōka' in the context of Kojiki poetry?",
+      "options": [
+        "A. A short 5-7-5-7-7 poem; the standard waka form later used throughout Japanese literature",
+        "B. A conventional prefix-epithet attached to a noun, carrying untranslatable sonic associations",
+        "C. A 5-7-7 / 5-7-7 structure typically used for dialogue between two characters",
+        "D. A long poem (5-7-5-7-...-7-7) used for extended lyric moments of high emotional intensity"
+      ],
+      "answer": "C",
+      "explanation": "A sedōka consists of two katauta units (5-7-7 / 5-7-7), making it particularly suited for dialogue — the first unit can be one character's voice, the second the other's response. This form enacts relationships directly rather than describing them."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "Makurakotoba ('pillow words') are freely improvised phrases that individual poets invented on the spot to add color to their poems.",
+      "answer": false,
+      "explanation": "Makurakotoba are conventional epithets — fixed phrases associated with specific nouns or place names by long tradition. They are not improvised; they are inherited. A poet who used a makurakotoba was drawing on shared cultural memory, not inventing. Their meaning is more sonic and associative than semantic, and they are notoriously difficult to translate."
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "question": "Susanoo's first poem (the 'cloud-fence' love song after slaying Yamata no Orochi) does something for his character that the prose narrative cannot. Explain what the poem accomplishes that prose narration would struggle to achieve.",
+      "sample_answer": "The prose narrative describes Susanoo's actions — his grief, his rampage, his exile, his heroism. But a narrative description of Susanoo as 'now capable of tenderness' would feel asserted rather than demonstrated. The love poem shows it: we hear his voice expressing protective delight in his new wife, building a home from clouds. The poem is not about the emotion — it enacts the emotion. It also transforms our understanding of the storm god: the violent force of the cave episode and the tender poet composing a love song are the same being. Prose can describe this complexity; only the poem can perform it.",
+      "key_concepts": ["enactment vs. description", "character transformation through voice", "prose narrating vs. poem performing"]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "When a poem in the Kojiki is followed by the phrase 'therefore this song is sung to this day,' what function is being served?",
+      "options": [
+        "A. Yasumaro is authenticating the poem as historically verified",
+        "B. The text is linking the mythological past to the present moment of recitation, making the poem a living artifact rather than a historical quotation",
+        "C. Chamberlain is inserting editorial commentary to indicate the poem's continued popularity",
+        "D. The phrase indicates that Norinaga considered the poem to be of authentic ancient origin"
+      ],
+      "answer": "B",
+      "explanation": "This formula links the mythological past to the living present of the reader/reciter. By saying 'therefore this is sung to this day,' the Kojiki claims that the poem is not merely a historical artifact but a living voice — reciting it in the present reactivates its mythological origin. This is one of the key ways the Kojiki makes its ancient material relevant to a contemporary audience."
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "question": "Why does Yasumaro write the poems in man'yōgana (phonetic Chinese characters) even though the surrounding prose is in Classical Chinese?",
+      "sample_answer": "Yasumaro was preserving the sound of the original Japanese songs — their syllable count, their rhythm, their specific words — which Classical Chinese prose could not capture. Man'yōgana is a phonetic system that records Japanese sound using Chinese characters as sound symbols. By switching scripts for the poems, Yasumaro acknowledges that these songs belong to a different linguistic register: they are not paraphrasable summaries of what a character felt, but specific sonic artifacts with their own integrity. The script change is itself an editorial decision that marks the poems as something distinct from and irreducible to the prose surrounding them.",
+      "key_concepts": ["man'yōgana as phonetic preservation", "script change as editorial choice", "sonic integrity of the poem"]
+    }
+  ]
+}

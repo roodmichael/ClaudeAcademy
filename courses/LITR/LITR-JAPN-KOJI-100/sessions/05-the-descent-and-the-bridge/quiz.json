@@ -1,0 +1,59 @@
+{
+  "session": "05",
+  "course": "LITR-JAPN-KOJI-100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "What is the 'Tenson Kōrin'?",
+      "options": [
+        "A. The ceremony in which Ōkuninushi formally cedes the land to the heavenly gods",
+        "B. The descent of Ninigi-no-Mikoto from heaven to earth, considered the climax of the Kojiki",
+        "C. The birth of the Three Precious Children from Izanagi's purification",
+        "D. Susanoo's exile from Takamagahara after the Ama-no-Iwato episode"
+      ],
+      "answer": "B",
+      "explanation": "Tenson Kōrin ('Descent of the Heavenly Grandchild') refers specifically to Ninigi's descent from the High Plain of Heaven to Mount Takachiho in Kyushu. It is considered the structural climax and pivot of the Kojiki — the moment the divine age gives way to the proto-historical age."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "Why does Ninigi's choice to reject Iwanagahime matter for the rest of the Kojiki?",
+      "options": [
+        "A. Because Iwanagahime's father becomes an enemy of the imperial line in revenge",
+        "B. Because by rejecting the 'Princess Long-as-Rock,' Ninigi forfeits the eternal life that would have made his descendants immortal",
+        "C. Because Konohanasakuya-hime turns out to be unfaithful, casting doubt on the imperial lineage",
+        "D. Because the gods in Takamagahara are angered by Ninigi's poor judgment and withdraw their blessing"
+      ],
+      "answer": "B",
+      "explanation": "Iwanagahime's father explains: if Ninigi had accepted both daughters, his descendants would have lived as long as rock. By rejecting Iwanagahime and keeping only the beautiful Konohanasakuya-hime, the imperial descendants will be mortal — like flowers, they bloom and fall. This is the Kojiki's explanation for why the descendants of the gods must die."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "Ninigi descends to the Yamato region (central Honshu), where the historical Yamato court was located.",
+      "answer": false,
+      "explanation": "Ninigi descends to Takachiho in the Himuka region of Kyushu — the southeastern island. His great-great-grandson Jimmu will later lead the eastward campaign from Kyushu to Yamato. The myth traces the imperial line's origins to a specific non-central location, with the rise to central power as a subsequent historical achievement."
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "question": "The Kojiki explains human mortality through the Rejected Sister episode rather than through divine punishment or sin. What does this narrative approach (consequence without punishment) suggest about how the text understands the relationship between choice and fate?",
+      "sample_answer": "The Rejected Sister episode presents mortality as an unintended consequence of an ordinary human motivation (preferring beauty over ugliness), not as a punishment for moral failure or divine disfavor. The gods are not angry; Ninigi is not condemned. He simply chose one thing and lost another as a result. This approach frames the world's difficult features as the accumulated outcomes of specific past choices, rather than as expressions of divine will or justice — which is characteristic of how the Kojiki explains why things are as they are throughout the text.",
+      "key_concepts": ["consequence without punishment", "theodicy through narrative", "choice and unintended result"]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "The three imperial regalia Ninigi receives before his descent — mirror, jewels, and sword — came from three distinct episodes in the Kojiki. Which episode produced the sword Kusanagi?",
+      "options": [
+        "A. Izanagi's purification in the river after returning from Yomi",
+        "B. The Ama-no-Iwato: the gods preparing their spectacle outside the rock cave",
+        "C. Susanoo's slaying of the eight-headed serpent Yamata no Orochi",
+        "D. The Tenson Kōrin itself: Amaterasu forged it before Ninigi descended"
+      ],
+      "answer": "C",
+      "explanation": "Kusanagi-no-Tsurugi was found by Susanoo inside the tail of Yamata no Orochi after he slew it. He presented it to Amaterasu. The mirror and jewels both come from the Ama-no-Iwato episode — the mirror was forged by the smith god to lure Amaterasu out, and the curved jewels were hung alongside it."
+    }
+  ]
+}
