@@ -1,0 +1,66 @@
+{
+  "session": "01",
+  "course": "JAPN-103",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which contraction is the most commonly heard in natural Japanese conversation?",
+      "options": [
+        "A. ちゃう (from てしまう)",
+        "B. てる (from ている)",
+        "C. とく (from ておく)",
+        "D. んだ (from のだ)"
+      ],
+      "answer": "B",
+      "explanation": "てる, contracted from ている, is the single most common contraction in casual Japanese. It applies universally to progressive and stative meanings across all verb types."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "What is the contracted casual form of 食べてしまった?",
+      "options": [
+        "A. 食べちゃう",
+        "B. 食べしまった",
+        "C. 食べちゃった",
+        "D. 食べてった"
+      ],
+      "answer": "C",
+      "explanation": "食べてしまった → 食べちゃった. The て-form ends in て (not で), so しまう → ちゃう, and past tense makes it ちゃった."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "The contraction じゃない (from ではない) is appropriate to use in a formal business email.",
+      "answer": false,
+      "explanation": "じゃない is a casual speech contraction and belongs in タメ口 (casual register). Formal written Japanese — including business emails — uses ではない or ではありません."
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "question": "What is the phonological rule that generates most Japanese casual contractions? Give one example that demonstrates this rule.",
+      "sample_answer": "The い (i) mora drops from common verb endings. Example: て+いる → てる (the い drops, leaving the contracted form). Same rule applies: ておく → とく (て+おく, where い is absent but the vowel fusion is the same principle of casual mora reduction).",
+      "key_concepts": ["い-dropping", "mora reduction", "casual speech phonology"]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "A friend texts you: 今日、ちゃんと起きれた！ What is happening grammatically in 起きれた, and is this standard usage?",
+      "options": [
+        "A. Standard form; 起きれた is the correct past potential form of 起きる",
+        "B. ら抜き言葉; 起きられた is the standard form, but 起きれた is very common in casual speech",
+        "C. A typo for 起きた (plain past)",
+        "D. Incorrect in all registers; 起きれた is not a real form"
+      ],
+      "answer": "B",
+      "explanation": "起きれた is ら抜き言葉 — the ら has been dropped from the potential form 起きられた. It is considered grammatically incorrect in formal contexts and JLPT exams, but is pervasive in casual speech and widely understood. The practical advantage is that it unambiguously marks the potential (vs. passive) meaning."
+    },
+    {
+      "id": "q6",
+      "type": "short_answer",
+      "question": "Your Japanese study partner (a close friend) says: 'もう行かなきゃ！また明日ね。' Translate this into natural English, and identify which contracted forms are present.",
+      "sample_answer": "Translation: 'I've gotta go! See you tomorrow.' Contractions: 行かなきゃ (from 行かなければ — obligation contraction); また明日ね (ね is a sentence-final particle for shared acknowledgment, not a contraction). The full form of 行かなきゃ would be 行かなければ (or 行かなければならない for the full obligation expression).",
+      "key_concepts": ["なきゃ obligation form", "sentence-final particles", "casual register"]
+    }
+  ]
+}

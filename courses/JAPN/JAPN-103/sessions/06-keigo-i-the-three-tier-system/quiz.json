@@ -1,0 +1,72 @@
+{
+  "session": "06",
+  "course": "JAPN-103",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which statement correctly describes the difference between teineigo and kenjōgo?",
+      "options": [
+        "A. Teineigo elevates your own actions; kenjōgo elevates others' actions",
+        "B. Teineigo is the polite baseline (ます/です); kenjōgo uses special vocabulary to humble the speaker's own actions",
+        "C. Both teineigo and kenjōgo elevate the other person",
+        "D. Kenjōgo is only used in written Japanese, not in speech"
+      ],
+      "answer": "B",
+      "explanation": "Teineigo is the ます/です polite baseline — no special vocabulary substitution. Kenjōgo uses lexical substitutions (行く→参る, もらう→いただく) to humble the speaker's own actions, showing deference to the listener."
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "question": "When speaking to a client about your boss (your uchi superior), you should use sonkeigo for your boss's actions because they outrank you.",
+      "answer": false,
+      "explanation": "This is the uchi/soto principle. When speaking to outsiders (soto = the client), your entire in-group (uchi) — including your boss — is treated as 'down' relative to the outsider. You use kenjōgo (humble) for your boss's actions when describing them to a client: 部長は明日参ります (humble), not 部長は明日いらっしゃいます."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "A job candidate says 私が先週の面接にいらっしゃいました。What is wrong with this sentence?",
+      "options": [
+        "A. Nothing is wrong — いらっしゃいました is a standard past tense form",
+        "B. いらっしゃる is sonkeigo and must never be used to describe the speaker's own actions; 参りました is correct",
+        "C. The candidate should have used 来ました instead of a keigo form",
+        "D. いらっしゃいました is too formal for a job interview context"
+      ],
+      "answer": "B",
+      "explanation": "Using sonkeigo (いらっしゃる) for your own actions is the most consequential keigo error. It elevates yourself, which is socially backward. The correct kenjōgo form is 参りました (I came / I was there). This error reads as confusing or rude to a native speaker."
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "question": "Explain, in your own words, why 美化語 (bikago) is listed separately from the three main keigo tiers. Give one example of bikago in use.",
+      "sample_answer": "Bikago uses お or ご prefixes to make speech more elegant or refined, but does not encode a social relationship — it doesn't elevate another person or humble the speaker. It is about the speaker's own cultivated speech style. For example, saying お酒 instead of just 酒 is bikago: the speaker sounds more refined, but the prefix is not marking respect toward a specific person or humbling oneself. In contrast, sonkeigo and kenjōgo are always directional — they mark who is 'up' and who is 'down' in the interaction.",
+      "key_concepts": ["bikago is stylistic not relational", "お/ご as elegance not hierarchy", "contrast with sonkeigo/kenjōgo directionality"]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "A department store staff member says to a customer: お待たせいたしました、田中様。Which keigo patterns are present in this sentence?",
+      "options": [
+        "A. Only teineigo — いたしました is a polite past form",
+        "B. Kenjōgo (いたす as humble form of する) for the staff member's action, and 様 as an honorific for the customer",
+        "C. Sonkeigo for the customer and bikago for the store",
+        "D. This sentence contains no keigo — it is standard polite speech"
+      ],
+      "answer": "B",
+      "explanation": "お待たせいたしました uses the kenjōgo pattern: お + ます-stem (待たせ) + いたしました (humble form of する). The staff member is humbling their own action (having made the customer wait). 様 is an honorific suffix that elevates the customer. Both together create the full service-Japanese register."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "In which situation is it INAPPROPRIATE to use keigo (sonkeigo or kenjōgo)?",
+      "options": [
+        "A. A business call to a client company",
+        "B. A job interview",
+        "C. A casual dinner with colleagues who have become your close friends over a year of working together",
+        "D. Speaking to a department store staff member who is helping you"
+      ],
+      "answer": "C",
+      "explanation": "Overusing keigo with close colleagues creates unnecessary social distance and sounds socially awkward — as if you are treating your friends as strangers. The research notes that overusing keigo 'can create unnecessary distance or sound robotic' (Kotoba Garden Japanese). Once a close working relationship is established, teineigo or even casual speech is appropriate."
+    }
+  ]
+}

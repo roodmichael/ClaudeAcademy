@@ -1,6 +1,39 @@
 {
   "courses": [
     {
+      "code": "JAPN-103",
+      "title": "Japanese Language — N4 to N3 Conversation and Natural Speech",
+      "department": "JAPN",
+      "level": 103,
+      "sessions": 11,
+      "prerequisites": ["JAPN-102"],
+      "description": "Closes the gap between reading N3 Japanese and speaking and hearing it naturally. Students master the casual speech layer (contractions, sentence-final particles, discourse markers), build a working command of the three-tier keigo system, train listening comprehension at natural conversational speed through shadowing, and learn to express uncertainty, nuance, and emotion with the evidential vocabulary that makes Japanese sound like a native rather than a textbook.",
+      "status": "active",
+      "created": "2026-06-25"
+    },
+    {
+      "code": "JAPN-102",
+      "title": "Japanese Language — N4 to N3 Vocabulary and Kanji",
+      "department": "JAPN",
+      "level": 102,
+      "sessions": 11,
+      "prerequisites": ["JAPN-101"],
+      "description": "Bridges the gap between JLPT N4 and N3 by building the vocabulary and kanji knowledge the grammar-focused JAPN-101 left open. Students expand from ~300 to ~650 kanji using a radical-mnemonic approach, grow their vocabulary from ~1,500 to ~3,750 words through thematic grouping and spaced repetition, master the on'yomi/kun'yomi prediction system, work through key near-synonym pairs, and develop the skim-scan-dive reading strategy for authentic N3 texts.",
+      "status": "active",
+      "created": "2026-06-24"
+    },
+    {
+      "code": "JAPN-101",
+      "title": "Japanese Language — N3 Grammar Patterns",
+      "department": "JAPN",
+      "level": 101,
+      "sessions": 11,
+      "prerequisites": ["JAPN-100"],
+      "description": "A systematic study of the grammar patterns that separate JLPT N4 competence from N3 fluency. Covers te-form extensions (ている, てある, てしまう, ておく, てみる, てあげる/くれる/もらう), all four conditional forms (と, ば, たら, なら), passive and causative constructions (including adversative passive and causative-passive), potential form, Japanese relative clauses, nominalizers こと and の, and clause connectors (から/ので, が/けど, のに, たり〜たり, ながら).",
+      "status": "active",
+      "created": "2026-06-24"
+    },
+    {
       "code": "LITR-JAPN-KOJI-100",
       "title": "The Kojiki — Reading Japan's Oldest Chronicle",
       "department": "LITR",

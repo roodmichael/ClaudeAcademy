@@ -1,0 +1,59 @@
+{
+  "session": "02",
+  "course": "JAPN-103",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "In the casual expression てんだ (e.g., 何やってんだ), what is the sequence of contractions that produced it from the full form?",
+      "options": [
+        "A. ている → てる → てん, then のだ → んだ",
+        "B. てのだ → てんだ (single-step contraction)",
+        "C. ていのだ → てるのだ → てんだ (い drops, then の compresses in the cluster)",
+        "D. でいる → でる → でん (voiced variant)"
+      ],
+      "answer": "C",
+      "explanation": "The stack is two steps: (1) ている→てる (い drops); then (2) てるの in rapid speech further compresses to てん. The combination てんだ comes from ているのだ through this two-step process."
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "question": "ら抜き言葉 (e.g., 食べれる for 食べられる) is considered correct in all registers of modern Japanese.",
+      "answer": false,
+      "explanation": "ら抜き言葉 is extremely common in casual speech and is functional (it disambiguates potential from passive), but it remains classified as non-standard in formal writing, JLPT exams, and formal speech. Agency for Cultural Affairs data shows rising acceptance, but formal contexts still require the standard form with ら."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "What is one functional advantage of ら抜き言葉 over the standard potential form?",
+      "options": [
+        "A. It sounds more polite",
+        "B. It disambiguates the potential meaning from the passive, which share the same form in standard Japanese",
+        "C. It is easier to conjugate in past tense",
+        "D. It is the only acceptable form in Kansai dialect"
+      ],
+      "answer": "B",
+      "explanation": "食べられる is ambiguous: it can mean 'can eat' (potential) or 'be eaten' (passive). 食べれる (ら抜き) can only be potential, resolving the ambiguity. This functional advantage explains why ら抜き言葉 has spread naturally among speakers."
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "question": "Your Japanese friend texts: 今日ダルいし、もう寝なくちゃ。What does this mean? Identify the contracted forms.",
+      "sample_answer": "Translation: 'I'm tired/lazy today, so I've gotta sleep now.' Contracted forms: 寝なくちゃ (from 寝なくてはいけない — obligation contraction). The し at the end of ダルいし is a listing/reason particle ('because of this among other reasons'). ダルい is casual for 'tired, sluggish, unmotivated.'",
+      "key_concepts": ["なくちゃ obligation", "casual adjective ダルい", "し particle for listing reasons"]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "Which of the following contracted forms would be MOST inappropriate to produce in a job interview?",
+      "options": [
+        "A. んです (from のです, in an explanatory sentence)",
+        "B. じゃないですか (from ではないですか)",
+        "C. やってんだよ (stacked てん + だ + よ)",
+        "D. なきゃですね (obligation + polite agreement)"
+      ],
+      "answer": "C",
+      "explanation": "やってんだよ contains the rough stacked contraction てんだ plus the assertive particle よ. This is very casual speech that would be completely inappropriate in a formal setting like a job interview. The other options, while contractions, are either polite (んです, じゃないですか) or borderline acceptable in semi-formal contexts."
+    }
+  ]
+}

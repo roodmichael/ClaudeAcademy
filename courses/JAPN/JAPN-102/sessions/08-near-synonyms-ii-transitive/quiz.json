@@ -1,0 +1,72 @@
+{
+  "session": "08",
+  "course": "JAPN-102",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which sentence correctly describes: 'The meeting time was changed (by someone, but we don't say by whom)'?",
+      "options": [
+        "A. 会議の時間が変えました",
+        "B. 会議の時間を変わりました",
+        "C. 会議の時間が変わりました",
+        "D. 会議の時間を変えました"
+      ],
+      "answer": "C",
+      "explanation": "When the event is reported without naming the agent, use the intransitive form: 変わる + が. 会議の時間が変わりました = 'The meeting time changed.' Option D (変える + を) would require an explicit agent performing the action. Options A and B have wrong particle-verb combinations."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "You walk into a room and see that the lights are off. What do you say if someone clearly turned them off (and you want to imply agency)?",
+      "options": [
+        "A. 電気が消えている",
+        "B. 電気が消している",
+        "C. 電気を消している",
+        "D. 誰かが電気を消した"
+      ],
+      "answer": "D",
+      "explanation": "To imply agency — that someone deliberately turned them off — you need the transitive 消す with を and an explicit (or implied) agent. 誰かが電気を消した = 'Someone turned off the lights.' Option A (消えている) means 'the lights are out' with no agent implied. Options B and C are grammatically awkward."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "Japanese verb forms that end in -eru are always transitive, so 落ちる (to fall) must be the transitive form of the 落とす/落ちる pair.",
+      "answer": false,
+      "explanation": "Morphological patterns like -eru = transitive are unreliable — research shows they predict correctly only about 20% of the time. 落ちる (-iru, not -eru) is the intransitive form (to fall, no agent). 落とす is the transitive form (to drop something). This pair must be learned explicitly as a pair, not inferred from verb form."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "The sentence 子どもを育てました reflects what kind of verb, and who is doing what?",
+      "options": [
+        "A. Intransitive — the child is growing up on their own",
+        "B. Transitive — I reared the child (I am the agent, child is object)",
+        "C. Intransitive — I grew up",
+        "D. Transitive — the child raised itself"
+      ],
+      "answer": "B",
+      "explanation": "育てる is the transitive verb (to raise/rear). 子どもを育てました: 子どもを marks the child as the direct object; the speaker is the agent who raised them. The intransitive pair 育つ would be used for 子どもが育つ (the child grows up — on their own)."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Explain the connection between the transitive/intransitive distinction and the passive voice from JAPN-101. When does the connection matter?",
+      "sample_answer": "Only transitive verbs can be passivized in the standard Japanese passive. 開ける (transitive) → ドアが開けられた (the door was opened — passive). 開く (intransitive) → standard passive is ungrammatical here, because the intransitive form already expresses the event without an agent (ドアが開く, the door opened). This matters for reading comprehension: when you see a passive form, you know the verb was originally transitive and an agent was responsible for the action, even if the agent is not stated.",
+      "key_concepts": ["passive voice", "transitive only", "agent", "JAPN-101 connection"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "Which pair correctly shows the same event from two perspectives — with and without an explicit agent?",
+      "options": [
+        "A. 財布が落ちた / 誰かが財布を落とした",
+        "B. 財布を落ちた / 財布が落とした",
+        "C. 財布が落とした / 誰かが財布を落ちた",
+        "D. 財布を落とした / 財布が落とした"
+      ],
+      "answer": "A",
+      "explanation": "財布が落ちた (intransitive: the wallet fell — event reported without agent) vs. 誰かが財布を落とした (transitive: someone dropped the wallet — agent + direct object). This is the correct transitive/intransitive pair for falling/dropping."
+    }
+  ]
+}

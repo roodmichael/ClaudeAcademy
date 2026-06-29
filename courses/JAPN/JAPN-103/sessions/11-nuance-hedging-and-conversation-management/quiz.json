@@ -1,0 +1,72 @@
+{
+  "session": "11",
+  "course": "JAPN-103",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "A Japanese coworker responds to your request with: それはちょっと… and then pauses. What does this most likely mean?",
+      "options": [
+        "A. They need a little more time to think before agreeing",
+        "B. They are saying that the thing is 'a little' (small) in size",
+        "C. They are politely declining — ちょっと followed by a trailing pause is an indirect refusal signal",
+        "D. They are asking you to explain your request again"
+      ],
+      "answer": "C",
+      "explanation": "ちょっと followed by a pause (trailing off) is one of the most important indirect refusal signals in Japanese. The speaker cannot or will not do what you asked, but is declining politely. In Japanese indirect communication, waiting for a more explicit 'no' that never comes is a common foreign learner trap."
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "question": "In a Japanese conversation, when someone says はい repeatedly while you are speaking, they are expressing agreement with the content of what you are saying.",
+      "answer": false,
+      "explanation": "In conversational Japanese, はい most commonly functions as a back-channel / aizuchi signal meaning 'I'm listening, please continue.' It is not an endorsement of the content. This is one of the most consequential cross-cultural misunderstandings in Japanese communication — a foreign speaker may interpret a listener's frequent はい as agreement, when the listener has simply been politely back-channeling."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "Which sequence of expressions represents a natural Japanese indirect disagreement?",
+      "options": [
+        "A. いいえ、それは間違っています。直しましょう。",
+        "B. なるほど、ただ、少し気になる点があるんですが…",
+        "C. ちがう！そうじゃないよ。",
+        "D. 私は同意しません。別の方法が正しいです。"
+      ],
+      "answer": "B",
+      "explanation": "なるほど, ただ, …んですが is the classic pattern of Japanese indirect disagreement: acknowledge the other's point (なるほど), signal a qualification (ただ = 'however'), and introduce the concern with a softening ending (気になる点があるんですが = 'there's a point that concerns me, but…'). Options A, C, and D are all direct disagreements that would be socially unusual in many Japanese professional or semi-formal contexts."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "A close friend tells you something you find mildly surprising but not shocking. Which aizuchi most naturally fits?",
+      "options": [
+        "A. なるほどですね (formal comprehension response)",
+        "B. へえ、そうなんだ (mild surprise + casual realization)",
+        "C. その通りです (formal endorsement — 'exactly right')",
+        "D. えっ！本当に！？(strong shock and disbelief)"
+      ],
+      "answer": "B",
+      "explanation": "へえ expresses mild surprise or interest in new information; そうなんだ marks casual realization ('oh, that's how it is'). Together they form a natural casual response to mildly surprising new information from a friend. なるほどですね is too formal for this context. その通りです is agreement, not surprise. えっ！本当に？is much stronger — reserved for genuinely shocking information."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Explain the difference between まあまあです and まあいいか, using each in an example sentence that shows the nuance.",
+      "sample_answer": "まあまあです means 'so-so / not bad, not great' — it is a moderation expression used when evaluating something as middling. Example: 試験の結果、まあまあでした。(The test result was so-so.) まあいいか expresses resigned acceptance — 'well, I guess that's okay' — the speaker is acknowledging an imperfect situation and deciding to accept it rather than push back. Example: ちょっと期待してたけど、まあいいか。(I was kind of hoping for more, but well, I guess it's fine.) The former evaluates; the latter accepts.",
+      "key_concepts": ["まあまあ as evaluation/so-so", "まあいいか as resigned acceptance", "nuance distinction"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "At the end of the workday in a Japanese office, which phrase most naturally serves as the standard farewell between colleagues?",
+      "options": [
+        "A. さようなら",
+        "B. じゃあね",
+        "C. お疲れ様でした",
+        "D. 失礼いたします"
+      ],
+      "answer": "C",
+      "explanation": "お疲れ様でした ('you've worked hard / thank you for your effort today') is the standard end-of-day workplace farewell in Japanese — ubiquitous, expected, and appropriate across all levels of seniority. さようなら is too final/formal for a daily goodbye (more suited to long-term farewells). じゃあね is casual and more suited to friends. 失礼いたします (excuse me for being rude) is used when leaving early or departing from a specific meeting — appropriate but more specific than a general end-of-day farewell."
+    }
+  ]
+}

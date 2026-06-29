@@ -1,0 +1,59 @@
+{
+  "session": "07",
+  "course": "JAPN-101",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "What is the causative form of 歌う (to sing)?",
+      "options": [
+        "A. 歌われる",
+        "B. 歌わせる",
+        "C. 歌うせる",
+        "D. 歌いさせる"
+      ],
+      "answer": "B",
+      "explanation": "歌う is a u-verb. To form the causative, replace the final う-sound with the あ-row equivalent (う → わ) and add せる: 歌う → 歌わ + せる → 歌わせる. Option A is the passive form (れる). Options C and D show incorrect verb base manipulation."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "You want to say: 'The teacher LET the students leave early.' Which sentence is correct?",
+      "options": [
+        "A. 先生は生徒を早く帰らせた。",
+        "B. 先生は生徒に早く帰らせた。",
+        "C. 先生に生徒を早く帰らせた。",
+        "D. 先生は生徒が早く帰らせた。"
+      ],
+      "answer": "B",
+      "explanation": "For intransitive verbs (帰る is intransitive — you 'return home,' not 'return someone'), に on the person being caused indicates permission/letting. を would indicate compulsion/making. Since we want 'let,' the person (生徒) takes に. The teacher (先生) is the grammatical subject marked with は."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "In the sentence 「母は子供に野菜を食べさせた」(Mother made/let the child eat vegetables), を cannot be used on 子供 because を is already used on 野菜.",
+      "answer": true,
+      "explanation": "食べる is a transitive verb — it already takes an object marked with を (野菜を). In Japanese, を cannot appear twice in the same clause. Therefore, the person being caused to act (子供) must take に. This is a structural constraint with transitive verb causatives: person always gets に, object keeps を. Whether this is 'let' or 'make' must be determined from context."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "You want to politely request permission from your manager to explain a mistake you made. Which sentence is most appropriate?",
+      "options": [
+        "A. 説明してください。",
+        "B. 説明させてください。",
+        "C. 説明させてあげてください。",
+        "D. 説明をさせます。"
+      ],
+      "answer": "B",
+      "explanation": "説明させてください uses the causative te-form (させて) + ください to ask for permission to do something yourself — 'Please let me explain.' This is the standard polite self-causative request form. Option A simply says 'Please explain' (addressed at someone else). Option C is grammatically awkward (can't give a favor to yourself). Option D states you will explain without asking permission."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "How do に and を differ when used on the person in a causative sentence with an intransitive verb? Give one example of each and explain the nuance difference.",
+      "sample_answer": "When a causative sentence uses an intransitive verb, the particle on the person being caused to act signals whether the situation is permissive or compulsive. に indicates permission — the causer is allowing the person to do something, and the person retains some element of volition. を indicates compulsion — the causer is forcing the person to do something, with less implication of the person's free choice. Example with に (letting): 先生は生徒に外に出させた。(The teacher let the students go outside.) — The teacher gave permission. Example with を (making): 先生は生徒を外に出させた。(The teacher made the students go outside.) — The teacher compelled them to leave, perhaps as punishment. The same verb and causative form; the particle changes the entire relationship dynamic.",
+      "key_concepts": ["causative", "に vs. を", "letting vs. making", "intransitive verb"]
+    }
+  ]
+}

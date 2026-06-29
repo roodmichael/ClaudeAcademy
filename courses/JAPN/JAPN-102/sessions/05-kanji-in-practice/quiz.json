@@ -1,0 +1,59 @@
+{
+  "session": "05",
+  "course": "JAPN-102",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "You encounter the unknown compound 不可能 in a reading passage. Using the decoding toolkit, what is your best inference about its meaning?",
+      "options": [
+        "A. Very possible — 不 intensifies 可能",
+        "B. Impossible — 不 negates 可能 (possible)",
+        "C. Difficult — 不 means difficult",
+        "D. Necessary — 可能 means necessary"
+      ],
+      "answer": "B",
+      "explanation": "不 is a negation prefix (not/un-). 可能 means possible (可 = can/permissible, 能 = ability). Therefore 不可能 = impossible. This is radical/component inference: recognizing 不 as a negation prefix lets you decode any 不___compound as the negative of what follows."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "The kanji 最 appears first in a compound. Without knowing the compound, what can you infer?",
+      "options": [
+        "A. The compound has something to do with color",
+        "B. The compound describes something in its most extreme form (the most, the first, the last, the best, etc.)",
+        "C. The compound is likely a verb when combined with する",
+        "D. The compound is probably a name or place"
+      ],
+      "answer": "B",
+      "explanation": "最 (utmost, most) functions as a superlative prefix in compound words. 最近 (most recent = recently), 最初 (most first = the beginning), 最後 (most last = the end), 最高 (most high = the best). Recognizing 最 immediately tells you the compound is a superlative of whatever kanji follows."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "When reading an N3 passage under time pressure, the correct behavior upon encountering an unknown kanji compound is to stop reading and look it up on jisho.org before continuing.",
+      "answer": false,
+      "explanation": "Stopping to look up every unknown word destroys reading speed and makes timed practice impossible. The correct approach is triage: apply the decoding toolkit (3–5 seconds), make a reasonable inference, continue reading, and return to unknown words only if a question specifically targets them. Dictionary use belongs in post-reading review, not during timed reading."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "The passage reads: 政府は対策として教育支援の拡大を検討しているが、専門家は経済状況の改善が最も重要だと述べている。You don't know 拡大 (expansion). Which context clue tells you this is likely a positive or neutral action?",
+      "options": [
+        "A. The word 支援 (support) before it",
+        "B. The word 対策 (countermeasure) at the start of the clause",
+        "C. The presence of 経済状況 (economic situation) later in the sentence",
+        "D. The verb 検討している (is considering)"
+      ],
+      "answer": "A",
+      "explanation": "教育支援の拡大 — 支援 (support) before 拡大 strongly suggests 拡大 means expansion or increase. 'Expansion of education support' is the natural reading. The one-kanji anchor (支援 = support) combined with context inference (government countermeasure) narrows the unknown word's meaning without requiring a dictionary."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Describe the 'weekly kanji exploration habit' and explain why it is more effective for building kanji knowledge than reviewing a fixed list.",
+      "sample_answer": "The weekly kanji exploration habit involves taking one kanji encountered during natural study or reading, then using jisho.org to find all N3-level compound words using that kanji, noting the most common collocation patterns, and adding new words to an Anki sentence card deck. This is more effective than a fixed list because: (1) it starts from a kanji you already encountered in context, strengthening the memory trace; (2) it expands from one known point to a cluster of related vocabulary — combinatorial unlocking in practice; (3) it builds a personal deck shaped by what you actually read rather than a generic frequency list.",
+      "key_concepts": ["jisho.org exploration", "compound unlocking", "personalized deck", "context-anchored learning"]
+    }
+  ]
+}

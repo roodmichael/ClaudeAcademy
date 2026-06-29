@@ -1,0 +1,59 @@
+{
+  "session": "07",
+  "course": "JAPN-102",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "You are standing on a hillside and the ocean is visible below. Which sentence is correct?",
+      "options": [
+        "A. 海を見えます",
+        "B. 海が見えます",
+        "C. 海を見ます",
+        "D. 海が見ます"
+      ],
+      "answer": "B",
+      "explanation": "The ocean appearing in your visual field without deliberate action is non-volitional: 見える, which takes が. 海が見えます = 'The ocean is visible.' 海を見ます (C) would mean 'I look at the ocean' (deliberate), and 海が見ます (D) is ungrammatical."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "Your friend texts you: 昨日のコンサートどうだった？What is your correct response if you listened to her performance?",
+      "options": [
+        "A. 君の歌が聞きました！とても良かったです",
+        "B. 君の歌を聞きました！とても良かったです",
+        "C. 君の歌が聞こえました！とても良かったです",
+        "D. 君の歌を聞こえました！とても良かったです"
+      ],
+      "answer": "B",
+      "explanation": "You deliberately attended the concert and listened — volitional. 聞く + を: 君の歌を聞きました. Option A uses が with 聞く (wrong particle for volitional). Option C uses 聞こえる (non-volitional — 'her song reached my ears') with が, which is grammatically possible but sounds accidental. Option D combines 聞こえる with を, which is wrong."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "The sentence 山を見えます is grammatically acceptable if you are deliberately looking at a mountain.",
+      "answer": false,
+      "explanation": "見える is a non-volitional verb — it describes perception that happens without direction. It takes が, not を. 山を見えます is ungrammatical because を with 見える is wrong. If you deliberately look at the mountain: 山を見ます (見る + を). If the mountain is visible from your current location: 山が見えます (見える + が)."
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "question": "Explain why knowing the volitional/non-volitional distinction matters for particle choice, not just verb choice.",
+      "sample_answer": "Volitional verbs (見る, 聞く) take を to mark the direct object — the thing you deliberately act upon. Non-volitional verbs (見える, 聞こえる) take が for what is perceived — because nothing is being acted upon, the perceived thing is presented to the perceiver rather than targeted. Choosing the wrong verb therefore corrupts the particle too. A student who writes 山を見える has made two errors from one misunderstanding: the verb should be 見えない/見える (non-volitional) and the particle should be が, not を.",
+      "key_concepts": ["volitional", "non-volitional", "を particle", "が particle", "two errors from one mistake"]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "Which of the following sentences is the most natural Japanese for 'I can't hear the professor's voice well'?",
+      "options": [
+        "A. 先生の声をよく聞きません",
+        "B. 先生の声をよく聞こえません",
+        "C. 先生の声がよく聞こえません",
+        "D. 先生の声がよく聞きません"
+      ],
+      "answer": "C",
+      "explanation": "The professor's voice not reaching your ears is non-volitional — you aren't choosing not to hear. 聞こえる (non-volitional) + が: 先生の声がよく聞こえません. Option B (を + 聞こえる) is wrong particle. Option A (を + 聞く) means 'I don't listen well' — deliberate inattention, not inability to hear. Option D (が + 聞く) is ungrammatical."
+    }
+  ]
+}

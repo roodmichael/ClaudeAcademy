@@ -1,0 +1,72 @@
+{
+  "session": "09",
+  "course": "JAPN-102",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "You are a junior employee writing a business email to a client saying you will visit their office tomorrow. Which verb is most appropriate?",
+      "options": [
+        "A. 明日、御社に行きます",
+        "B. 明日、御社を訪ねます",
+        "C. 明日、御社に伺います",
+        "D. 明日、御社を訪れます"
+      ],
+      "answer": "C",
+      "explanation": "伺う is the humble speech form (謙譲語) used when visiting a superior or business client — it lowers the speaker and raises the listener. 御社に伺います is the standard business Japanese expression for 'I will visit your esteemed company.' 訪ねる (B) is neutral but lacks the humble register a junior employee should use. 訪れる (D) typically takes places with a literary register, not people's offices in business contexts."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "A news article states: 台風の____は低気圧の急激な発達だった。Which word fills the blank?",
+      "options": [
+        "A. 理由",
+        "B. 経験",
+        "C. 原因",
+        "D. 体験"
+      ],
+      "answer": "C",
+      "explanation": "A typhoon's causal factor is a physical phenomenon (rapid development of low pressure) — this is 原因 (physical/causal cause of an event). 理由 would be appropriate for a human's stated justification. 台風の理由 is unnatural because typhoons do not give stated reasons."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "すごい and 素晴らしい mean the same thing and can be used interchangeably in any context, including formal speeches and business emails.",
+      "answer": false,
+      "explanation": "They both express admiration but at different registers. すごい is casual/colloquial ('wow, amazing!'). 素晴らしい is formal ('truly wonderful') — appropriate in speeches, formal writing, and polished compliments. Using すごい in a formal context sounds immature or inappropriate. Using 素晴らしい casually sounds stiff. The register choice is part of the meaning."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "A job posting says: 5年以上の教育____を有する方を募集しています。Which word fits the blank?",
+      "options": [
+        "A. 体験",
+        "B. 経験",
+        "C. 経過",
+        "D. 感情"
+      ],
+      "answer": "B",
+      "explanation": "5+ years of teaching is accumulated experience built over time — this is 経験. A job posting is asking for a track record, not a single memorable event. 体験 would imply a one-time experience. 経験を有する (to possess experience) is formal business Japanese."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Explain the difference between 受ける, 得る, and 手に入れる with an original example sentence for each.",
+      "sample_answer": "受ける = receive something directed at you (passive recipient): 批判を受ける (receive criticism — it came toward me). 得る = gain/earn something through effort or achievement: 信頼を得る (earn trust — through sustained behavior). 手に入れる = actively acquire something, often concrete or hard-to-get: 限定版のチケットを手に入れた (I got my hands on limited edition tickets — emphasizes effort and success). The key distinctions: 受ける is passive, 得る is earned, 手に入れる is active and often colloquial.",
+      "key_concepts": ["受ける", "得る", "手に入れる", "passive reception", "earned acquisition", "active acquisition"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "You see a beautiful painting in a museum. Which sentence best expresses your reaction in a casual conversation with a friend?",
+      "options": [
+        "A. この絵は素晴らしい！",
+        "B. この絵は美しい！",
+        "C. この絵はすごい！",
+        "D. この絵は綺麗！"
+      ],
+      "answer": "C",
+      "explanation": "In casual conversation with a friend, すごい is natural and warm. 素晴らしい (A) is grammatically correct but sounds formal for a casual remark to a friend. 美しい (B) and 綺麗 (D) focus on aesthetic beauty — also correct but more descriptive than exclamatory. すごい is the casual register choice for a spontaneous reaction. Note: all four are situationally defensible; the question asks about register in casual context."
+    }
+  ]
+}

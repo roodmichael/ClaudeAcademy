@@ -1,0 +1,72 @@
+{
+  "session": "03",
+  "course": "JAPN-102",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "A news article reads: 委員会はこの問題への対策を____した。Which formal compound verb correctly fills the blank?",
+      "options": [
+        "A. やり",
+        "B. 実施",
+        "C. 始め",
+        "D. 使い"
+      ],
+      "answer": "B",
+      "explanation": "実施する (to implement, to carry out) is the formal compound verb appropriate in official/news contexts. やる and 始める are too casual for a news article about a committee's actions."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "Which collocation is natural in Japanese?",
+      "options": [
+        "A. 影響を言う",
+        "B. 可能性を感じる",
+        "C. 影響を与える",
+        "D. 条件を作る"
+      ],
+      "answer": "C",
+      "explanation": "影響を与える (to give influence / to have an impact on) is the canonical collocation. The others are grammatically possible but unnatural: 影響を言う (say influence?), 可能性を感じる (feel a possibility is unusual), 条件を作る (create conditions, possible but 整える or 満たす are more natural)."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "利用する and 使う mean the same thing and can be used interchangeably in both casual and formal contexts.",
+      "answer": false,
+      "explanation": "While both mean 'to use,' 利用する is the formal register appropriate for news articles, business documents, and official contexts. 使う is casual and would sound out of place in a government document or formal report. They are register variants, not true synonyms."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "A sentence reads: 経済の____によって、失業率が上がった。Which N3 vocabulary word fits this blank?",
+      "options": [
+        "A. 目的",
+        "B. 変化",
+        "C. 条件",
+        "D. 権利"
+      ],
+      "answer": "B",
+      "explanation": "変化 (change) fits the sentence: 'Due to changes in the economy, the unemployment rate rose.' This is the change/causation vocabulary domain — 変化によって (due to change) is a common cause-effect construction in N3 reading passages."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Explain the difference between 改善 and 解決. When would you use each?",
+      "sample_answer": "改善 means improvement — making something better than it was. It implies an ongoing process of refinement without necessarily solving an underlying problem. 解決 means resolution or solution — fully addressing and ending a problem. You 改善 a workflow (make it more efficient); you 解決 a dispute (bring it to an end). In a news article: 環境を改善する (improve the environment, ongoing effort) vs. 問題を解決する (solve the problem, bring it to completion).",
+      "key_concepts": ["改善", "解決", "improvement vs. resolution", "ongoing vs. complete"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "Which sentence uses 目的 correctly?",
+      "options": [
+        "A. 目的が感じられます",
+        "B. この研究の目的は病気の原因を究明することです",
+        "C. 目的を失います",
+        "D. 目的は難しいです"
+      ],
+      "answer": "B",
+      "explanation": "この研究の目的は〜ことです (The purpose of this research is to...) is the natural pattern for 目的. Option A (can feel a purpose?) and D (a purpose is difficult?) are grammatically possible but semantically odd. Option C (lose a purpose) is grammatically possible but 目的を失う is less common; 目的を達成する (achieve the objective) is the canonical collocation."
+    }
+  ]
+}

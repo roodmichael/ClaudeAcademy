@@ -1,0 +1,72 @@
+{
+  "session": "01",
+  "course": "JAPN-102",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Approximately how many new words does a student need to acquire to move from JLPT N4 to N3 competency?",
+      "options": [
+        "A. ~500 new words",
+        "B. ~1,000 new words",
+        "C. ~2,200 new words",
+        "D. ~5,000 new words"
+      ],
+      "answer": "C",
+      "explanation": "N4 requires approximately 1,500 words; N3 requires approximately 3,750 — a gap of roughly 2,200 new words. This is more than N5 and N4 combined."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "Which of the following best describes the qualitative shift in vocabulary at N3 compared to N4?",
+      "options": [
+        "A. N3 vocabulary is longer and harder to pronounce",
+        "B. N3 vocabulary introduces more abstract concepts, two-kanji compounds, and register distinctions",
+        "C. N3 vocabulary focuses primarily on formal business Japanese",
+        "D. N3 vocabulary is mostly the same as N4 but with more counter words"
+      ],
+      "answer": "B",
+      "explanation": "N3 is characterized by three shifts: abstraction (concrete → conceptual), jukugo dominance (two-kanji compounds), and register awareness (casual vs. formal variants). This is qualitatively different from the N4 vocabulary, which is largely concrete and situational."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "At the N3 level, a simple word-to-English Anki flashcard (front: 影響, back: 'influence') is sufficient for acquiring the word well enough to use on the JLPT.",
+      "answer": false,
+      "explanation": "Word-level flashcards miss the collocation and contextual information critical at N3. 影響 is typically used in the collocation 影響を与える. Without sentence-level context, students can recognize the word in isolation but not in authentic text or exam questions."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "You are writing a formal report about what caused a factory accident. Which word belongs in this sentence? 事故の___は電気系統の不具合でした。",
+      "options": [
+        "A. 理由",
+        "B. 原因",
+        "C. 経験",
+        "D. 結果"
+      ],
+      "answer": "B",
+      "explanation": "原因 refers to a physical or causal cause — the factor that made an event happen. 理由 is for stated human justifications. A factory accident is a phenomenon with a physical cause (原因), not a human's stated reason (理由)."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "A student says: 'I know 影響 means influence, so I don't need to study it further.' What is wrong with this approach at the N3 level?",
+      "sample_answer": "Knowing the English translation of 影響 does not mean the student knows how to use it. At N3, 影響 typically appears in the collocation 影響を与える (to have an influence on). Without knowing the verb it combines with and the particle pattern, the student cannot read or produce sentences using this word naturally. Vocabulary knowledge at N3 requires form-meaning links plus collocational knowledge.",
+      "key_concepts": ["collocation", "acquisition funnel", "form-meaning link", "影響を与える"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "What is the dominant word-formation pattern in N3 vocabulary that directly connects vocabulary acquisition to kanji study?",
+      "options": [
+        "A. Te-form compound verbs",
+        "B. Loan words from English",
+        "C. Two-kanji compounds (jukugo) read in on'yomi",
+        "D. Onomatopoeia"
+      ],
+      "answer": "C",
+      "explanation": "Most new N3 vocabulary consists of two-kanji compounds (熟語, jukugo) where each kanji is read in its Chinese-derived pronunciation (on'yomi). This is why kanji study and vocabulary study cannot be separated at N3 — knowing kanji unlocks vocabulary clusters."
+    }
+  ]
+}

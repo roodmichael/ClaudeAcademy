@@ -1,0 +1,59 @@
+{
+  "session": "08",
+  "course": "JAPN-101",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "What does causative-passive always express — and what does it never express?",
+      "options": [
+        "A. Always expresses permission; never expresses compulsion",
+        "B. Always expresses compulsion; never expresses permission",
+        "C. Always expresses passive action; never expresses ability",
+        "D. Always expresses respect; never expresses casualness"
+      ],
+      "answer": "B",
+      "explanation": "Causative-passive (させられる) always expresses that the subject was forced or compelled to do something by another person. Unlike the plain causative (させる), which can express either letting or making depending on particle choice, causative-passive has only one reading: compulsion. There is no permissive meaning of causative-passive."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "Which is the correct causative-passive form of 飲む, and can it be shortened?",
+      "options": [
+        "A. 飲まれさせる; no short form",
+        "B. 飲まされる only (no long form exists)",
+        "C. 飲ませられる (long form); 飲まされる (short form)",
+        "D. 飲ませられる (long form); no short form"
+      ],
+      "answer": "C",
+      "explanation": "飲む is a u-verb. Causative: 飲ませる. Causative-passive long form: 飲ませられる. U-verbs have an optional short contracted form: 飲まされる (the させら sequence compresses). Both forms are correct; the short form is more common in casual speech. Ru-verbs and する do not have short forms."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "In the sentence 「先生が来られました」, what does られる most likely mean?",
+      "options": [
+        "A. Passive — the teacher was brought somewhere",
+        "B. Potential — the teacher was able to come",
+        "C. Respectful — the teacher came (honorific)",
+        "D. Spontaneous — the memory of a teacher coming arose"
+      ],
+      "answer": "C",
+      "explanation": "When the subject is clearly a person of higher social status (先生 — teacher) and the context is formal, られる functions as a respectful (honorific) marker. The teacher 'came' and the polite form of that is to attach られ to the verb base. There is no agent marked, so passive is unlikely. The context is not about ability or spontaneous feeling."
+    },
+    {
+      "id": "q4",
+      "type": "true_false",
+      "question": "The short causative-passive form applies to ru-verbs: 食べさせられる can be shortened to 食べさされる.",
+      "answer": false,
+      "explanation": "The short causative-passive form applies only to u-verbs. Ru-verbs do not have a short form because shortening 食べさせられる would risk confusion with 食べられる (which already means 'can eat' in potential form). To preserve unambiguous meaning, ru-verb causative-passive must remain in its full long form: 食べさせられる."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "What are the four meanings of られる, and what is the most reliable signal for identifying each in context?",
+      "sample_answer": "The four meanings of られる are: (1) Passive — someone or something receives an action. Signal: an agent is present, marked with に, から, or によって. (2) Potential — the subject has ability or circumstantial opportunity. Signal: no agent is present; context involves ability or possibility; particle on the object is が or を without an agent. (3) Spontaneous — a feeling or mental state arises involuntarily. Signal: the verb is a mental/emotional verb (think, remember, feel, worry); no volitional agent; the feeling 'just happens.' (4) Respectful — the subject is a social superior performing an action. Signal: the subject is clearly a teacher, boss, elder, or other superior; the sentence is in a formal register. In practice, passive and potential are the most frequently confused; when no agent is present in modern spoken Japanese, られる on ru-verbs typically defaults to potential.",
+      "key_concepts": ["られる", "passive", "potential", "spontaneous", "respectful", "disambiguation"]
+    }
+  ]
+}

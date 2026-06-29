@@ -1,0 +1,59 @@
+{
+  "session": "06",
+  "course": "JAPN-101",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "What is the correct passive form of 飲む (to drink)?",
+      "options": [
+        "A. 飲まられる",
+        "B. 飲まれる",
+        "C. 飲められる",
+        "D. 飲んられる"
+      ],
+      "answer": "B",
+      "explanation": "飲む is a u-verb ending in む. To form the passive, replace む with its あ-row equivalent ま, then add れる: 飲む → 飲ま + れる → 飲まれる. The pattern for u-verbs is: [あ-row base] + れる."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "You want to say 'This theory was proposed by Einstein.' Which agent particle is most appropriate?",
+      "options": [
+        "A. アインシュタインにこの理論は提案された。",
+        "B. アインシュタインからこの理論は提案された。",
+        "C. アインシュタインによってこの理論は提案された。",
+        "D. アインシュタインをこの理論は提案された。"
+      ],
+      "answer": "C",
+      "explanation": "によって is the appropriate particle for formal attribution — who created, invented, discovered, or proposed something. Using に here could be read as 'proposed for Einstein' rather than 'proposed by Einstein.' によって removes this ambiguity. から is used for transfer verbs where に could be read both as 'by' and 'from.' を marks objects, not agents."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "The sentence 「隣の人に笑われた」(The person next to me laughed at/near me) is an example of adversative passive, even though 笑う (to laugh) is intransitive.",
+      "answer": true,
+      "explanation": "This is a classic adversative (indirect) passive. 笑う is an intransitive verb — you cannot laugh 'something.' Yet Japanese allows intransitive verbs to be passivized when the speaker is negatively affected. 隣の人に笑われた expresses that the neighbor's laughing somehow affected or bothered the speaker — the source of discomfort is marked with に. This is exactly the adversative passive (迷惑の受け身) pattern."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "Which of these describes the structure of a direct passive sentence?",
+      "options": [
+        "A. The original subject becomes marked with に; the original object becomes the new subject with が",
+        "B. The original object becomes the new subject with が; the agent is marked with に, から, or によって",
+        "C. The verb is moved to the front and the subject is dropped",
+        "D. The object takes を and the agent takes は"
+      ],
+      "answer": "B",
+      "explanation": "In direct passive, the original object (the thing the action was done to) becomes the grammatical subject (marked with が). The original agent (the doer) becomes optional but when included is marked with に (default), から (transfer), or によって (attribution/creation). The verb takes passive form (れる/られる)."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "What is 迷惑の受け身 (meiwaku no ukemi) and why does it represent something unique about Japanese grammar? Give one example sentence and explain its structure.",
+      "sample_answer": "迷惑の受け身 (adversative/indirect passive, literally 'inconvenience passive') is a uniquely Japanese grammatical construction in which the subject of the sentence is negatively affected by someone else's action, even if that action was not performed directly on the subject. Crucially, it can use intransitive verbs — verbs that in active voice have no direct object — because the point is the effect on the subject, not the direct target of the action. English has no equivalent. Example: 「赤ちゃんに泣かれた」— The baby cried [and I was negatively affected by it]. Structure: The person affected (私, implied) is the grammatical subject. The agent of the troublesome action (赤ちゃん) is marked with に. 泣く (to cry) is an intransitive verb in its passive form 泣かれた. The sentence expresses that the baby's crying created inconvenience or distress for the speaker, not that the speaker was 'cried at' in any physical sense.",
+      "key_concepts": ["adversative passive", "迷惑", "intransitive passive", "indirect effect"]
+    }
+  ]
+}

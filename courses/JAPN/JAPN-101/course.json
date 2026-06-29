@@ -1,0 +1,23 @@
+{
+  "code": "JAPN-101",
+  "title": "Japanese Language — N3 Grammar Patterns",
+  "department": "JAPN",
+  "level": 101,
+  "sessions": 11,
+  "prerequisites": ["JAPN-100"],
+  "description": "A systematic study of the grammar patterns that separate JLPT N4 competence from N3 fluency. Students move from basic te-form usage into the full te-form extension family, master all four Japanese conditional forms, learn passive and causative constructions, develop skill in noun modification and clause embedding, and acquire the clause connectors that produce natural, multi-clause Japanese. By the end, students can construct complex sentences that express aspect, agency, nuance, and register appropriate to context.",
+  "learning_outcomes": [
+    "Use ている, てある, てしまう, ておく, and てみる to express aspect precisely",
+    "Choose correctly among てあげる, てくれる, and てもらう based on perspective and social relationship",
+    "Apply all four conditional forms (と, ば, たら, なら) in appropriate contexts and avoid cross-form substitution errors",
+    "Form passive, causative, and causative-passive constructions across all verb classes",
+    "Disambiguate the four meanings of られる using context and particle cues",
+    "Build Japanese relative clauses to modify nouns with full embedded predicates",
+    "Use こと and の as nominalizers with correct context-dependent selection",
+    "Connect clauses naturally using から/ので, が/けど, のに, たり〜たり, and ながら with appropriate register and emotional nuance"
+  ],
+  "template_type": "technical",
+  "research_quality": "practitioner-sourced",
+  "created": "2026-06-24",
+  "status": "active"
+}

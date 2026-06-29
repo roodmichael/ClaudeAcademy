@@ -1,0 +1,72 @@
+{
+  "session": "04",
+  "course": "JAPN-102",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "What is the primary pedagogical advantage of learning kanji through radicals rather than through rote stroke-order memorization?",
+      "options": [
+        "A. Radicals allow you to predict the on'yomi reading of any kanji",
+        "B. Radicals provide a mnemonic anchor that connects the kanji's appearance to its meaning, reducing memorization load",
+        "C. Knowing radicals means you don't need to learn kanji stroke order at all",
+        "D. Radicals are required for the JLPT kanji writing section"
+      ],
+      "answer": "B",
+      "explanation": "Radicals serve as mnemonic anchors — building blocks that you can incorporate into a memorable story connecting the kanji's visual components to its meaning. This reduces the memorization burden significantly compared to rote repetition. Radicals do not reliably predict readings, and JLPT does not test kanji writing."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "You know the kanji 経 (pass through/manage) and 済 (settle/complete). Using the jukugo combinatorial logic from the lesson, which of these compounds would you expect these two kanji to form?",
+      "options": [
+        "A. 決済 (settlement/payment) and 経済 (economy)",
+        "B. 経験 (experience) and 感情 (emotion)",
+        "C. 政治 (politics) and 行政 (administration)",
+        "D. 変化 (change) and 改善 (improvement)"
+      ],
+      "answer": "A",
+      "explanation": "経済 (economy) uses 経 + 済. 決済 (payment settlement) uses 決 + 済 — not 経 in this case, but the point is that 済 appears in both. The lesson specifically showed that knowing 経 and 済 unlocks 経済, 経験, 経路, and 決済."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "When first learning a new kanji, the most efficient strategy is to memorize all of its on'yomi and kun'yomi readings at the same time.",
+      "answer": false,
+      "explanation": "Trying to learn all readings simultaneously produces interference and poor retention. The recommended strategy is to learn one reading (usually the on'yomi that appears in the most jukugo compounds) and then acquire additional readings through vocabulary study as you encounter the kanji in new contexts."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "The three kanji 待, 持, and 時 look similar. What is the key to distinguishing them?",
+      "options": [
+        "A. Their stroke count",
+        "B. The radical on the left side of each character",
+        "C. Their on'yomi readings",
+        "D. The number of components on the right side"
+      ],
+      "answer": "B",
+      "explanation": "The radical (left component) distinguishes all three: 待 has 彳 (step/walk, suggesting waiting for time to pass), 持 has 扌 (hand, suggesting holding), 時 has 日 (sun, suggesting the sun marking time). This is the primary practical use of learning radicals."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Explain the 'combinatorial unlocking' argument for learning kanji. Why is it more efficient than treating each vocabulary word as a separate memorization task?",
+      "sample_answer": "When you learn a kanji's core meaning and reading, you gain the ability to infer the meaning of multiple compound words (jukugo) that use that kanji. For example, learning 政 (politics/government) unlocks 政治, 政府, 行政, 政策 — four vocabulary words from one investment. Learning each of these as independent vocabulary items requires four separate memorization events with no reinforcing connection. The combinatorial approach treats kanji as a reusable decoding system rather than a collection of isolated symbols.",
+      "key_concepts": ["jukugo", "combinatorial unlocking", "mnemonic", "efficient learning"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "Which N3 kanji thematic cluster includes 感, 信, 望, and 悩?",
+      "options": [
+        "A. Governance and civic life",
+        "B. Economic and business",
+        "C. Emotional and relational",
+        "D. Scientific and technological"
+      ],
+      "answer": "C",
+      "explanation": "感 (emotion/feeling), 信 (trust/belief), 望 (hope/wish), and 悩 (worry/trouble) all belong to the emotional and relational cluster. They appear in 感情, 信頼, 希望, and 悩み — the vocabulary from Session 02."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "code": "JAPN-102",
+  "title": "Japanese Language — N4 to N3 Vocabulary and Kanji",
+  "department": "JAPN",
+  "level": 102,
+  "sessions": 11,
+  "prerequisites": ["JAPN-101"],
+  "description": "Bridges the gap between JLPT N4 and N3 by building the vocabulary, kanji, and reading skills the grammar-focused JAPN-101 left open. Students expand from ~300 to ~650 kanji using a radical-mnemonic approach, grow their vocabulary from ~1,500 to ~3,750 words through thematic grouping and spaced repetition, master the on'yomi/kun'yomi prediction system to decode compound words, work through the near-synonym pairs (見る/見える, 訪ねる/尋ねる, 理由/原因) that trip up intermediate learners, and develop the skim-scan-dive reading strategy required to handle authentic N3 texts under JLPT time constraints.",
+  "learning_outcomes": [
+    "Recognize and read approximately 370 new N3 kanji in compound and standalone contexts",
+    "Apply the four on'yomi/kun'yomi prediction rules to decode unknown compound words",
+    "Use radicals as mnemonic anchors to learn and distinguish visually similar kanji",
+    "Demonstrate vocabulary knowledge of approximately 2,000 new N3 words across 18 thematic categories",
+    "Discriminate between near-synonym pairs — volitional vs. non-volitional verbs, transitive vs. intransitive pairs, register variants — choosing the correct word and particle for the context",
+    "Read and comprehend N3-level authentic texts (NHK Web Easy, informational notices, short essays) using the skim-scan-dive strategy within a 3-minute-per-passage time constraint",
+    "Identify discourse connectives in reading passages and use them to trace the logical structure of an argument"
+  ],
+  "template_type": "technical",
+  "research_quality": "practitioner-sourced",
+  "created": "2026-06-24",
+  "status": "active"
+}

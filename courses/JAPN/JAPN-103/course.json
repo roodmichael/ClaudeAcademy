@@ -1,0 +1,24 @@
+{
+  "code": "JAPN-103",
+  "title": "Japanese Language — N4 to N3 Conversation and Natural Speech",
+  "department": "JAPN",
+  "level": 103,
+  "sessions": 11,
+  "prerequisites": ["JAPN-102"],
+  "description": "Closes the gap between reading N3 Japanese and speaking and hearing it naturally. Students master the casual speech layer (contractions, sentence-final particles, discourse markers), build a working command of the three-tier keigo system, train listening comprehension at natural conversational speed through shadowing, and learn to express uncertainty, nuance, and emotion with the evidential vocabulary that makes Japanese sound like a native rather than a textbook.",
+  "learning_outcomes": [
+    "Recognize and produce the core casual speech contractions (てる, とく, ちゃう, んだ, じゃない, なきゃ) in appropriate contexts",
+    "Use sentence-final particles (ね, よ, よね, な, かな, ぞ, ぜ, わ, さ, し, もん) with correct register and gender awareness",
+    "Deploy discourse markers and filler words (えーと, あの, まあ, なんか) and aizuchi naturally in conversation",
+    "Navigate the three-tier keigo system — teineigo, sonkeigo, kenjōgo — and produce the 15 core irregular keigo verb pairs correctly",
+    "Hear and parse natural Japanese speech at 5-7 mora/second using shadowing and intensive listening techniques",
+    "Recognize connected speech phenomena (vowel devoicing, mora compression, sentence-final truncation) so familiar words are not lost at natural speed",
+    "Choose the correct evidential/uncertainty expression from the certainty spectrum: かもしれない, らしい, ようだ, みたいだ, そうだ (appearance vs. hearsay), はずだ, に違いない",
+    "Use softeners (ちょっと, なんか, まあ), discovery expressions (なるほど, へえ), and indirect refusal strategies as fluent conversation management"
+  ],
+  "template_type": "hobby",
+  "research_quality": "mixed",
+  "research_notes": "Tier 1 source available for keigo only (Agency for Cultural Affairs). Tier 2 academic sourcing for sentence-final particles (Saigo 2011) and shadowing effectiveness (Hamada 2016). Casual contractions and discourse markers rely on Tier 5 practitioner sources that are mutually corroborating. Pitch accent phonology and connected speech are established descriptive phonology but not available from web-fetchable Tier 1-2 sources.",
+  "created": "2026-06-24",
+  "status": "active"
+}

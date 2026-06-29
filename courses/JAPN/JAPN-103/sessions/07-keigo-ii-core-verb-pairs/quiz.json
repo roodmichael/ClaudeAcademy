@@ -1,0 +1,72 @@
+{
+  "session": "07",
+  "course": "JAPN-103",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "A receptionist wants to say 'The president is currently out of the office.' Which verb correctly fills the blank? 社長は只今席を外して___います。",
+      "options": [
+        "A. おり",
+        "B. いらっしゃ",
+        "C. まいり",
+        "D. 存じて"
+      ],
+      "answer": "A",
+      "explanation": "The receptionist is talking about their own company's president (uchi) — so kenjōgo (humbling) is required. おる is the kenjōgo equivalent of いる. The receptionist would say 社長は只今席を外しております. Using いらっしゃる (sonkeigo) here would mean the receptionist is elevating their own boss relative to someone who may not outrank the president."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "Which of the following correctly uses いただく?",
+      "options": [
+        "A. 社長にいただきましょうか。(Shall the president receive it?)",
+        "B. 資料をいただきました。(I received the materials.)",
+        "C. お客様がいただきました。(The customer received it.)",
+        "D. 部長がいただきます。(The section chief will eat/receive it.)"
+      ],
+      "answer": "B",
+      "explanation": "いただく is kenjōgo for もらう (to receive) and for 食べる/飲む (to eat/drink). It is used by the speaker for their own action. Option B correctly uses いただく for the speaker's own receiving. Options A, C, and D incorrectly apply いただく to other people's actions — いただく is always the speaker's humble self-reference."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "いらっしゃる can correctly serve as the sonkeigo form for いる, 行く, AND 来る.",
+      "answer": true,
+      "explanation": "いらっしゃる is a triple-function sonkeigo verb. It is the correct honorific form for all three verbs. Context always makes the meaning clear: 先生はいらっしゃいますか (Is the teacher here?) vs. 先生はいついらっしゃいますか (When will the teacher come/arrive?)."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "You want to say 'I will visit your company next Tuesday' using the most appropriate kenjōgo form. Which is correct?",
+      "options": [
+        "A. 来週の火曜日にいらっしゃいます",
+        "B. 来週の火曜日にお伺いいたします",
+        "C. 来週の火曜日に訪問されます",
+        "D. 来週の火曜日に参らせていただきます（though this also works — choose the most standard form）"
+      ],
+      "answer": "B",
+      "explanation": "お伺いいたします is the standard kenjōgo expression for visiting or going to someone. 伺う is kenjōgo for both 訪問する (to visit) and 聞く (to ask), and the お〜いたす pattern adds further formality appropriate for professional context. Option A uses sonkeigo (elevating yourself — wrong). Option C uses the passive form inappropriately."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Write the correct keigo version of this sentence: 社長は'明日来る'と言いました。 (The president said 'I'll come tomorrow.') Elevate both the president's saying AND the coming action within the quoted speech.",
+      "sample_answer": "社長は'明日参ります'とおっしゃいました。The president's saying (言う) → おっしゃる (sonkeigo). The president's coming in the quote is the president's own action in their own speech, so within the quoted speech 参る (kenjōgo) is actually correct — the president uses kenjōgo for themselves when speaking humbly. However, from the reporter's perspective elevating the president's whole statement, おっしゃいました is the key correction.",
+      "key_concepts": ["おっしゃる for 言う sonkeigo", "参る for 来る kenjōgo", "quoted speech keigo conventions"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "A colleague asks you to transform 'Please read this document' into the appropriate sonkeigo form for a manager. Which is correct?",
+      "options": [
+        "A. この書類を読んでください",
+        "B. この書類をお読みください",
+        "C. この書類をお読みになってください",
+        "D. この書類をご読みください"
+      ],
+      "answer": "C",
+      "explanation": "The sonkeigo productive pattern for 読む is お読みになる (お + ます stem + になる). The request form with ください: お読みになってください. Option B (お読みください) is also acceptable and slightly more concise — both are used. Option D uses ご incorrectly (読む is a native Japanese word, taking お not ご). Option A is plain polite with no sonkeigo."
+    }
+  ]
+}

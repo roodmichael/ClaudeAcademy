@@ -1,0 +1,72 @@
+{
+  "session": "09",
+  "course": "JAPN-103",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Why does shadowing improve listening comprehension more efficiently than passive listening alone?",
+      "options": [
+        "A. Shadowing forces translation of content, which deepens understanding",
+        "B. Shadowing forces phonological processing at native speed and trains the production-perception feedback loop",
+        "C. Shadowing is simply more entertaining, so learners do it longer",
+        "D. Shadowing eliminates the need to understand vocabulary before listening"
+      ],
+      "answer": "B",
+      "explanation": "Shadowing forces the brain to process Japanese at the audio's speed (not the learner's comfortable pace) and trains the production system alongside perception. Research by Hamada (2016) confirms that this combined training significantly improves phoneme perception. Translation is actively counterproductive during shadowing — it interrupts the sound-level processing that is the goal."
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "question": "During Phase 2 shadowing, the primary goal is to translate and understand as much of the audio content as possible.",
+      "answer": false,
+      "explanation": "During Phase 2 (blind shadowing), the primary goal is sound-level processing — speaking along with the audio while focusing on sounds rather than meaning. The lesson explicitly states: 'Focus on sound rather than meaning — let understanding develop naturally.' Focusing on translation interrupts the phonological training that is the point of this phase."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "A learner does two hours of shadowing every Saturday and no practice during the week. Which statement is most accurate about this approach?",
+      "options": [
+        "A. This is optimal — massed practice is more effective for language skills",
+        "B. This will be somewhat less effective than the equivalent time distributed across daily 10-15 minute sessions",
+        "C. This is entirely ineffective — shadowing only works in 5-minute sessions",
+        "D. This is the recommended approach for busy schedules"
+      ],
+      "answer": "B",
+      "explanation": "The lesson explicitly states: 'Ten minutes of daily shadowing beats a two-hour weekend session every time. Spaced practice builds automaticity; cramming does not.' This is consistent with general principles of motor and language skill learning — distributed practice builds habits and automaticity more effectively than massed practice."
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "question": "You complete a dictation challenge and your errors break down as: V=2, P=8, C=5, A=1. What does this pattern suggest about where to focus your practice?",
+      "sample_answer": "The dominant error type is P (phonological) with 8 errors, followed by C (contraction) with 5. This pattern indicates the main gap is at the sound level — the learner knows the vocabulary but cannot recognize it when it sounds different at natural speed. The prescription: more shadowing, specifically focusing on the connected speech phenomena from Session 08 (devoicing, mora compression, contraction cascades). The C errors suggest also practicing the contractions from Sessions 01-02 in audio form, not just in writing. The low A count means processing speed is not the main bottleneck — the issue is phonological mapping, not attention.",
+      "key_concepts": ["dictation error classification", "phonological gap vs vocabulary gap", "targeted shadowing practice"]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "Which material is most appropriate as a starting point for Phase 1 shadowing for an N3 learner who currently understands about 60% of NHK standard news audio?",
+      "options": [
+        "A. NHK standard broadcast news at 1.0x",
+        "B. NHK Web Easy or Nihongo con Teppei for Beginners",
+        "C. A native-speed conversation between two Japanese friends with no transcript",
+        "D. Advanced academic Japanese lecture"
+      ],
+      "answer": "B",
+      "explanation": "The Phase 1 material selection principle is approximately 70% comprehension on first listen. NHK standard news at 60% comprehension is slightly too hard for starting shadowing effectively. NHK Web Easy and Nihongo con Teppei for Beginners are specifically designed for N3-level learners and are slower, cleaner, and more accessible — appropriate starting points that allow 70%+ comprehension, enabling productive Phase 1 work."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "Which of the following is identified as a common shadowing mistake that makes the practice ineffective?",
+      "options": [
+        "A. Using audio with a transcript",
+        "B. Practicing daily in short sessions",
+        "C. Whispering instead of speaking at full voice",
+        "D. Selecting audio at comfortable comprehension level first"
+      ],
+      "answer": "C",
+      "explanation": "Whispering is explicitly listed as a common shadowing mistake. It 'fails to engage vocal muscles and prosody' in the way that benefits perception. Shadowing must be done at full voice to train the articulators and the production-perception feedback loop. Using transcripts (in Phase 1), daily practice, and selecting appropriate material are all correct approaches, not mistakes."
+    }
+  ]
+}

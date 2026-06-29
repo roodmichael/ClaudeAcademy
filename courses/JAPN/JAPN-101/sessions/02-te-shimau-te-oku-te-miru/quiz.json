@@ -1,0 +1,59 @@
+{
+  "session": "02",
+  "course": "JAPN-101",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which of the following sentences uses てしまう to express regret or an unintentional action?",
+      "options": [
+        "A. 宿題を全部してしまった。(I completely finished all my homework.)",
+        "B. ケーキを食べてしまった。(I ate the cake — context: I wasn't supposed to)",
+        "C. 本を全部読んでしまった。(I finished reading the whole book.)",
+        "D. 早く寝てしまった。(I went to bed early — finished sleeping early.)"
+      ],
+      "answer": "B",
+      "explanation": "Option B carries the regret/accident nuance when context implies the cake was forbidden or reserved for someone else. Options A and C emphasize completion/thoroughness (positive or neutral). The meaning of てしまう often depends on context, but option B is the one where regret is the primary likely reading without other context."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "You want to say 'I'll prepare dinner in advance so it's ready when my family comes home.' Which construction should you use?",
+      "options": [
+        "A. 夕食を作ている。",
+        "B. 夕食を作てある。",
+        "C. 夕食を作っておく。",
+        "D. 夕食を作てみる。"
+      ],
+      "answer": "C",
+      "explanation": "ておく expresses performing an action in advance as preparation. The sentence describes making dinner ahead of time so it is ready — precisely the preparatory, future-benefit nuance of ておく. The correct form is 作っておく. (Note: options A, B, and D have incorrect te-form constructions.)"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "てみる implies that the action being attempted is difficult and the speaker might not succeed.",
+      "answer": false,
+      "explanation": "てみる expresses curiosity and experimentation — 'try doing X to see what happens.' It does not imply difficulty or possible failure. For genuine attempts that might not succeed, Japanese uses ようとする. てみる is the construction for trying something new, tasting unfamiliar food, or testing an approach out of curiosity."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "What is the colloquial contraction of 飲んでしまった?",
+      "options": [
+        "A. 飲んちゃった",
+        "B. 飲んじゃった",
+        "C. 飲んとった",
+        "D. 飲んてしまった"
+      ],
+      "answer": "B",
+      "explanation": "飲む has a te-form ending in で (飲んで). When the te-form ends in で, てしまう contracts to じゃう/じゃった. So 飲んでしまった → 飲んじゃった. The ちゃう contraction applies to verbs with te-forms ending in て (e.g., 食べてしまう → 食べちゃう)."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Explain the nuance difference between these two sentences: (1) ておく — 「試験の前にノートをまとめておく」and (2) てある — 「ノートがまとめてある」. Which would you use if you are telling a friend what you plan to do tonight? Which would you use if you are telling them the notes are already prepared?",
+      "sample_answer": "ておく (まとめておく) focuses on the preparatory action itself — 'I will organize my notes in advance for future benefit.' It is action-oriented and implies intent or planning. てある (まとめてある) focuses on the resulting state that already exists — 'The notes have been organized (by someone, for a purpose).' The agent is implied but not the focus. To describe what you plan to do tonight: 「試験の前にノートをまとめておく」— you are describing your preparatory action. To tell your friend the notes are already done: 「ノートがまとめてある」— you are describing an existing prepared state.",
+      "key_concepts": ["ておく", "てある", "preparatory action vs. resulting state"]
+    }
+  ]
+}

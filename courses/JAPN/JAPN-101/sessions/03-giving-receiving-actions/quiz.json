@@ -1,0 +1,59 @@
+{
+  "session": "03",
+  "course": "JAPN-101",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Your friend Yuki stayed late to help you fix a bug in your code. You want to tell a third person about Yuki's kindness. Which sentence is most appropriate?",
+      "options": [
+        "A. 私はゆきにコードを直してあげました。",
+        "B. ゆきがコードを直してくれました。",
+        "C. ゆきにコードを直してもらいました。",
+        "D. 私はゆきのコードを直してあげました。"
+      ],
+      "answer": "B",
+      "explanation": "てくれる foregrounds the giver's (Yuki's) generous action from the speaker's perspective. When describing someone's kindness to a third person, くれる is the natural choice. Option C (てもらう) is also grammatically correct and natural, but foregrounds what you received rather than Yuki's kindness. Option A incorrectly uses てあげる (you did a favor for Yuki, not the reverse). Option D has the wrong object."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "You want to politely ask your supervisor to review your proposal. Which phrasing is most appropriate?",
+      "options": [
+        "A. 提案を見てくれない？",
+        "B. 提案を見てあげましょうか。",
+        "C. 提案を見ていただけますか。",
+        "D. 提案を見てもらいたい。"
+      ],
+      "answer": "C",
+      "explanation": "ていただけますか is the polite formal request form using the humble ていただく (formal equivalent of てもらう). This is appropriate when asking a superior. Option A is too casual (used for friends). Option B uses てあげる directed at yourself, which is grammatically wrong — you cannot give a favor to yourself. Option D (てもらいたい) is grammatically possible but too direct and blunt for a supervisor."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "The sentence 「先生に宿題を見てあげた」(I checked the teacher's homework for them) would be socially acceptable in most Japanese contexts.",
+      "answer": false,
+      "explanation": "てあげる toward a superior (the teacher) sounds patronizing — it implies you are doing the teacher a favor from a position of social superiority, which is the reverse of the actual relationship. In Japanese social grammar, favors flow downward or among equals, not upward. The appropriate rephrase would use respectful language or avoid てあげる entirely: 先生のために宿題を確認させていただきました."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "What is the grammatical difference between 「ケンが教えてくれた」and 「ケンに教えてもらった」?",
+      "options": [
+        "A. くれた = past tense; もらった = present tense",
+        "B. くれた takes Ken as subject; もらった takes the speaker as subject",
+        "C. くれた is formal; もらった is casual",
+        "D. They mean completely different things and cannot be used for the same event"
+      ],
+      "answer": "B",
+      "explanation": "Both sentences describe the same event from different grammatical perspectives. くれる takes the giver (Ken) as the grammatical subject and describes his act of giving. もらう takes the receiver (speaker) as the grammatical subject and describes the speaker's act of receiving. Same event, different perspective and grammatical subject. Both are correct and natural."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Write two sentences about this event: a colleague printed out an important document for you because you were in a meeting. Write one using てくれる and one using てもらう. Then explain when you would choose each.",
+      "sample_answer": "てくれる: 同僚が大事な書類を印刷してくれた。(My colleague printed the important document for me.) — Subject is the colleague; focuses on their helpful action. \n\nてもらう: 同僚に大事な書類を印刷してもらった。(I had my colleague print the important document.) — Subject is I; focuses on what I received. \n\nWhen to choose each: Use くれた when you want to highlight the colleague's kindness, such as when thanking them or describing their generosity to someone else. Use もらった when explaining how something got done from your perspective, such as when reporting to your manager how you handled the situation while in a meeting.",
+      "key_concepts": ["てくれる", "てもらう", "grammatical subject", "perspective", "social register"]
+    }
+  ]
+}

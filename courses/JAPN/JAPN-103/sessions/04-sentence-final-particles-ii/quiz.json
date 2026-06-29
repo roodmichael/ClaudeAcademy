@@ -1,0 +1,72 @@
+{
+  "session": "04",
+  "course": "JAPN-103",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "A male colleague at your Japanese workplace says 会議、今日中止だって to you. What does the って at the end signal?",
+      "options": [
+        "A. He is strongly asserting his own opinion",
+        "B. He is reporting information he heard from another source",
+        "C. He is asking a question about the meeting",
+        "D. He is listing reasons why the meeting is cancelled"
+      ],
+      "answer": "B",
+      "explanation": "Sentence-final って reports hearsay — information the speaker heard from someone else or read somewhere. It is the casual equivalent of ～そうです (hearsay). The speaker did not make the decision; they're passing along what they heard."
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "question": "The particle ぞ is appropriate to use in a formal business presentation to emphasize an important point.",
+      "answer": false,
+      "explanation": "ぞ is strongly masculine, rough, and casual. It has no place in formal business settings. Using it with clients, in presentations, or with superiors would come across as aggressive or wildly inappropriate. In formal contexts, emphasis is conveyed through sentence structure, tone of voice, or expressions like ～ことが重要です."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "Which sentence uses し most accurately to express non-exhaustive reasoning?",
+      "options": [
+        "A. 彼女は優しいし、頭もいいし、スポーツも得意し。",
+        "B. 彼女は優しいし、頭もいいし、スポーツも得意だし。",
+        "C. 彼女は優しい、頭もいい、スポーツも得意。",
+        "D. 彼女は優しいよし、頭もいいし。"
+      ],
+      "answer": "B",
+      "explanation": "し attaches to the plain form of predicates. For the final item in the list, し still attaches to the predicate form (得意だし — だ for な-adjective noun). Option A incorrectly drops だ before し on the last item. Option C has no し at all. Option D misapplies よ before し."
+    },
+    {
+      "id": "q4",
+      "type": "short_answer",
+      "question": "A friend who is clearly reluctant to do something says: だって、眠いんだもん… What are two things this sentence tells you about the speaker's emotional state or social positioning?",
+      "sample_answer": "First, もん (or もの) signals the speaker is providing a justification or explanation with an emotional, slightly vulnerable or childlike tone — they are defending themselves or their reluctance. Second, the trailing off (...) combined with もん suggests resignation or mild whining, not aggressive refusal. The speaker is acknowledging that their reason might not be fully persuasive but is asserting it anyway with a 'but I can't help it' energy.",
+      "key_concepts": ["もん justification", "emotional tone", "childlike/vulnerable register"]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "A younger female speaker in a 2025 Japanese drama uses ぞ playfully while challenging her friend to a game. What does the MDPI Languages (Konnelly et al., 2023) research suggest about this usage?",
+      "options": [
+        "A. This is a scripting error — real women never use ぞ",
+        "B. The gender associations of particles are weakening, especially among young speakers, so this is plausible",
+        "C. This confirms that ぞ is now gender-neutral in all contexts",
+        "D. This is only possible in Kansai dialect"
+      ],
+      "answer": "B",
+      "explanation": "Research on modern Japanese usage (Konnelly et al. 2023) found that young urban Japanese speakers use traditionally gendered particles more flexibly than textbooks describe. A young woman using ぞ playfully is a real documented phenomenon, not an error. However, it would still read as deliberately playing with register expectations — not as a neutral default."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "What is the difference between: (A) あの映画って面白い？ and (B) あの映画、面白かったって？",
+      "options": [
+        "A. No meaningful difference; both are casual questions about the movie",
+        "B. A uses って as a casual topic marker replacing は; B uses って as a hearsay marker — the speaker heard the movie was interesting",
+        "C. A is formal; B is casual",
+        "D. B contains a grammatical error — って cannot follow a past tense adjective"
+      ],
+      "answer": "B",
+      "explanation": "In A, って replaces the topic marker は (this is the casual topic function of って). In B, 面白かったって at the end of the sentence reports hearsay — the speaker heard from someone that the movie was interesting. The context of each って is different: topic marker vs. evidential quotative."
+    }
+  ]
+}

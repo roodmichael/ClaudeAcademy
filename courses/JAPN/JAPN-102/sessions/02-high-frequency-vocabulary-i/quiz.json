@@ -1,0 +1,59 @@
+{
+  "session": "02",
+  "course": "JAPN-102",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which verb is the natural collocation partner for 不安 in the phrase 'feel anxious'?",
+      "options": [
+        "A. 不安を思う",
+        "B. 不安を感じる",
+        "C. 不安を持つ",
+        "D. 不安をする"
+      ],
+      "answer": "B",
+      "explanation": "不安を感じる (to feel anxious) is the natural collocation. 不安を思う and 不安を持つ are grammatically possible but unnatural — native speakers habitually say 感じる with emotional state nouns like 不安."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "You want to introduce a colleague to a business contact at a formal event. Which word do you use for 'friend/colleague'?",
+      "options": [
+        "A. 友達",
+        "B. 友人",
+        "C. 仲間",
+        "D. 知り合い"
+      ],
+      "answer": "B",
+      "explanation": "友人 is the formal register for 'friend' appropriate in business or official contexts. 友達 is casual and would sound out of place in a formal introduction."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "悩む and 悩み are the same word used interchangeably — 悩む describes an ongoing worry and 悩み is just its noun form with the same usage pattern.",
+      "answer": false,
+      "explanation": "While 悩み is the noun form of 悩む, their usage differs. 悩む is a verb meaning 'to agonize, to be troubled' (an active process). 悩み as a noun refers to a specific worry or concern that troubles someone. You 悩む over a decision; 悩み is the thing that weighs on you."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "Your friend is telling you about a difficult situation they're going through. You want to say 'I'm here for you — I'll listen to your problem.' Which phrase fits best?",
+      "options": [
+        "A. 相談を聞きます",
+        "B. 相談に乗ります",
+        "C. 悩みを知ります",
+        "D. 問題を受けます"
+      ],
+      "answer": "B",
+      "explanation": "相談に乗る is the idiomatic expression for 'to listen to someone's problem, to be available to talk.' It literally means 'to get on the consultation' — an idiom that must be learned as a fixed expression."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "What is the difference between 心配 and 不安, and when would you use each?",
+      "sample_answer": "心配 is worry about something specific — a specific person or situation you're concerned about. 不安 is a more general state of unease or anxiety, often about the future or about something unresolved. You 心配する about your friend who is sick (specific concern, other-directed). You feel 不安 about the future or an upcoming exam (diffuse state, often self-directed). You can say 心配をかける (cause worry to someone else); 不安 is more typically felt oneself.",
+      "key_concepts": ["心配", "不安", "specific vs. general", "other-directed vs. self-directed"]
+    }
+  ]
+}

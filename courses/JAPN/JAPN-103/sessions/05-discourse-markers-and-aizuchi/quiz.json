@@ -1,0 +1,72 @@
+{
+  "session": "05",
+  "course": "JAPN-103",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "You are listening to a Japanese friend explain a story. After 30 seconds of listening without making any sound, what does the silence likely communicate to the native speaker?",
+      "options": [
+        "A. That you are being respectfully attentive",
+        "B. That you are confused and waiting for them to finish",
+        "C. Disengagement or possible disagreement",
+        "D. That you are thinking carefully about what they said"
+      ],
+      "answer": "C",
+      "explanation": "Japanese conversational norms expect frequent aizuchi (back-channel responses) from the listener. Extended silence signals disengagement or disagreement — not polite attention. This is a key cultural difference from some Western conversational styles."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "Which pair of sentences uses ところで and そういえば correctly?",
+      "options": [
+        "A. ところで、さっきあなたが言ったことについて。/ そういえば、週末何してた？",
+        "B. ところで、週末何してた？(after an unrelated topic ends) / そういえば、あなたの話で思い出したけど田中さん会った？",
+        "C. ところで and そういえば are interchangeable with no nuance difference",
+        "D. ところで is casual only; そういえば is formal only"
+      ],
+      "answer": "B",
+      "explanation": "ところで signals a deliberate topic change (appropriate after finishing one topic and cleanly pivoting to another). そういえば signals an associative pivot — something in the current conversation triggered a memory or related thought. B correctly uses each in its natural context."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "When a Japanese colleague responds to your project proposal with ちょっと難しいですね and then goes quiet, they are probably asking for more time to consider.",
+      "answer": false,
+      "explanation": "ちょっと followed by a difficulty expression and trailing silence is a soft refusal in Japanese indirect communication. The proposal is likely being declined politely. Waiting for a clearer 'no' in this situation will result in confusion — ちょっと難しいですね is the refusal."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "Which aizuchi would you most naturally use when a friend has just explained something surprising you didn't know?",
+      "options": [
+        "A. うんうん",
+        "B. なるほど",
+        "C. へえ！そうなんだ",
+        "D. そうですか (formal)"
+      ],
+      "answer": "C",
+      "explanation": "へえ signals surprise at new or unexpected information; そうなんだ marks the realization 'oh, that's how it is.' Together, へえ！そうなんだ is one of the most natural casual aizuchi combinations for reacting to surprising new information from a friend. うんうん signals agreement, not surprise. なるほど signals comprehension of something explained, not surprise at information."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "A Japanese speaker says: えーと、確かに問題はあるんですが、ちょっと今すぐには... What are TWO discourse features present in this sentence, and what does each signal?",
+      "sample_answer": "First, えーと at the start is a hesitation filler — the speaker is buying time to formulate their response, keeping the conversational floor while thinking. Second, ちょっと今すぐには... (trailing off) is an indirect refusal or deferral signal — 'it's a little difficult right now' is the polite way of declining or avoiding commitment. The speaker is not going to do whatever was requested right now, and the trailing off is the soft 'no' rather than an explicit refusal.",
+      "key_concepts": ["えーと hesitation filler", "ちょっと indirect refusal", "sentence-final trailing off"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "Which statement most accurately describes the difference between なるほど and へえ as aizuchi?",
+      "options": [
+        "A. なるほど expresses surprise; へえ expresses comprehension",
+        "B. なるほど is casual; へえ is formal",
+        "C. なるほど expresses comprehension ('I understand that'); へえ expresses surprise or reaction to new information",
+        "D. They are identical in meaning with only a register difference"
+      ],
+      "answer": "C",
+      "explanation": "なるほど ('I see / that makes sense') is a comprehension aizuchi — the speaker has processed an explanation and understood it. へえ is a reaction to new or surprising information — 'oh really?' The distinction matters: using なるほど when you hear surprising news sounds inappropriately calm; using へえ when someone explains a logical process sounds like you didn't expect logic to work."
+    }
+  ]
+}

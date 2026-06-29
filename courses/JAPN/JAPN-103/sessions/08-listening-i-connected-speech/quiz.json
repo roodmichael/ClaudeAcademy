@@ -1,0 +1,72 @@
+{
+  "session": "08",
+  "course": "JAPN-103",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Natural conversational Japanese runs at approximately how many mora per second? And how does this compare to JLPT listening test audio?",
+      "options": [
+        "A. 2-3 mora/second; about the same as JLPT audio",
+        "B. 5-7 mora/second; roughly twice the speed of JLPT audio (~3 mora/second)",
+        "C. 5-7 mora/second; about 10% faster than JLPT audio",
+        "D. 8-10 mora/second; nearly three times JLPT audio speed"
+      ],
+      "answer": "B",
+      "explanation": "Natural conversational Japanese runs at 5-7 mora per second. JLPT listening audio runs at approximately 3 mora per second — significantly slower, with cleaner articulation. This gap (nearly double speed) is a primary reason why learners who pass N4/N3 listening tests still struggle with natural speech."
+    },
+    {
+      "id": "q2",
+      "type": "true_false",
+      "question": "In the word です (desu), the final vowel u is fully pronounced in standard Tokyo speech at natural speed.",
+      "answer": false,
+      "explanation": "The u in です is devoiced — it becomes whispered or nearly inaudible because it appears after the voiceless consonant s. At natural speed, です sounds like 'des' with an almost-silent or completely absent u. This is the most commonly encountered example of vowel devoicing in Japanese."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "How many morae does the word 切手 (ki-t-te, 'stamp') contain?",
+      "options": [
+        "A. 2 (ki and te)",
+        "B. 4 (ki, t, t, e)",
+        "C. 3 (ki, っ, te)",
+        "D. 2.5 — the っ counts as half a mora"
+      ],
+      "answer": "C",
+      "explanation": "切手 has 3 morae: き (ki), っ (small tsu, counted as one full mora), and て (te). The っ is a mora of pause/closure before the double consonant — it gets one full beat of time. Understanding mora counting is crucial for tracking speech at natural speed."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "In 新聞 (shinbun), the ん before b sounds like which sound?",
+      "options": [
+        "A. A standard n, tongue at the ridge",
+        "B. An ng sound at the back of the mouth",
+        "C. An m sound, lips closing before the b",
+        "D. A nasalized open vowel"
+      ],
+      "answer": "C",
+      "explanation": "Before bilabial consonants (p, b, m), ん realizes as [m] — the lips close in preparation for the following consonant. In 新聞, the ん before b sounds like 'm', making it sound like 'shimbun.' This nasal allophony is why ん can seem like different sounds in different words."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "雨 (ame, rain) and 飴 (ame, candy) are written identically in romaji. How does Japanese pitch accent distinguish them in speech, and what type of accent does each have?",
+      "sample_answer": "雨 (rain) has atamadaka (head-high) pitch: the first mora is high, then the pitch drops — H-L. 飴 (candy) has heiban or odaka pitch: it rises after the first mora and stays high (L-H). In connected speech, when a particle follows 飴, the pitch can distinguish them. The distinction relies on knowing that the first mora of 雨 is high and immediately drops, while 飴 starts low and rises. Context (semantic) usually disambiguates in real conversation.",
+      "key_concepts": ["pitch accent types", "atamadaka vs heiban/odaka", "minimal pairs in Japanese"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "A learner knows the word 好き (suki, 'like/fond of') very well. At natural speed, they hear something that sounds like 'sk'des-ka' and don't recognize it. What is most likely happening?",
+      "options": [
+        "A. The speaker used an unusual dialect form",
+        "B. The い in 好き devoiced (between s and k) and the u in です also devoiced, compressing the full phrase 好きですか into a short sequence",
+        "C. The word was contracted into a casual form they haven't learned",
+        "D. The speaker dropped the verb entirely"
+      ],
+      "answer": "B",
+      "explanation": "好きですか = su-ki-de-su-ka (5 morae). The い in 好き devoices between s and k (→ 'sk'). The u in です devoices after s (→ 'des'). At 5-7 mora/second, the full phrase becomes 'sk'des-ka' — less than a second of sound. The learner knows all three words; the phonological compression made them unrecognizable. This is precisely the connected-speech phenomenon Session 08 explains."
+    }
+  ]
+}

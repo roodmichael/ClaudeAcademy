@@ -12,6 +12,7 @@
     { "code": "PROG", "name": "Programming & Systems",  "division": "Engineering" },
     { "code": "ECON", "name": "Economics",              "division": "Social Sciences" },
     { "code": "PLSC", "name": "Political Science",      "division": "Social Sciences" },
+    { "code": "JAPN", "name": "Japanese Language",      "division": "Languages" },
     { "code": "HIST", "name": "History",                "division": "Humanities" },
     { "code": "LITR", "name": "Literary Studies",       "division": "Humanities" },
     { "code": "PHIL", "name": "Philosophy",             "division": "Humanities" },

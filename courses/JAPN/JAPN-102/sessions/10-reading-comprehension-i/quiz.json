@@ -1,0 +1,72 @@
+{
+  "session": "10",
+  "course": "JAPN-102",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "In the skim-scan-dive strategy, what should you do FIRST before reading the passage?",
+      "options": [
+        "A. Read the entire passage from start to finish",
+        "B. Look up unfamiliar vocabulary in the title",
+        "C. Read the questions and answer options",
+        "D. Read the first and last sentence of the passage"
+      ],
+      "answer": "C",
+      "explanation": "In skim-scan-dive, you SCAN the questions first — before reading any of the passage. This directs your attention so the subsequent skim and dive are purposeful. Reading the whole passage first (A) is the linear approach that wastes time. Reading the first/last sentence (D) is the skim step, which comes second."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "You are reading a long N3 passage and see the word つまり near the end. What does this signal?",
+      "options": [
+        "A. The author is introducing a contrast — the next sentence goes in a different direction",
+        "B. The author is about to state a conclusion or restatement of the main point",
+        "C. The passage is about to end with a question",
+        "D. The author is adding a new supporting point"
+      ],
+      "answer": "B",
+      "explanation": "つまり (in other words, that is to say) is a summary/conclusion connective. It signals that the author is about to state their main point or reformulate what came before into a clear summary. During the skim phase, when you see つまり, read that sentence carefully — it often contains the answer to the main idea question."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "For an information retrieval passage (event flyer, timetable, notice), the best approach is to read the entire document carefully from start to finish.",
+      "answer": false,
+      "explanation": "Information retrieval passages require scanning, not reading. The task is to locate specific data (a price, a date, an eligibility condition) efficiently. Reading the whole document wastes time on irrelevant information. Read the question first to know exactly what to scan for, then locate only that specific piece of information."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "A reading question asks: 「第2段落の『それ』は何を指しますか。」Where should you look to find the answer?",
+      "options": [
+        "A. The last sentence of the passage",
+        "B. The first sentence of the passage",
+        "C. The sentence immediately before the sentence containing 『それ』",
+        "D. The first sentence of paragraph 2"
+      ],
+      "answer": "C",
+      "explanation": "Referential expressions (これ, それ, あれ, その, etc.) almost always refer back to something mentioned in the immediately preceding sentence or clause. Look one sentence back from where それ appears. This is one of the most reliable patterns in N3 reading question strategy."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Describe the three types of trap answers on N3 reading questions and give an example of each.",
+      "sample_answer": "Half-truths: An answer that is correct about part of the passage but misses a key contrast. Example: A passage says 'Exercise is beneficial BUT excessive exercise can be harmful.' A half-truth answer says 'Exercise is beneficial' — true but incomplete. Extreme words: Answers using 絶対に, 必ず, 全然〜ない. Example: 'Exercise always improves health' — the passage said 'usually/moderate amounts.' Irrelevant correctness: An answer that is factually true based on the passage but doesn't answer the question asked. Example: Question asks about the author's recommendation; answer correctly states a fact from paragraph 1 but does not address the recommendation in paragraph 3.",
+      "key_concepts": ["half-truths", "extreme words", "irrelevant correctness", "trap answers"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "While skimming a passage, you spot the connective ところが in the middle of the second paragraph. What does this tell you about the passage's structure?",
+      "options": [
+        "A. The author is about to conclude their argument",
+        "B. The author is about to add another supporting example",
+        "C. The second paragraph introduces an unexpected result or reversal from what came before",
+        "D. The author is beginning to list items in sequence"
+      ],
+      "answer": "C",
+      "explanation": "ところが (however/but) signals an unexpected or surprising result — the next clause goes against what would be expected from the previous one. In the skim phase, seeing ところが tells you: the passage has a tension or reversal here, and the content after ところが is likely more important than what came before. This is different from しかし (simple contrast) — ところが implies the contrast was unexpected."
+    }
+  ]
+}

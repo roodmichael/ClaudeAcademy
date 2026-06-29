@@ -1,0 +1,72 @@
+{
+  "session": "10",
+  "course": "JAPN-103",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "You glance out the window and see the sky is very dark and cloudy. You want to say 'It looks like it's going to rain.' Which expression is correct?",
+      "options": [
+        "A. 雨が降るらしい",
+        "B. 雨が降るかもしれない",
+        "C. 雨が降りそうだ",
+        "D. 雨が降るはずだ"
+      ],
+      "answer": "C",
+      "explanation": "You are making a direct sensory observation right now (you see the dark sky). This is appearance そうだ, formed from the verb ます-stem (降り) + そうだ. らしい is hearsay from others. かもしれない is pure possibility with no evidence. はずだ is logical inference from known facts — appropriate if you knew something objective about the weather, not just visual appearance."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "A colleague emails you saying 'I heard that the meeting was cancelled.' Which Japanese sentence represents this correctly?",
+      "options": [
+        "A. 会議がキャンセルそうです。",
+        "B. 会議はキャンセルになるそうです。",
+        "C. 会議がキャンセルになったらしいです。",
+        "D. 会議がキャンセルになったはずです。"
+      ],
+      "answer": "C",
+      "explanation": "The speaker heard this information from another source — this is hearsay. らしい is appropriate for information received from others. Note it is past tense (cancelled already). Option A is appearance そうだ (formation error). Option B says it 'will become cancelled' — future, but the colleague heard it already happened. Option D uses はずだ (logical inference from facts) which doesn't fit the 'I heard' evidence basis."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "The sentence 雨が降りそうだ (appearance そうだ) can be correctly used to say 'It looks like it rained (yesterday).'",
+      "answer": false,
+      "explanation": "Appearance そうだ is based on direct sensory observation happening right now. It cannot describe past events because you cannot visually observe something that already happened. For past hearsay, 昨日、雨が降ったそうだ (hearsay) is correct. For past logical inference, 昨日、雨が降ったようだ or 雨が降ったらしい are appropriate."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "Which sentence uses はずだ correctly?",
+      "options": [
+        "A. 彼は来るはずだ。（I just feel like he'll come — no specific reason）",
+        "B. 彼女は東京に住んでいるはずだ。（She told me she lives in Tokyo — I have this information）",
+        "C. 電気がついているから、誰かいるはずだ。（The lights are on — logical inference）",
+        "D. 雨が降るはずだ。（I looked at the sky and it looks cloudy）"
+      ],
+      "answer": "C",
+      "explanation": "はずだ requires objective factual basis for logical inference. Option C is the correct use: the lights being on is an observable fact that logically implies someone is present. Option A is gut feeling (use 気がする). Option B is received information (use らしい or って). Option D is direct observation (use そうだ appearance)."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "A student writes: あの店、美味しいそうです。Is this appearance そうだ or hearsay そうだ? How can you tell, and what does the sentence mean?",
+      "sample_answer": "This is hearsay そうだ. The formation clue is the word preceding そうです: 美味しい (complete い-adjective in plain form) + そうです. If it were appearance そうだ, it would need the adjective stem: 美味しそうです (美味し + そう, dropping the い). 美味しいそうです means 'I heard that place is good / Apparently it's delicious' — the speaker received this information from somewhere. 美味しそう！means 'That looks delicious!' — direct visual impression.",
+      "key_concepts": ["hearsay vs appearance そうだ formation", "complete adjective + そうだ", "adjective stem + そう"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "Which best describes the difference between 彼女らしい行動だ and 彼女が来るらしい?",
+      "options": [
+        "A. No difference — both are hearsay uses of らしい",
+        "B. The first uses the typicality function of らしい ('that's so like her'); the second uses the hearsay function ('I heard she'll come')",
+        "C. The first is keigo; the second is casual",
+        "D. Both express hearsay but from different sources"
+      ],
+      "answer": "B",
+      "explanation": "らしい has two functions. Attached to a noun/person (彼女らしい), it expresses typicality: 'that's typical of her / that's so like her.' Attached to a clause (来るらしい), it expresses hearsay evidentiality: 'I heard / apparently.' The Makino & Tsutsui grammar dictionary treats these as distinct enough to warrant separate entries. Context and attachment position determine which function is active."
+    }
+  ]
+}

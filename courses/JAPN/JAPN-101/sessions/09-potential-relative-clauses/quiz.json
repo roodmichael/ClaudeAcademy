@@ -1,0 +1,59 @@
+{
+  "session": "09",
+  "course": "JAPN-101",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "What is the correct potential form of 書く (to write)?",
+      "options": [
+        "A. 書かれる",
+        "B. 書きられる",
+        "C. 書ける",
+        "D. 書くできる"
+      ],
+      "answer": "C",
+      "explanation": "書く is a u-verb ending in く. For u-verb potential, replace the final kana with the え-row equivalent and add る: く → け, so 書く → 書ける. Option A is the passive form. Option B incorrectly attaches られる to the ます-stem. Option D mixes two constructions (the correct alternative is 書くことができる, not 書くできる)."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "Which of these sentences contains a correct Japanese relative clause?",
+      "options": [
+        "A. 田中さんは作るごはんは美味しい。",
+        "B. 田中さんが作りますごはんは美味しい。",
+        "C. 田中さんが作るごはんは美味しい。",
+        "D. ごはんは田中さんが作るは美味しい。"
+      ],
+      "answer": "C",
+      "explanation": "Correct relative clause structure: [plain-form clause] + [head noun]. 田中さんが作る (plain form, with が for the subject) modifies ごはん (head noun). Option A incorrectly uses は inside the clause instead of が. Option B uses the polite form (作ります) inside the clause, which is ungrammatical. Option D places は incorrectly between the head noun and the predicate."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "The sentences 「黒板が見えますか」and 「黒板が見られますか」ask the same question: whether you personally have the ability to see the blackboard.",
+      "answer": false,
+      "explanation": "These ask different questions. 見えますか uses 見える (intransitive — to be visible/come into view), which asks whether the blackboard is visible from where you are — a question about physical conditions. 見られますか uses the potential form of 見る (transitive — to look at/see), which asks whether you personally are able to see it — a question about your ability or capacity. The distinction matters: 見えますか addresses whether the view is unobstructed; 見られますか addresses whether you can see it given your situation."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "You want to say 'the restaurant where my friend works.' Which is correct?",
+      "options": [
+        "A. 友達は働くレストラン",
+        "B. 友達が働いているレストラン",
+        "C. 友達が働きますレストラン",
+        "D. レストランが友達を働く"
+      ],
+      "answer": "B",
+      "explanation": "Option B: 友達が働いている (plain form — the friend is currently working there) modifies レストラン (the head noun). The head noun レストラン plays the role of location inside the embedded clause (where the friend works). Plain form is required inside the clause; が is correct for the subject (not は). Option A uses は inside the clause (wrong). Option C uses polite form inside the clause (wrong). Option D has inverted word order."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Explain the 'head noun gap' concept in Japanese relative clauses and give two examples showing the head noun playing different grammatical roles.",
+      "sample_answer": "The 'head noun gap' refers to the fact that in a Japanese relative clause, the noun being modified (the head noun) plays an implied grammatical role inside the embedded clause — object, location, time, instrument, etc. — but that role is not grammatically marked in the clause. The reader infers the role from context and common sense. Example 1 (object): 私が昨日読んだ本 — the head noun 本 (book) is the implied object of 読む (I read the book — not I read something else). Example 2 (location): 田中さんが住む町 — the head noun 町 (town) is the implied location of 住む (Tanaka-san lives *in* the town — town is the place, not the thing lived). The head noun can represent any role without being explicitly marked in the clause.",
+      "key_concepts": ["relative clause", "head noun", "gap", "plain form", "implied role"]
+    }
+  ]
+}

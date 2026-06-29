@@ -1,0 +1,59 @@
+{
+  "session": "01",
+  "course": "JAPN-101",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which sentence correctly uses ている to describe a resultant state (not an ongoing action)?",
+      "options": [
+        "A. 子供が今、ご飯を食べている。",
+        "B. 彼女は結婚している。",
+        "C. 犬が公園で走っている。",
+        "D. 私はレポートを書いている。"
+      ],
+      "answer": "B",
+      "explanation": "結婚する is an instantaneous change-of-state verb. You cannot get married twice in a row, so 結婚している describes the resultant state: 'is married.' The other options all use durative verbs (eating, running, writing) that describe ongoing actions."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "What is the key grammatical requirement for using てある?",
+      "options": [
+        "A. The verb must be in the past tense.",
+        "B. The verb must be intransitive (cannot take an object).",
+        "C. The verb must be transitive (takes an object with を).",
+        "D. The subject must be a person."
+      ],
+      "answer": "C",
+      "explanation": "てある requires a transitive verb because the construction implies that someone deliberately acted on an object. Intransitive verbs describe actions that happen without a direct object — there is no 'thing' someone acted upon, so てある cannot apply."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "The sentence 窓が開いている (mado ga aite iru) implies that someone deliberately opened the window.",
+      "answer": false,
+      "explanation": "開く (aku) is an intransitive verb — it means 'to open by itself.' 窓が開いている simply describes the current state: the window is open, with no implication about who or what caused it. To imply deliberate action, you would use the transitive verb 開ける: 窓が開けてある."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "You arrive at a meeting room and see that someone has placed name cards on the table in preparation for the guests. Which sentence best describes this situation?",
+      "options": [
+        "A. 名前カードが置いている。",
+        "B. 名前カードが置いてある。",
+        "C. 名前カードを置いていた。",
+        "D. 名前カードが置かれる。"
+      ],
+      "answer": "B",
+      "explanation": "てある is the right form here because someone deliberately placed the name cards in preparation — exactly the kind of intentional, resultant-state action that てある expresses. Option A uses an intransitive verb incorrectly with te-iru. The scene requires a transitive verb (置く) plus ある."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "A friend says 「バスが来ている」. What does this sentence mean, and which type of ている usage is this — ongoing action or resultant state? Explain your reasoning.",
+      "sample_answer": "The sentence means 'The bus has come' or 'The bus is here.' This is resultant state, not ongoing action. 来る (kuru, to come) is a motion verb / change-of-state verb — arriving is instantaneous; you cannot 'be in the process of arriving' for an extended duration. Once arrived, the bus is in the state of having come. In context, it functions as a notification: the bus you were waiting for has arrived and is present.",
+      "key_concepts": ["resultant state", "motion verb", "change-of-state", "ている"]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "session": "06",
+  "course": "JAPN-102",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "You encounter the compound 改善策 (three kanji, no hiragana between them). Applying Rule 1, what type of reading do you predict?",
+      "options": [
+        "A. Kun'yomi — because the first kanji is a common verb root",
+        "B. On'yomi — because it is a multi-kanji compound with no hiragana between elements",
+        "C. Nanori — because it looks like a place name",
+        "D. Mixed — one on'yomi and one kun'yomi"
+      ],
+      "answer": "B",
+      "explanation": "Rule 1: Two or more kanji with no hiragana between them → on'yomi. 改善策 reads KAI-ZEN-SAKU (improvement measures). This is the most important and reliable of the four rules, applicable to the majority of N3 vocabulary."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "In a Japanese dictionary entry, on'yomi readings are conventionally listed in _____ and kun'yomi readings are listed in _____.",
+      "options": [
+        "A. hiragana / katakana",
+        "B. kanji / hiragana",
+        "C. KATAKANA / hiragana",
+        "D. romaji / hiragana"
+      ],
+      "answer": "C",
+      "explanation": "This is a universal convention in Japanese dictionaries. On'yomi (Chinese-derived) readings appear in KATAKANA (e.g., セン, KA, MOKU). Kun'yomi (native Japanese) readings appear in hiragana (e.g., やま, みず, た-べる). Recognizing this convention turns a dictionary entry from raw data into immediate reading-type information."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "田中 (Tanaka) should be read as TAN-CHUU by applying Rule 1, since it consists of two kanji with no hiragana between them.",
+      "answer": false,
+      "explanation": "Rule 4: Names and places use nanori readings that do not follow Rules 1–3. 田中 is pronounced Tanaka — た (ta) from 田 and なか (naka) from 中. Applying Rule 1 to names produces wrong readings. Furigana is the only reliable guide for names."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "The word 手紙 (てがみ, letter) is a compound of two kanji. Why is it read in kun'yomi (te + kami → te + gami) rather than on'yomi?",
+      "options": [
+        "A. 手紙 is a name, so Rule 4 applies",
+        "B. It is a kun'yomi compound — a concrete, everyday concept that retains native Japanese readings, with rendaku voicing kami to gami",
+        "C. Both 手 and 紙 have no on'yomi readings",
+        "D. 手紙 contains okurigana, so Rule 3 applies"
+      ],
+      "answer": "B",
+      "explanation": "手紙 is one of the minority of kun'yomi compounds: both kanji are read in their native Japanese readings (手=te, 紙=kami→gami with rendaku). These tend to be concrete, traditional-culture terms. 手紙 is an exception to Rule 1 that must be learned as an exception — the radical logic and the trad-culture cue help flag it."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Explain why trying to memorize all readings of a kanji at once (e.g., memorizing all 10+ readings of 生 simultaneously) is counterproductive. What is the better approach?",
+      "sample_answer": "Trying to memorize all readings simultaneously causes interference — the multiple reading options compete with each other and reduce retention of all of them. Research on vocabulary acquisition shows that learners who try to learn all readings at once retain few or none. The better approach is to learn one reading per kanji (usually the on'yomi that appears most in jukugo compounds) and then acquire additional readings through vocabulary study. When 生 appears in a new compound (生ビール=なま, 生き物=いき), you treat that as a new vocabulary item with its own context, not as an additional reading to add to a memorization list.",
+      "key_concepts": ["interference", "one reading first", "vocabulary-based acquisition", "memory efficiency"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "What does rendaku (連濁) do to the reading of a kanji compound?",
+      "options": [
+        "A. It changes the kanji from on'yomi to kun'yomi",
+        "B. It voices the initial consonant of the second element in a compound (k→g, s→z, t→d, h→b/p)",
+        "C. It adds a hiragana suffix to make a verb form",
+        "D. It duplicates the second kanji for emphasis"
+      ],
+      "answer": "B",
+      "explanation": "Rendaku (sequential voicing) voices the initial consonant of the second element of a kun'yomi compound. 本棚 (bookshelf): 棚 (たな, tana) → 本棚 (ほんだな, hon-**da**na). This does not change whether the reading is on'yomi or kun'yomi — it is purely a phonological process that affects the surface pronunciation."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "session": "10",
+  "course": "JAPN-101",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which sentence correctly uses こと as a predicate nominal?",
+      "options": [
+        "A. 趣味は旅行するのだ。",
+        "B. 趣味は旅行することだ。",
+        "C. 趣味は旅行するのです。",
+        "D. 趣味が旅行すること。"
+      ],
+      "answer": "B",
+      "explanation": "When a nominalized phrase is equated to the subject using だ/です (predicate nominal), only こと is grammatically correct: 趣味は旅行することだ. Using のだ (option A) creates an explanatory/evidence pattern with different meaning ('the reason is that my hobby is traveling'), not a simple equation. Option C similarly uses のです for explanation. Option D lacks a predicate."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "You directly watched a bird land on your windowsill and want to describe it. Which is correct?",
+      "options": [
+        "A. 鳥が窓に止まることを見た。",
+        "B. 鳥が窓に止まるのを見た。",
+        "C. 鳥が窓に止まることが見た。",
+        "D. 鳥が窓に止まるのが見た。"
+      ],
+      "answer": "B",
+      "explanation": "With direct perception verbs (見る, 聞く used to describe what you physically see/hear in real time), only の is correct. こと would imply abstract awareness, not direct sensory experience. The particle after の/こと should be を (object of 見た), so options C and D are incorrect in particle choice."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "In the sentence 「タバコを吸うことをやめた」(I quit smoking), こと is the correct nominalizer.",
+      "answer": false,
+      "explanation": "With やめる (to stop, quit), only の is grammatically correct: タバコを吸うのをやめた. This is one of the cases where の is required and こと cannot substitute."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "Which expression requires こと and cannot use の?",
+      "options": [
+        "A. 日本語を話す\_\_が好きだ。(like speaking Japanese)",
+        "B. 勉強する\_\_ができる。(can study — ability)",
+        "C. 子供が遊んでいる\_\_を見た。(watched the children playing)",
+        "D. 毎日運動する\_\_が大切だ。(it's important to exercise daily)"
+      ],
+      "answer": "B",
+      "explanation": "ことができる is a fixed expression requiring こと — の cannot substitute. Options A and D are interchangeable (both こと and の work). Option C requires の because it involves direct visual perception."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Explain the principle that distinguishes when の is required from when こと is required. Give one example where only の works and one where only こと works, explaining each using the principle.",
+      "sample_answer": "The underlying principle: の is for directly experienced, concrete, sensory events; こと is for abstract, conceptual, reported, or thought-about actions. When you are physically present and experiencing something through your senses — seeing, hearing, perceiving it in real time — の is required. When you are speaking about an action at an abstract level — knowing about it, deciding to do it, being able to do it, or expressing it as a general concept — こと is required or preferred. Example where only の works: 彼女が歌うのを聞いた (I heard her singing — I was there, directly hearing it in real time; の marks the direct perceptual experience). Example where only こと works: 毎朝走ることにしている (I make it a rule to run every morning — this is a standing decision, an abstract rule about my behavior; ことにしている is a fixed expression and こと cannot be replaced by の).",
+      "key_concepts": ["nominalizer", "こと", "の", "concrete vs. abstract", "direct perception", "fixed expressions"]
+    }
+  ]
+}

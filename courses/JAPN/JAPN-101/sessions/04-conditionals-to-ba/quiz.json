@@ -1,0 +1,59 @@
+{
+  "session": "04",
+  "course": "JAPN-101",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which sentence correctly uses と?",
+      "options": [
+        "A. 時間があると観光したい。",
+        "B. 春になると花が咲く。",
+        "C. もし雨が降ると傘を持って行って。",
+        "D. 宿題が終わると映画を見ましょう。"
+      ],
+      "answer": "B",
+      "explanation": "春になると花が咲く describes a natural, automatic, seasonal phenomenon — exactly what と is built for. Option A uses a volitional expression (したい) after と, which is not allowed. Option C uses もし with と, which is a contradiction (もし signals hypothesis; と signals certainty). Option D uses a volitional/inviting expression (〜ましょう) after と, which is also not allowed."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "What is the correct ば form of 話す (to speak)?",
+      "options": [
+        "A. 話れば",
+        "B. 話すば",
+        "C. 話せば",
+        "D. 話しば"
+      ],
+      "answer": "C",
+      "explanation": "話す is a u-verb ending in す. For ば form, replace the final kana with the え-row equivalent plus ば: す → せ, so 話す → 話せば. This follows the standard u-verb ば conjugation rule."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "ば can be used when the same person performs both the condition action and the result action as sequential deliberate choices, for example: 宿題が終われば遊ぶ (if I finish my homework, I'll play).",
+      "answer": false,
+      "explanation": "ば breaks down when the same subject performs sequential volitional actions in both clauses. This is one of ば's main limitations. The natural form here is たら: 宿題が終わったら遊ぶ. ば is appropriate when the condition is a state, a fact, or involves the potential form — not when it describes the speaker's own deliberate sequential action."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "You are writing instructions for a coffee machine: 'When you press this button, the machine starts.' Which conditional is most appropriate?",
+      "options": [
+        "A. このボタンを押せば機械が始まる。",
+        "B. このボタンを押すと機械が始まる。",
+        "C. このボタンを押したら機械が始まる。",
+        "D. このボタンを押すなら機械が始まる。"
+      ],
+      "answer": "B",
+      "explanation": "This is a constant, automatic result — press the button and the machine always starts. と is the natural choice for mechanical instructions, natural cause-effect, and automatic sequences. ば is possible but focuses on the condition as the key variable, which is less natural for instructions. たら is also possible but carries a 'when' or 'once you press' nuance rather than 'every time you press.' と is cleanest here."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Explain why と and もし cannot appear together in the same conditional sentence. Give an example of the error and the corrected version.",
+      "sample_answer": "と expresses automatic, certain, natural results — the result always follows the condition, without exception. もし means 'if by chance' or 'hypothetically speaking' — it signals that the condition is uncertain or hypothetical. These two meanings are logically contradictory: you cannot have something be simultaneously 'certain to occur' (と) and 'just a hypothesis' (もし). The error: ❌ もし雨が降ると傘を持って行って. The correction: ✅ もし雨が降ったら傘を持って行って (using たら, which handles hypothetical conditions). ば is also acceptable with もし: もし雨が降れば傘を持って行って.",
+      "key_concepts": ["と", "もし", "certainty vs. hypothesis", "conditional selection"]
+    }
+  ]
+}

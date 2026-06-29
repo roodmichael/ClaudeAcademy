@@ -1,0 +1,72 @@
+{
+  "session": "11",
+  "course": "JAPN-102",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "During a timed reading practice session, you encounter an unknown kanji compound that seems unrelated to the main topic of the passage. How should you handle it?",
+      "options": [
+        "A. Stop and look it up immediately on jisho.org before continuing",
+        "B. Apply the inference protocol (3–10 seconds), make a reasonable estimate, and continue",
+        "C. Skip the sentence entirely and move to the next paragraph",
+        "D. Re-read the paragraph from the beginning to get more context"
+      ],
+      "answer": "B",
+      "explanation": "The inference protocol (radical, context, part-of-speech) should take 3–10 seconds maximum during timed reading. If the word seems peripheral to the main topic, a rough estimate is enough to continue. Looking it up immediately (A) destroys reading fluency and time budget. Skipping the sentence (C) risks missing important information. Re-reading (D) wastes additional time."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "What is the key difference between a 'fluency pass' and a 'vocabulary building pass' of the same NHK Web Easy article?",
+      "options": [
+        "A. Fluency pass uses furigana; vocabulary pass does not",
+        "B. Fluency pass is done without dictionary use to build reading speed; vocabulary pass uses jisho.org to identify and add new words to Anki",
+        "C. Fluency pass requires answering comprehension questions; vocabulary pass does not",
+        "D. There is no meaningful difference — both should use the dictionary freely"
+      ],
+      "answer": "B",
+      "explanation": "The two passes serve different skills. The fluency pass (no dictionary) trains inference and reading speed — the skills you need under exam time pressure. The vocabulary pass (with dictionary) builds your word bank. Mixing them (always looking up words) builds passive vocabulary but not reading fluency, which is a different cognitive skill."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "If you can understand an NHK Web Easy article in under 5 minutes with no dictionary, you are ready to move to the original full-speed NHK articles for reading practice.",
+      "answer": true,
+      "explanation": "This is the benchmark the lesson describes. NHK Web Easy is approximately N4–N3 level. Original NHK articles are N2–N1. When Web Easy feels accessible and fast, the natural next step is the original articles, supplemented by Shin Kanzen Master N3 Reading for exam-specific preparation."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "A passage reads: 「テレワークの効果は職種によって大きく異なる。」You see this line in a passage and need to decide: is the main idea of the passage 'テレワークはよい' or 'テレワークの効果は職種による'? What should you do to confirm?",
+      "options": [
+        "A. Choose the answer that matches the first sentence of the passage",
+        "B. Find a connective (つまり, しかし, その結果) near this sentence and check the surrounding logic",
+        "C. Choose the option with the longest explanation",
+        "D. Assume this line is the main point without verification"
+      ],
+      "answer": "B",
+      "explanation": "Discourse connectives reveal the logical status of a sentence. If this line appears after しかし or ところが, it is a contrast — likely the main point reversing what came before. If it appears before つまり or その結果, it is supporting a conclusion that follows. Checking the surrounding connectives is the verification strategy."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Describe the complete NHK Web Easy weekly study workflow from this session. What three activities make up the sustainable weekly habit for maintaining N3 progress?",
+      "sample_answer": "The three activities are: (1) 2–3 NHK Web Easy articles per week (20–30 minutes each), using the fluency-first / vocabulary-second workflow — first pass without dictionary to train reading speed, second pass with jisho.org to mine vocabulary and add sentence cards to Anki; (2) 10–15 minutes of daily Anki review using sentence cards built from authentic reading material; (3) one weekly kanji exploration using jisho.org to take one kanji encountered during the week and find its N3-level compound vocabulary cluster. Together this is approximately 1.5–2 hours per week — sustainable and structured for retention rather than coverage.",
+      "key_concepts": ["NHK Web Easy workflow", "daily Anki review", "weekly kanji exploration", "fluency vs. vocabulary pass"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "You are reading an N3 passage and encounter: 「山田さんは去年、大きな決断をしました。それは仕事を辞めることでした。」A question asks: 「『それ』は何を指しますか。」Where do you look?",
+      "options": [
+        "A. The first sentence of the passage",
+        "B. The sentence after 「それ」appears",
+        "C. The sentence immediately before 「それ」",
+        "D. The title of the passage"
+      ],
+      "answer": "C",
+      "explanation": "Referential expressions (それ, これ, この事, など) refer back to something in the immediately preceding sentence or clause. In this case, それ refers to 「大きな決断」(major decision) — introduced in the sentence just before. This is the most consistent pattern in N3 referential expression questions."
+    }
+  ]
+}

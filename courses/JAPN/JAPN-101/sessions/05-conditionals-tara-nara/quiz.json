@@ -1,0 +1,59 @@
+{
+  "session": "05",
+  "course": "JAPN-101",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Someone tells you they are thinking of learning to play the guitar. You want to say: 'Guitar? Then you should check out that music school near the station.' Which conditional is most appropriate?",
+      "options": [
+        "A. ギターを練習すると、あの音楽学校を調べた方がいい。",
+        "B. ギターなら、駅の近くの音楽学校を調べた方がいい。",
+        "C. ギターを練習したら、あの音楽学校を調べた方がいい。",
+        "D. ギターを練習すれば、あの音楽学校を調べた方がいい。"
+      ],
+      "answer": "B",
+      "explanation": "なら is the right choice because you are responding to an established context (the other person's stated intention to learn guitar). なら picks up 'guitar' as the topic and gives a relevant response. と is for automatic results and cannot be used here. たら (option C) is possible but less natural for this pure contextual response. ば (option D) similarly does not capture the 'in response to what you said' nuance."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "Which sentence correctly uses たら for an advice pattern?",
+      "options": [
+        "A. 風邪を引くとどうですか。",
+        "B. 風邪を引くならどうですか。",
+        "C. 風邪を引いたらどうですか。",
+        "D. 風邪を引けばどうですか。"
+      ],
+      "answer": "C",
+      "explanation": "The たら〜どうですか pattern is a set expression for giving suggestions and advice. It is exclusively used with たら — other conditionals cannot substitute in this pattern. The sentence means: 'How about [doing something] if you have a cold?' (The full sentence would include what to do, but the pattern itself requires たら.)"
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "なら can introduce a hypothetical condition that has not been mentioned or implied by the situation — for example, starting a conversation with 「明日雨なら、家にいる」without any prior context about the weather.",
+      "answer": false,
+      "explanation": "なら requires pre-established context. It responds to something that was already said or to a situation that is observable. Using なら without prior context sounds unnatural. For a purely hypothetical conditional out of thin air, use たら or ば: 明日雨が降ったら、家にいる."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "You want to express a desire in the result clause: 'If I have time, I want to visit Kyoto.' Which conditional works here?",
+      "options": [
+        "A. 時間があると京都に行きたい。",
+        "B. 時間があれば京都に行きたい。",
+        "C. 時間があったら京都に行きたい。",
+        "D. Both B and C are correct."
+      ],
+      "answer": "C",
+      "explanation": "たら is the fully correct answer because it handles volitional result clauses (like 行きたい — want to go). と cannot be used with volitional expressions. ば can technically be used when the condition is a state ('having time' is a state), making option B debatable, but the consensus from grammar resources is that たら is more natural here and is the unambiguous safe choice. The question asks which *works* most clearly, and たら is the safest answer."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Explain in your own words what makes なら unique among the four Japanese conditionals. Give one example of a なら sentence and describe the context that must exist for it to be natural.",
+      "sample_answer": "なら is unique because it requires pre-established context — it cannot introduce a hypothetical condition on its own. Where と, ば, and たら can all be used to start a conditional statement, なら responds to something already said, observed, or assumed. It picks up information from the preceding conversation or situation and draws a relevant conclusion or offers relevant advice. Example: Someone says they are going to a bookstore. You respond: 「本屋なら、田中さんのお気に入りの店がいい。」(If it's a bookstore [as you mentioned], Tanaka-san's favorite shop is good.) The context required: the other person must have mentioned the bookstore first, or you must be able to observe they are heading there. Without that, なら is unnatural.",
+      "key_concepts": ["なら", "pre-established context", "contextual response", "conditional selection"]
+    }
+  ]
+}

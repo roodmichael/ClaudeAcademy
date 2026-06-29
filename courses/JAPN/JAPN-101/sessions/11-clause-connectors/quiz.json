@@ -1,0 +1,59 @@
+{
+  "session": "11",
+  "course": "JAPN-101",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "You are writing a polite email to your client explaining why a deliverable will be delayed. Which is more appropriate in the reason clause?",
+      "options": [
+        "A. 確認が必要だから、少し遅れます。",
+        "B. 確認が必要なので、少し遅れます。",
+        "C. 確認が必要けど、少し遅れます。",
+        "D. 確認が必要のに、少し遅れます。"
+      ],
+      "answer": "B",
+      "explanation": "ので is preferred in formal business contexts because it presents the reason as an objective circumstance rather than a personal assertion. This sounds more deferential and considerate to the client than から, which sounds more assertive. Options C and D use contrast connectors (けど = neutral contrast, のに = emotional contrast), which are wrong for expressing a causal reason."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "You studied intensively for a week but failed the JLPT exam. Which sentence best expresses your frustration?",
+      "options": [
+        "A. 一週間勉強したけど、落ちた。",
+        "B. 一週間勉強したが、落ちた。",
+        "C. 一週間勉強したのに、落ちた。",
+        "D. 一週間勉強したから、落ちた。"
+      ],
+      "answer": "C",
+      "explanation": "のに is the connector for emotional contrast — it expresses surprise, frustration, or complaint that the second clause contradicts what the first clause should logically lead to. Studying hard *should* lead to passing; failing contradicts that expectation, and the speaker feels upset about it. のに conveys this emotional weight. けど and が (options A and B) express neutral contrast without emotion. から (option D) expresses causation (wrong direction: studying caused failing)."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "The sentence 「疲れているのに、一緒に行きませんか」correctly uses のに before an invitation.",
+      "answer": false,
+      "explanation": "のに cannot precede volitional expressions, requests, or invitations. 行きませんか is an invitation. The correct connector for this sentence is けど or が: 疲れているけど、一緒に行きませんか (Even though I'm tired, won't you come with me?). のに is restricted to contexts where the second clause states a fact or makes a negative command — not where it proposes something."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "What is wrong with this sentence: 「映画を見たり、音楽を聴いたり。」",
+      "options": [
+        "A. The た-form is incorrect; the dictionary form should be used.",
+        "B. Only one item can be listed with たり.",
+        "C. The sentence lacks a closing する (or conjugated form of する).",
+        "D. たり cannot list two different types of activities."
+      ],
+      "answer": "C",
+      "explanation": "たり〜たりする requires the construction to close with する conjugated for tense. Leaving the sentence after the final たり without する is a grammatical error. The correct form: 映画を見たり、音楽を聴いたりした (past) or 映画を見たり、音楽を聴いたりする (present/general). The closing する tells the listener the action pattern is complete."
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "Explain the rule that limits the use of ながら to same-subject, simultaneous durative actions. Give one valid ながら sentence and one invalid attempt that violates this rule, explaining what the violation is.",
+      "sample_answer": "ながら requires that (1) both actions share the same grammatical subject — the same person performs both, and (2) both actions are durative (ongoing, capable of overlapping in time) — instantaneous events cannot form the background of ながら. Valid example: 「私は音楽を聴きながら料理をした」(I cooked while listening to music.) Both actions are performed by me, and both are genuinely simultaneous durative activities — I can be in the middle of cooking and in the middle of listening at the same time. Invalid example: 「先生が説明しながら、学生がメモを取った」— This violates the same-subject rule. The subject of the first clause is 先生 (teacher explains) and the subject of the second clause is 学生 (students take notes). Since they are different people, ながら is ungrammatical here. The sentence would need to be split into two sentences or restructured with a different connector.",
+      "key_concepts": ["ながら", "same subject", "simultaneous", "durative", "constraint"]
+    }
+  ]
+}

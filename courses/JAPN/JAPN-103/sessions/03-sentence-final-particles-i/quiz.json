@@ -1,0 +1,72 @@
+{
+  "session": "03",
+  "course": "JAPN-103",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "You want to tell your Japanese friend that a restaurant you both visited last week was really good. Which particle best ends this sentence: あのレストラン、美味しかった＿",
+      "options": [
+        "A. よ",
+        "B. ね",
+        "C. ぞ",
+        "D. かな"
+      ],
+      "answer": "B",
+      "explanation": "Since both of you went to the restaurant, the memory is shared. ね invites agreement around shared experience. よ would imply you're informing them of something they don't already know — condescending in this context."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "You just heard that a new coffee shop opened in the neighborhood — your friend doesn't know yet. You want to tell them. Which particle fits: あそこに新しいカフェができた＿",
+      "options": [
+        "A. ね",
+        "B. かな",
+        "C. よ",
+        "D. な"
+      ],
+      "answer": "C",
+      "explanation": "You are delivering new information the listener doesn't have. よ is the particle for informing or asserting. ね would presume the listener already knows, which they don't."
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "よね is simply a longer version of ね with no meaningful difference in nuance.",
+      "answer": false,
+      "explanation": "よね combines よ's assertiveness with ね's confirmation-seeking. It means 'I'm fairly confident of this, and I think you'd agree.' This is more confident than ね alone, which is more genuinely open to the listener's view."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "Which particle would be grammatically INCORRECT to use when expressing 'Don't touch that' in Japanese?",
+      "options": [
+        "A. な (prohibitive function: さわるな)",
+        "B. よ (さわるよ — information only)",
+        "C. ね (soft agreement-seeking only)",
+        "D. Both B and C"
+      ],
+      "answer": "D",
+      "explanation": "The prohibitive な (verb dictionary form + な) is the correct form for 'Don't do X.' よ and ね cannot carry prohibitive force — they serve entirely different functions. さわるよ means 'I'm touching it' (informing); さわるな means 'Don't touch it.'"
+    },
+    {
+      "id": "q5",
+      "type": "short_answer",
+      "question": "A student writes: 明日、パーティーがあるねって友達に教えてあげた。 What is wrong with the use of ね here, and what particle should have been used?",
+      "sample_answer": "The student used ね in a context of informing a friend about something that friend doesn't know yet. ね implies shared knowledge or shared experience — it invites agreement about something both parties are aware of. But if the friend doesn't know about the party, this is new information, and よ (明日、パーティーがあるよ) is the correct particle. Using ね here sounds presumptuous, as if the friend should already know.",
+      "key_concepts": ["ね shared information", "よ new information", "pragmatic error"]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "A Japanese speaker says to themselves after finishing a long book: 長かったなあ… (That was long…). What is the speaker doing?",
+      "options": [
+        "A. Seeking the listener's agreement about the book's length",
+        "B. Expressing soliloquy — thinking aloud, not particularly seeking a response",
+        "C. Using the prohibitive な — telling someone not to read long books",
+        "D. Expressing surprise using a sentence-final particle"
+      ],
+      "answer": "B",
+      "explanation": "な/なあ in this context is the soliloquy function — the speaker is processing their own feeling after finishing the book. The elongated なあ adds emotional weight. This is not directed at a listener for agreement; it is the speaker's internal response made audible."
+    }
+  ]
+}
